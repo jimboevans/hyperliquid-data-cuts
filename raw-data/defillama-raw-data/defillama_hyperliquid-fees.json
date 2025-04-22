@@ -12,7 +12,6 @@
   "github": [
     "hyperliquid-dex"
   ],
-  "chainSet": {},
   "childProtocols": [
     "Hyperliquid Spot Orderbook"
   ],
@@ -38,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "hyperliquid",
   "protocolType": "protocol",
-  "total24h": 513867,
-  "total48hto24h": 1085608,
-  "total7d": 8350771,
-  "totalAllTime": 301714239,
+  "total24h": 1487931,
+  "total48hto24h": 634619,
+  "total7d": 7037594,
+  "totalAllTime": 305345844,
   "totalDataChart": [
     [
       1734912000,
@@ -509,7 +508,19 @@
     ],
     [
       1745020800,
-      572891
+      585204
+    ],
+    [
+      1745107200,
+      634619
+    ],
+    [
+      1745193600,
+      1487931
+    ],
+    [
+      1745280000,
+      1614589
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1445,10 +1456,34 @@
       1745020800,
       {
         "hyperliquid": {
-          "Hyperliquid Spot Orderbook": 572891
+          "Hyperliquid Spot Orderbook": 585204
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 634619
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 1487931
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 1614589
         }
       }
     ]
   ],
-  "change_1d": -52.67
+  "change_1d": 134.46
 }

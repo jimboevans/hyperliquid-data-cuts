@@ -21,7 +21,6 @@
   "twitter": "pumpdotfun",
   "parentProtocol": "parent#pump",
   "listedAt": 1712427917,
-  "chainSet": {},
   "defillamaId": "4449",
   "disabled": false,
   "displayName": "pump.fun",
@@ -41,10 +40,10 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 120449529,
-  "total48hto24h": 142910792,
-  "total7d": 914884145,
-  "totalAllTime": 25243735283,
+  "total24h": 141515231,
+  "total48hto24h": 99793300,
+  "total7d": 869860533,
+  "totalAllTime": 25577565828,
   "totalDataChart": [
     [
       1732320000,
@@ -636,7 +635,19 @@
     ],
     [
       1745020800,
-      120449529
+      112957792
+    ],
+    [
+      1745107200,
+      99793300
+    ],
+    [
+      1745193600,
+      100013751
+    ],
+    [
+      1745280000,
+      141515231
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1820,10 +1831,34 @@
       1745020800,
       {
         "solana": {
-          "pump.fun": 120449529
+          "pump.fun": 112957792
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "solana": {
+          "pump.fun": 99793300
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "solana": {
+          "pump.fun": 100013751
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "solana": {
+          "pump.fun": 141515231
         }
       }
     ]
   ],
-  "change_1d": -15.72
+  "change_1d": 41.81
 }
