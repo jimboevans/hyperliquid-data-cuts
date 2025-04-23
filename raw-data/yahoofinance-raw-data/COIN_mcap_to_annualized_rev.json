@@ -1,0 +1,2284 @@
+{
+  "2024-01-02": {
+    "coin_market_cap": 32969118681.1875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.641563093009372,
+    "coin_7d_avg": null
+  },
+  "2024-01-03": {
+    "coin_market_cap": 31993999572.335938,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.385973813119154,
+    "coin_7d_avg": null
+  },
+  "2024-01-04": {
+    "coin_market_cap": 32700120527.484375,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.571055763419912,
+    "coin_7d_avg": null
+  },
+  "2024-01-05": {
+    "coin_market_cap": 32359667233.960938,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.481819267756944,
+    "coin_7d_avg": null
+  },
+  "2024-01-08": {
+    "coin_market_cap": 33502910990.554688,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.781475838768992,
+    "coin_7d_avg": null
+  },
+  "2024-01-09": {
+    "coin_market_cap": 31941460820.335938,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.372202837175687,
+    "coin_7d_avg": null
+  },
+  "2024-01-10": {
+    "coin_market_cap": 31794349749.367188,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.333643432123042,
+    "coin_7d_avg": 8.509676292196158
+  },
+  "2024-01-11": {
+    "coin_market_cap": 29665481698.890625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.7756440584430155,
+    "coin_7d_avg": 8.385973572972391
+  },
+  "2024-01-12": {
+    "coin_market_cap": 27484071689.703125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.2038728683058535,
+    "coin_7d_avg": 8.217102009427633
+  },
+  "2024-01-16": {
+    "coin_market_cap": 28135553497.1875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.374633306210323,
+    "coin_7d_avg": 8.04618451554055
+  },
+  "2024-01-17": {
+    "coin_market_cap": 28131349499.148438,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.373531392791018,
+    "coin_7d_avg": 7.887857676259704
+  },
+  "2024-01-18": {
+    "coin_market_cap": 26130672925.109375,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.849132393519932,
+    "coin_7d_avg": 7.611808612652696
+  },
+  "2024-01-19": {
+    "coin_market_cap": 26216837248.0,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.8717169957905,
+    "coin_7d_avg": 7.3974534924548125
+  },
+  "2024-01-22": {
+    "coin_market_cap": 26943974986.632812,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.062307672674111,
+    "coin_7d_avg": 7.215834098247822
+  },
+  "2024-01-23": {
+    "coin_market_cap": 26099150956.59375,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.840870144159319,
+    "coin_7d_avg": 7.082294967635865
+  },
+  "2024-01-24": {
+    "coin_market_cap": 25500207901.109375,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.683880682198317,
+    "coin_7d_avg": 7.008010369620502
+  },
+  "2024-01-25": {
+    "coin_market_cap": 25430857967.01953,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.665703313348133,
+    "coin_7d_avg": 6.906734656354475
+  },
+  "2024-01-26": {
+    "coin_market_cap": 26311406360.257812,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.896504584386008,
+    "coin_7d_avg": 6.838587969439474
+  },
+  "2024-01-29": {
+    "coin_market_cap": 27912789701.78125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.316244502692206,
+    "coin_7d_avg": 6.9053182707498
+  },
+  "2024-01-30": {
+    "coin_market_cap": 27492479685.78125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.206076695144462,
+    "coin_7d_avg": 6.95308394208608
+  },
+  "2024-01-31": {
+    "coin_market_cap": 26941871384.257812,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.061756295707624,
+    "coin_7d_avg": 6.953005173948009
+  },
+  "2024-02-01": {
+    "coin_market_cap": 27099487640.257812,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.103069223538028,
+    "coin_7d_avg": 6.990462185287826
+  },
+  "2024-02-02": {
+    "coin_market_cap": 27156230390.296875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.1179421129008,
+    "coin_7d_avg": 7.052470961102466
+  },
+  "2024-02-05": {
+    "coin_market_cap": 24651183079.742188,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.461342080777889,
+    "coin_7d_avg": 7.023276499306717
+  },
+  "2024-02-06": {
+    "coin_market_cap": 25174468600.722656,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.598500883502917,
+    "coin_7d_avg": 6.980704542037704
+  },
+  "2024-02-07": {
+    "coin_market_cap": 25653621762.42578,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 6.724092116866251,
+    "coin_7d_avg": 6.896111344062567
+  },
+  "2024-02-08": {
+    "coin_market_cap": 27856046951.742188,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.301371613329433,
+    "coin_7d_avg": 6.909724903803278
+  },
+  "2024-02-09": {
+    "coin_market_cap": 29839910740.335938,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.82136379943697,
+    "coin_7d_avg": 7.018240261478899
+  },
+  "2024-02-12": {
+    "coin_market_cap": 30957933715.40625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.11440973044686,
+    "coin_7d_avg": 7.162717476751588
+  },
+  "2024-02-13": {
+    "coin_market_cap": 29503661444.851562,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 7.7332292171933075,
+    "coin_7d_avg": 7.2506156345076604
+  },
+  "2024-02-14": {
+    "coin_market_cap": 33704661209.1875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.834356756217923,
+    "coin_7d_avg": 7.589617730999094
+  },
+  "2024-02-15": {
+    "coin_market_cap": 34816379790.55469,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 9.125750237355692,
+    "coin_7d_avg": 7.950653352978061
+  },
+  "2024-02-16": {
+    "coin_market_cap": 37893048979.40625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 9.932178554984628,
+    "coin_7d_avg": 8.408951415566403
+  },
+  "2024-02-20": {
+    "coin_market_cap": 36419863527.74219,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 9.546040692114707,
+    "coin_7d_avg": 8.72961842682144
+  },
+  "2024-02-21": {
+    "coin_market_cap": 34131275618.890625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 8.94617701363779,
+    "coin_7d_avg": 8.89030602885013
+  },
+  "2024-02-22": {
+    "coin_market_cap": 35917593186.890625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 9.4143901957157,
+    "coin_7d_avg": 9.076017523888535
+  },
+  "2024-02-23": {
+    "coin_market_cap": 34881527329.96094,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 9.142826113043405,
+    "coin_7d_avg": 9.27738850900998
+  },
+  "2024-02-26": {
+    "coin_market_cap": 40757462764.59375,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 10.682972432386872,
+    "coin_7d_avg": 9.541476462748397
+  },
+  "2024-02-27": {
+    "coin_market_cap": 41867080950.296875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 10.973815377071823,
+    "coin_7d_avg": 9.80548576842213
+  },
+  "2024-02-28": {
+    "coin_market_cap": 42199126247.74219,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 11.06084804589618,
+    "coin_7d_avg": 9.966724267123782
+  },
+  "2024-02-29": {
+    "coin_market_cap": 42779152915.40625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 11.212879317727145,
+    "coin_7d_avg": 10.204844070782702
+  },
+  "2024-03-01": {
+    "coin_market_cap": 43243596894.03906,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 11.334615114893415,
+    "coin_7d_avg": 10.546049513819218
+  },
+  "2024-03-04": {
+    "coin_market_cap": 48157018800.515625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 12.622476213577242,
+    "coin_7d_avg": 11.004347516370869
+  },
+  "2024-03-05": {
+    "coin_market_cap": 45555301982.03906,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 11.940538056406005,
+    "coin_7d_avg": 11.404020651136952
+  },
+  "2024-03-06": {
+    "coin_market_cap": 50132477799.74219,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 13.140265413359838,
+    "coin_7d_avg": 11.755062505561664
+  },
+  "2024-03-07": {
+    "coin_market_cap": 50987807014.8125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 13.364456464652388,
+    "coin_7d_avg": 12.096582660930318
+  },
+  "2024-03-08": {
+    "coin_market_cap": 53929977126.8125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.135631117486593,
+    "coin_7d_avg": 12.535837385443234
+  },
+  "2024-03-11": {
+    "coin_market_cap": 53415097998.55469,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.000675721343342,
+    "coin_7d_avg": 12.934094014531263
+  },
+  "2024-03-12": {
+    "coin_market_cap": 53829106827.5625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.10919191953263,
+    "coin_7d_avg": 13.330462129479722
+  },
+  "2024-03-13": {
+    "coin_market_cap": 52902319265.96094,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 13.866270861652907,
+    "coin_7d_avg": 13.508147079204816
+  },
+  "2024-03-14": {
+    "coin_market_cap": 49106920334.55469,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 12.87145569397897,
+    "coin_7d_avg": 13.64113531314381
+  },
+  "2024-03-15": {
+    "coin_market_cap": 50933167867.14844,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 13.350134952256102,
+    "coin_7d_avg": 13.671116675843276
+  },
+  "2024-03-18": {
+    "coin_market_cap": 50357341990.8125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 13.199204753330774,
+    "coin_7d_avg": 13.647509288511616
+  },
+  "2024-03-19": {
+    "coin_market_cap": 48360869414.8125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 12.675907667478992,
+    "coin_7d_avg": 13.43897736708196
+  },
+  "2024-03-20": {
+    "coin_market_cap": 53984619481.1875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.149953470396547,
+    "coin_7d_avg": 13.460302759803849
+  },
+  "2024-03-21": {
+    "coin_market_cap": 55060612096.0,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.431982788754397,
+    "coin_7d_avg": 13.506415741121243
+  },
+  "2024-03-22": {
+    "coin_market_cap": 53696704939.66406,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.07448795067705,
+    "coin_7d_avg": 13.536161039553264
+  },
+  "2024-03-25": {
+    "coin_market_cap": 58782455491.921875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 15.407518253902012,
+    "coin_7d_avg": 13.898455690970838
+  },
+  "2024-03-26": {
+    "coin_market_cap": 56071457171.40625,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.696936231424534,
+    "coin_7d_avg": 14.090855873709186
+  },
+  "2024-03-27": {
+    "coin_market_cap": 53946793118.96875,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.14003877116381,
+    "coin_7d_avg": 14.22526073339962
+  },
+  "2024-03-28": {
+    "coin_market_cap": 55716294694.8125,
+    "coin_total_revenue": 953795000.0,
+    "coin_annualized_total_revenue": 3815180000.0,
+    "coin_mcap_to_annualized_total_rev": 14.603844299564503,
+    "coin_7d_avg": 14.500680252268978
+  },
+  "2024-04-01": {
+    "coin_market_cap": 52982179195.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.0885365503686,
+    "coin_7d_avg": 13.634763549407845
+  },
+  "2024-04-02": {
+    "coin_market_cap": 51664506397.109375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.887373730147318,
+    "coin_7d_avg": 12.699819398178262
+  },
+  "2024-04-03": {
+    "coin_market_cap": 52870797297.44531,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.071532407384924,
+    "coin_7d_avg": 11.8422543205651
+  },
+  "2024-04-04": {
+    "coin_market_cap": 52456791675.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.008328144010399,
+    "coin_7d_avg": 10.785227162009155
+  },
+  "2024-04-05": {
+    "coin_market_cap": 50626340144.515625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.72888184085499,
+    "coin_7d_avg": 9.78979082049922
+  },
+  "2024-04-08": {
+    "coin_market_cap": 54007733453.625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.245103026683593,
+    "coin_7d_avg": 8.947657142716333
+  },
+  "2024-04-09": {
+    "coin_market_cap": 51057158552.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.794652831979367,
+    "coin_7d_avg": 7.974915504489885
+  },
+  "2024-04-10": {
+    "coin_market_cap": 52746806612.33594,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.05260334097717,
+    "coin_7d_avg": 7.969782188862538
+  },
+  "2024-04-11": {
+    "coin_market_cap": 55272870706.375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.438245495822317,
+    "coin_7d_avg": 8.048478155387537
+  },
+  "2024-04-12": {
+    "coin_market_cap": 51645593216.0,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.884486345011205,
+    "coin_7d_avg": 8.021757289334149
+  },
+  "2024-04-15": {
+    "coin_market_cap": 46950731106.890625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.1677441432871,
+    "coin_7d_avg": 7.9016738606593915
+  },
+  "2024-04-16": {
+    "coin_market_cap": 45988220785.44531,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.0208022840924835,
+    "coin_7d_avg": 7.800519638264747
+  },
+  "2024-04-17": {
+    "coin_market_cap": 44926937353.703125,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.858781205338264,
+    "coin_7d_avg": 7.602473663786845
+  },
+  "2024-04-18": {
+    "coin_market_cap": 45830604529.44531,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.996739762185023,
+    "coin_7d_avg": 7.488486082387651
+  },
+  "2024-04-19": {
+    "coin_market_cap": 44344807083.66406,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.769910154018464,
+    "coin_7d_avg": 7.305244198536407
+  },
+  "2024-04-22": {
+    "coin_market_cap": 47465610235.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.246348283607485,
+    "coin_7d_avg": 7.134973168220005
+  },
+  "2024-04-23": {
+    "coin_market_cap": 49686947002.21875,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.585469171122265,
+    "coin_7d_avg": 7.092256429093012
+  },
+  "2024-04-24": {
+    "coin_market_cap": 47152478118.8125,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.198543897178823,
+    "coin_7d_avg": 7.096656393934687
+  },
+  "2024-04-25": {
+    "coin_market_cap": 46992761467.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.174160717885104,
+    "coin_7d_avg": 7.1185647416193465
+  },
+  "2024-04-26": {
+    "coin_market_cap": 49663833029.78125,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.581940471213636,
+    "coin_7d_avg": 7.221873208172971
+  },
+  "2024-04-29": {
+    "coin_market_cap": 45847417314.890625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.9993064899348765,
+    "coin_7d_avg": 7.222239883565806
+  },
+  "2024-04-30": {
+    "coin_market_cap": 42856909242.21875,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.542759888465646,
+    "coin_7d_avg": 7.189789845629691
+  },
+  "2024-05-01": {
+    "coin_market_cap": 44151464861.109375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.740393519225037,
+    "coin_7d_avg": 7.117510593575055
+  },
+  "2024-05-02": {
+    "coin_market_cap": 48093974863.484375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.342277713851068,
+    "coin_7d_avg": 7.082768956822028
+  },
+  "2024-05-03": {
+    "coin_market_cap": 46917105536.0,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.162610687787392,
+    "coin_7d_avg": 7.07763564119468
+  },
+  "2024-05-06": {
+    "coin_market_cap": 47690474426.21875,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.2806772269610995,
+    "coin_7d_avg": 7.0928522853483935
+  },
+  "2024-05-07": {
+    "coin_market_cap": 45044623645.109375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.876747810033979,
+    "coin_7d_avg": 6.992110476608444
+  },
+  "2024-05-08": {
+    "coin_market_cap": 44384737048.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.776006071230209,
+    "coin_7d_avg": 6.9602104167934895
+  },
+  "2024-05-09": {
+    "coin_market_cap": 44227120792.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.751943549322748,
+    "coin_7d_avg": 6.990093796915933
+  },
+  "2024-05-10": {
+    "coin_market_cap": 42224343822.55469,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.446189143449545,
+    "coin_7d_avg": 6.9480646003765765
+  },
+  "2024-05-13": {
+    "coin_market_cap": 41928024491.66406,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.4009514847707365,
+    "coin_7d_avg": 6.8135894247936735
+  },
+  "2024-05-14": {
+    "coin_market_cap": 42671975015.74219,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.514526862323777,
+    "coin_7d_avg": 6.721006021156014
+  },
+  "2024-05-15": {
+    "coin_market_cap": 46215188578.890625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.0554523743856175,
+    "coin_7d_avg": 6.688831042216658
+  },
+  "2024-05-16": {
+    "coin_market_cap": 41856572558.55469,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.390043258998804,
+    "coin_7d_avg": 6.619301820640204
+  },
+  "2024-05-17": {
+    "coin_market_cap": 43628180943.484375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.660506259806356,
+    "coin_7d_avg": 6.602801847579655
+  },
+  "2024-05-20": {
+    "coin_market_cap": 47324806764.59375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.224852489449878,
+    "coin_7d_avg": 6.6703602675978155
+  },
+  "2024-05-21": {
+    "coin_market_cap": 47448797449.703125,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.243781555857631,
+    "coin_7d_avg": 6.784302040798972
+  },
+  "2024-05-22": {
+    "coin_market_cap": 48652984747.66406,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.427619086155715,
+    "coin_7d_avg": 6.930968840996826
+  },
+  "2024-05-23": {
+    "coin_market_cap": 45994525179.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.021764745804521,
+    "coin_7d_avg": 7.003431395779789
+  },
+  "2024-05-24": {
+    "coin_market_cap": 49943336368.515625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.624610912589328,
+    "coin_7d_avg": 7.0847397583803176
+  },
+  "2024-05-28": {
+    "coin_market_cap": 51487976960.0,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.860423823103745,
+    "coin_7d_avg": 7.294794124681024
+  },
+  "2024-05-29": {
+    "coin_market_cap": 49733181360.515625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.592527550046047,
+    "coin_7d_avg": 7.427940023286696
+  },
+  "2024-05-30": {
+    "coin_market_cap": 49335988523.66406,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.531890014421378,
+    "coin_7d_avg": 7.471802526854053
+  },
+  "2024-05-31": {
+    "coin_market_cap": 47478219022.55469,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.24827320703156,
+    "coin_7d_avg": 7.4724441913074715
+  },
+  "2024-06-03": {
+    "coin_market_cap": 48627767172.85156,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.423769239307566,
+    "coin_7d_avg": 7.471894213186306
+  },
+  "2024-06-04": {
+    "coin_market_cap": 51319852312.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.834757035158469,
+    "coin_7d_avg": 7.588035968808299
+  },
+  "2024-06-05": {
+    "coin_market_cap": 52832967728.515625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.065757147559436,
+    "coin_7d_avg": 7.651056859518314
+  },
+  "2024-06-06": {
+    "coin_market_cap": 54026646634.734375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.247990411819705,
+    "coin_7d_avg": 7.706423515049166
+  },
+  "2024-06-07": {
+    "coin_market_cap": 51311447522.890625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.833473916060172,
+    "coin_7d_avg": 7.740844424479755
+  },
+  "2024-06-10": {
+    "coin_market_cap": 52498822035.40625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.014744718608403,
+    "coin_7d_avg": 7.809823667935045
+  },
+  "2024-06-11": {
+    "coin_market_cap": 51319852312.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.834757035158469,
+    "coin_7d_avg": 7.893607071953175
+  },
+  "2024-06-12": {
+    "coin_market_cap": 53581122250.63281,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 8.179974329438254,
+    "coin_7d_avg": 8.001636370543272
+  },
+  "2024-06-13": {
+    "coin_market_cap": 52042786052.85156,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.945123880635875,
+    "coin_7d_avg": 8.01740306275433
+  },
+  "2024-06-14": {
+    "coin_market_cap": 51382899456.0,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.844382141832105,
+    "coin_7d_avg": 7.9857780619361405
+  },
+  "2024-06-17": {
+    "coin_market_cap": 51508993743.484375,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.863632355179377,
+    "coin_7d_avg": 7.930869768130379
+  },
+  "2024-06-18": {
+    "coin_market_cap": 49586073496.25781,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.570069294176403,
+    "coin_7d_avg": 7.893240536432699
+  },
+  "2024-06-20": {
+    "coin_market_cap": 49392731273.703125,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.540552659382977,
+    "coin_7d_avg": 7.825498813686209
+  },
+  "2024-06-21": {
+    "coin_market_cap": 47465610235.14844,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.246348283607485,
+    "coin_7d_avg": 7.741440420607497
+  },
+  "2024-06-24": {
+    "coin_market_cap": 44618009235.40625,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.811618623235381,
+    "coin_7d_avg": 7.545961034007085
+  },
+  "2024-06-25": {
+    "coin_market_cap": 46593468234.63281,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.1132025248741755,
+    "coin_7d_avg": 7.42711512604113
+  },
+  "2024-06-26": {
+    "coin_market_cap": 45095062001.44531,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 6.8844479932835405,
+    "coin_7d_avg": 7.289981676248478
+  },
+  "2024-06-27": {
+    "coin_market_cap": 47074721792.0,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.1866732096948525,
+    "coin_7d_avg": 7.193273226893545
+  },
+  "2024-06-28": {
+    "coin_market_cap": 46702746529.96094,
+    "coin_total_revenue": 1637570000.0,
+    "coin_annualized_total_revenue": 6550280000.0,
+    "coin_mcap_to_annualized_total_rev": 7.129885520918333,
+    "coin_7d_avg": 7.130389830713821
+  },
+  "2024-07-01": {
+    "coin_market_cap": 49043873190.8125,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.458010122392176,
+    "coin_7d_avg": 7.261455182572278
+  },
+  "2024-07-02": {
+    "coin_market_cap": 47812364715.66406,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.245626587590758,
+    "coin_7d_avg": 7.404209225998459
+  },
+  "2024-07-03": {
+    "coin_market_cap": 47272268012.59375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.152482570113461,
+    "coin_7d_avg": 7.5957612184096135
+  },
+  "2024-07-05": {
+    "coin_market_cap": 47007470650.21875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.106816136660361,
+    "coin_7d_avg": 7.737706020093355
+  },
+  "2024-07-08": {
+    "coin_market_cap": 46351788051.40625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.993738402439496,
+    "coin_7d_avg": 7.896176078544206
+  },
+  "2024-07-09": {
+    "coin_market_cap": 46227797366.296875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.972355212215975,
+    "coin_7d_avg": 8.008416364618652
+  },
+  "2024-07-10": {
+    "coin_market_cap": 46141633043.40625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.957495482186852,
+    "coin_7d_avg": 8.126646359085582
+  },
+  "2024-07-11": {
+    "coin_market_cap": 45105570393.1875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.778818150792393,
+    "coin_7d_avg": 8.029618934571328
+  },
+  "2024-07-12": {
+    "coin_market_cap": 45817995742.03906,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.901681628327934,
+    "coin_7d_avg": 7.980483940390926
+  },
+  "2024-07-15": {
+    "coin_market_cap": 51036144975.484375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.801593404563857,
+    "coin_7d_avg": 8.073214059598126
+  },
+  "2024-07-16": {
+    "coin_market_cap": 52851884116.33594,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 9.114732213425778,
+    "coin_7d_avg": 8.217202070564612
+  },
+  "2024-07-17": {
+    "coin_market_cap": 52349613775.484375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 9.028111656142881,
+    "coin_7d_avg": 8.364969678236525
+  },
+  "2024-07-18": {
+    "coin_market_cap": 49016555220.33594,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.453298918815022,
+    "coin_7d_avg": 8.433675922036388
+  },
+  "2024-07-19": {
+    "coin_market_cap": 54175861308.078125,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 9.34306272162205,
+    "coin_7d_avg": 8.63161409909856
+  },
+  "2024-07-22": {
+    "coin_market_cap": 55722599088.515625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 9.60981008377936,
+    "coin_7d_avg": 8.893184375239553
+  },
+  "2024-07-23": {
+    "coin_market_cap": 54142235737.1875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 9.33726372165609,
+    "coin_7d_avg": 9.098267531429292
+  },
+  "2024-07-24": {
+    "coin_market_cap": 51500585747.40625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.881689948629278,
+    "coin_7d_avg": 9.10970989486721
+  },
+  "2024-07-25": {
+    "coin_market_cap": 48655088350.03906,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.390961051738628,
+    "coin_7d_avg": 9.006314014626188
+  },
+  "2024-07-26": {
+    "coin_market_cap": 51052954554.21875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.804492351523761,
+    "coin_7d_avg": 8.974368399680598
+  },
+  "2024-07-29": {
+    "coin_market_cap": 49218302232.25781,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.48809181256464,
+    "coin_7d_avg": 8.9793388130734
+  },
+  "2024-07-30": {
+    "coin_market_cap": 47171394506.63281,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.135086123238654,
+    "coin_7d_avg": 8.80677072759006
+  },
+  "2024-07-31": {
+    "coin_market_cap": 47150377723.14844,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 8.131461610004159,
+    "coin_7d_avg": 8.595578088479316
+  },
+  "2024-08-01": {
+    "coin_market_cap": 44687360772.85156,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.706694540401324,
+    "coin_7d_avg": 8.362639634014348
+  },
+  "2024-08-02": {
+    "coin_market_cap": 42964090348.59375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.4095027049342574,
+    "coin_7d_avg": 8.152327170629347
+  },
+  "2024-08-05": {
+    "coin_market_cap": 39818069622.296875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.866946144510329,
+    "coin_7d_avg": 7.9346107553110174
+  },
+  "2024-08-06": {
+    "coin_market_cap": 40805797518.55469,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.037287759093141,
+    "coin_7d_avg": 7.682152956392358
+  },
+  "2024-08-07": {
+    "coin_market_cap": 37598833250.890625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.4842209951260985,
+    "coin_7d_avg": 7.39588569675828
+  },
+  "2024-08-08": {
+    "coin_market_cap": 40417012677.78125,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.970238688439594,
+    "coin_7d_avg": 7.2294789203584156
+  },
+  "2024-08-09": {
+    "coin_market_cap": 41251325109.36719,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.114122573061363,
+    "coin_7d_avg": 7.0841447722237305
+  },
+  "2024-08-12": {
+    "coin_market_cap": 40295122388.33594,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.949217728330292,
+    "coin_7d_avg": 6.975933799070725
+  },
+  "2024-08-13": {
+    "coin_market_cap": 41598082796.59375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.17392372329207,
+    "coin_7d_avg": 6.942279658836126
+  },
+  "2024-08-14": {
+    "coin_market_cap": 41181976778.63281,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.102162896038296,
+    "coin_7d_avg": 6.97588205191155
+  },
+  "2024-08-15": {
+    "coin_market_cap": 41425754150.8125,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.144204263233826,
+    "coin_7d_avg": 6.991155838217362
+  },
+  "2024-08-16": {
+    "coin_market_cap": 43146924179.40625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.441033868586674,
+    "coin_7d_avg": 7.127843391568873
+  },
+  "2024-08-19": {
+    "coin_market_cap": 42968294346.63281,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.410227718185771,
+    "coin_7d_avg": 7.190698967246898
+  },
+  "2024-08-20": {
+    "coin_market_cap": 41453075328.0,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.148916019834054,
+    "coin_7d_avg": 7.195669459642998
+  },
+  "2024-08-21": {
+    "coin_market_cap": 43340266401.96094,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.474377288856338,
+    "coin_7d_avg": 7.270692254003862
+  },
+  "2024-08-22": {
+    "coin_market_cap": 41701056698.21875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.191682400281098,
+    "coin_7d_avg": 7.273229207859437
+  },
+  "2024-08-23": {
+    "coin_market_cap": 44426767408.515625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.661753120199738,
+    "coin_7d_avg": 7.353170668453928
+  },
+  "2024-08-26": {
+    "coin_market_cap": 42871621632.0,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.393555731539402,
+    "coin_7d_avg": 7.388792306783296
+  },
+  "2024-08-27": {
+    "coin_market_cap": 41673738727.74219,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 7.186971196703945,
+    "coin_7d_avg": 7.352497639371478
+  },
+  "2024-08-28": {
+    "coin_market_cap": 39971481880.25781,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.8934033214482975,
+    "coin_7d_avg": 7.278665582694695
+  },
+  "2024-08-29": {
+    "coin_market_cap": 39567984649.703125,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.82381698092599,
+    "coin_7d_avg": 7.232222862850686
+  },
+  "2024-08-30": {
+    "coin_market_cap": 38534022395.14844,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.64550187964575,
+    "coin_7d_avg": 7.113812090106316
+  },
+  "2024-09-03": {
+    "coin_market_cap": 35543517529.1875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.129765279297085,
+    "coin_7d_avg": 6.962109644251457
+  },
+  "2024-09-04": {
+    "coin_market_cap": 34301500662.296875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.91556948787842,
+    "coin_7d_avg": 6.712654839634127
+  },
+  "2024-09-05": {
+    "coin_market_cap": 33561754136.257812,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.787994253742652,
+    "coin_7d_avg": 6.483288914234592
+  },
+  "2024-09-06": {
+    "coin_market_cap": 30966341711.484375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.340394520436342,
+    "coin_7d_avg": 6.219492246196362
+  },
+  "2024-09-09": {
+    "coin_market_cap": 32584534631.742188,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.619464895777087,
+    "coin_7d_avg": 6.037501042529046
+  },
+  "2024-09-10": {
+    "coin_market_cap": 33301163978.632812,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.743053386564141,
+    "coin_7d_avg": 5.883106243334496
+  },
+  "2024-09-11": {
+    "coin_market_cap": 33025858224.515625,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.695574696493795,
+    "coin_7d_avg": 5.747402360027074
+  },
+  "2024-09-12": {
+    "coin_market_cap": 34232149124.851562,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.9036092578322785,
+    "coin_7d_avg": 5.715094356960674
+  },
+  "2024-09-13": {
+    "coin_market_cap": 34265774695.742188,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.90940825779824,
+    "coin_7d_avg": 5.714214181234934
+  },
+  "2024-09-16": {
+    "coin_market_cap": 33940033792.0,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.853231620802027,
+    "coin_7d_avg": 5.723533805100559
+  },
+  "2024-09-17": {
+    "coin_market_cap": 34139680408.257812,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.887662284437424,
+    "coin_7d_avg": 5.80171491424357
+  },
+  "2024-09-18": {
+    "coin_market_cap": 34179610372.851562,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 5.894548527769118,
+    "coin_7d_avg": 5.841012575956718
+  },
+  "2024-09-19": {
+    "coin_market_cap": 35356479700.33594,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.097509102393155,
+    "coin_7d_avg": 5.891649106789434
+  },
+  "2024-09-20": {
+    "coin_market_cap": 35745264541.109375,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.164558173046702,
+    "coin_7d_avg": 5.958646746296991
+  },
+  "2024-09-23": {
+    "coin_market_cap": 35772585718.296875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.169269929646929,
+    "coin_7d_avg": 5.996598270841942
+  },
+  "2024-09-24": {
+    "coin_market_cap": 36079410234.21875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.222184283522868,
+    "coin_7d_avg": 6.041280560231174
+  },
+  "2024-09-25": {
+    "coin_market_cap": 35112699121.44531,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.055467182174549,
+    "coin_7d_avg": 6.070171354712964
+  },
+  "2024-09-26": {
+    "coin_market_cap": 37813189050.21875,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.521188375607181,
+    "coin_7d_avg": 6.160675082022928
+  },
+  "2024-09-27": {
+    "coin_market_cap": 40187941281.96094,
+    "coin_total_revenue": 1449628000.0,
+    "coin_annualized_total_revenue": 5798512000.0,
+    "coin_mcap_to_annualized_total_rev": 6.930733485066675,
+    "coin_7d_avg": 6.308701504494009
+  },
+  "2024-09-30": {
+    "coin_market_cap": 37443317390.55469,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.767079088277705,
+    "coin_7d_avg": 6.5472115024775155
+  },
+  "2024-10-01": {
+    "coin_market_cap": 34677676715.66406,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.193386601910246,
+    "coin_7d_avg": 6.694186992315165
+  },
+  "2024-10-02": {
+    "coin_market_cap": 34564194422.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.169846327994121,
+    "coin_7d_avg": 6.837126477793335
+  },
+  "2024-10-03": {
+    "coin_market_cap": 34276283087.484375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.110123251521618,
+    "coin_7d_avg": 6.963974901793157
+  },
+  "2024-10-04": {
+    "coin_market_cap": 35917593186.890625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.450589487926544,
+    "coin_7d_avg": 7.1632780883291565
+  },
+  "2024-10-07": {
+    "coin_market_cap": 35499383566.55469,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.3638379011815305,
+    "coin_7d_avg": 7.283656591982635
+  },
+  "2024-10-08": {
+    "coin_market_cap": 35240893804.59375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.310217907960333,
+    "coin_7d_avg": 7.337868652396016
+  },
+  "2024-10-09": {
+    "coin_market_cap": 35089581942.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.278830432614709,
+    "coin_7d_avg": 7.2681188444441585
+  },
+  "2024-10-10": {
+    "coin_market_cap": 34522164062.03906,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.161127732661711,
+    "coin_7d_avg": 7.2635104345515105
+  },
+  "2024-10-11": {
+    "coin_market_cap": 37067141337.1875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.6890467620512855,
+    "coin_7d_avg": 7.337681925131105
+  },
+  "2024-10-14": {
+    "coin_market_cap": 41263937103.484375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.559611842975436,
+    "coin_7d_avg": 7.544751723910221
+  },
+  "2024-10-15": {
+    "coin_market_cap": 41261833501.109375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.559175480837794,
+    "coin_7d_avg": 7.703121151468971
+  },
+  "2024-10-16": {
+    "coin_market_cap": 44233425185.96094,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.175589549964391,
+    "coin_7d_avg": 7.961942815580808
+  },
+  "2024-10-17": {
+    "coin_market_cap": 42913651992.25781,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.90182153237237,
+    "coin_7d_avg": 8.189314761925386
+  },
+  "2024-10-18": {
+    "coin_market_cap": 46278235722.63281,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.599756164081771,
+    "coin_7d_avg": 8.520875580706393
+  },
+  "2024-10-21": {
+    "coin_market_cap": 44914328566.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.3168331890197,
+    "coin_7d_avg": 8.828833503043251
+  },
+  "2024-10-22": {
+    "coin_market_cap": 44283863542.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.186052263474995,
+    "coin_7d_avg": 9.042691431818065
+  },
+  "2024-10-23": {
+    "coin_market_cap": 41806134202.21875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.672082853580038,
+    "coin_7d_avg": 9.058758719047294
+  },
+  "2024-10-24": {
+    "coin_market_cap": 43956022242.890625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.118046288621537,
+    "coin_7d_avg": 9.138597405873544
+  },
+  "2024-10-25": {
+    "coin_market_cap": 43090181429.36719,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.938440031880203,
+    "coin_7d_avg": 9.104718903290088
+  },
+  "2024-10-28": {
+    "coin_market_cap": 45414498511.484375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.420586269478079,
+    "coin_7d_avg": 9.178828151448046
+  },
+  "2024-10-29": {
+    "coin_market_cap": 46162649826.890625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.575779528028006,
+    "coin_7d_avg": 9.175402917726078
+  },
+  "2024-10-30": {
+    "coin_market_cap": 44498222548.33594,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 9.230517964412327,
+    "coin_7d_avg": 9.1630721713536
+  },
+  "2024-10-31": {
+    "coin_market_cap": 37670285184.0,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.814160301296141,
+    "coin_7d_avg": 8.967087605328048
+  },
+  "2024-11-01": {
+    "coin_market_cap": 38433148889.1875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 7.972405434064814,
+    "coin_7d_avg": 8.867133688254444
+  },
+  "2024-11-04": {
+    "coin_market_cap": 39145574238.03906,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.120187853322884,
+    "coin_7d_avg": 8.72458248321178
+  },
+  "2024-11-05": {
+    "coin_market_cap": 40761666762.63281,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 8.4554230655656,
+    "coin_7d_avg": 8.65558005945255
+  },
+  "2024-11-06": {
+    "coin_market_cap": 53444519571.40625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.086298951994877,
+    "coin_7d_avg": 8.893539014097808
+  },
+  "2024-11-07": {
+    "coin_market_cap": 53711417329.44531,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.141663063394269,
+    "coin_7d_avg": 9.117236662007274
+  },
+  "2024-11-08": {
+    "coin_market_cap": 56897364813.625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.80254216827201,
+    "coin_7d_avg": 9.484668691130084
+  },
+  "2024-11-11": {
+    "coin_market_cap": 68140657741.625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 14.134802007152588,
+    "coin_7d_avg": 10.387617506252436
+  },
+  "2024-11-12": {
+    "coin_market_cap": 67066768729.1875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.912039135886845,
+    "coin_7d_avg": 11.236136606512726
+  },
+  "2024-11-13": {
+    "coin_market_cap": 59835334134.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.411981760244391,
+    "coin_7d_avg": 11.849250021787226
+  },
+  "2024-11-14": {
+    "coin_market_cap": 58599621661.109375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.15565093331719,
+    "coin_7d_avg": 12.377854002894596
+  },
+  "2024-11-15": {
+    "coin_market_cap": 64275910479.484375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.333115625357179,
+    "coin_7d_avg": 12.698827813374924
+  },
+  "2024-11-18": {
+    "coin_market_cap": 68386541922.890625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 14.185807153478867,
+    "coin_7d_avg": 13.133705540529865
+  },
+  "2024-11-19": {
+    "coin_market_cap": 68210012485.78125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 14.149188653971034,
+    "coin_7d_avg": 13.468940752772584
+  },
+  "2024-11-20": {
+    "coin_market_cap": 67251706162.375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.950401753572871,
+    "coin_7d_avg": 13.442597859404056
+  },
+  "2024-11-21": {
+    "coin_market_cap": 62044065320.671875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.870151361788501,
+    "coin_7d_avg": 13.293756748818577
+  },
+  "2024-11-22": {
+    "coin_market_cap": 64021624715.5625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.280367691225077,
+    "coin_7d_avg": 13.417811881815819
+  },
+  "2024-11-25": {
+    "coin_market_cap": 65614596854.296875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.610806911070856,
+    "coin_7d_avg": 13.625691307209198
+  },
+  "2024-11-26": {
+    "coin_market_cap": 61636364092.078125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.785579590173136,
+    "coin_7d_avg": 13.547471873611475
+  },
+  "2024-11-27": {
+    "coin_market_cap": 65354006696.671875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.556751220898203,
+    "coin_7d_avg": 13.457606740385668
+  },
+  "2024-11-29": {
+    "coin_market_cap": 62247915934.96875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.912437247596184,
+    "coin_7d_avg": 13.280927968046402
+  },
+  "2024-12-02": {
+    "coin_market_cap": 63550873136.515625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.182717028831819,
+    "coin_7d_avg": 13.171258721654825
+  },
+  "2024-12-03": {
+    "coin_market_cap": 65011453007.484375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.485693371826,
+    "coin_7d_avg": 13.259193294517326
+  },
+  "2024-12-04": {
+    "coin_market_cap": 69548698860.59375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 14.426879939684712,
+    "coin_7d_avg": 13.422980758582986
+  },
+  "2024-12-05": {
+    "coin_market_cap": 67369392453.78125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.974814086578094,
+    "coin_7d_avg": 13.47498178365545
+  },
+  "2024-12-06": {
+    "coin_market_cap": 72213462822.8125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 14.979646999030964,
+    "coin_7d_avg": 13.788419984920854
+  },
+  "2024-12-09": {
+    "coin_market_cap": 65257330775.328125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.53669718777991,
+    "coin_7d_avg": 13.78555512304681
+  },
+  "2024-12-10": {
+    "coin_market_cap": 63555080341.265625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.183589753107102,
+    "coin_7d_avg": 13.824291195262656
+  },
+  "2024-12-11": {
+    "coin_market_cap": 65948742547.40625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.680120641964866,
+    "coin_7d_avg": 13.895348854281663
+  },
+  "2024-12-12": {
+    "coin_market_cap": 65770109507.921875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.643065780319391,
+    "coin_7d_avg": 13.917830626923577
+  },
+  "2024-12-13": {
+    "coin_market_cap": 65269939562.734375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.539312699861012,
+    "coin_7d_avg": 13.791035306948762
+  },
+  "2024-12-16": {
+    "coin_market_cap": 66263975059.40625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.745511104737218,
+    "coin_7d_avg": 13.758277738114353
+  },
+  "2024-12-17": {
+    "coin_market_cap": 65492709771.5625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 13.585523184162723,
+    "coin_7d_avg": 13.559117193133174
+  },
+  "2024-12-18": {
+    "coin_market_cap": 58813977460.4375,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.200115969068335,
+    "coin_7d_avg": 13.368177019031522
+  },
+  "2024-12-19": {
+    "coin_market_cap": 57565662613.265625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.9411709604324,
+    "coin_7d_avg": 13.190688620077992
+  },
+  "2024-12-20": {
+    "coin_market_cap": 58572300483.921875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.14998354701734,
+    "coin_7d_avg": 12.97209760651406
+  },
+  "2024-12-23": {
+    "coin_market_cap": 56353064112.515625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.689634795529766,
+    "coin_7d_avg": 12.6930360372584
+  },
+  "2024-12-24": {
+    "coin_market_cap": 58763542310.8125,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 12.189653920743918,
+    "coin_7d_avg": 12.500227640241674
+  },
+  "2024-12-26": {
+    "coin_market_cap": 57668636514.890625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.962531419218877,
+    "coin_7d_avg": 12.245516256596195
+  },
+  "2024-12-27": {
+    "coin_market_cap": 55840285379.921875,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.583266202990284,
+    "coin_7d_avg": 11.959479545000134
+  },
+  "2024-12-30": {
+    "coin_market_cap": 53707213331.40625,
+    "coin_total_revenue": 1205193000.0,
+    "coin_annualized_total_revenue": 4820772000.0,
+    "coin_mcap_to_annualized_total_rev": 11.140791004305171,
+    "coin_7d_avg": 11.808147407176822
+  },
+  "2024-12-31": {
+    "coin_market_cap": 52181489127.74219,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.7427187010669165,
+    "coin_7d_avg": 10.922654227267468
+  },
+  "2025-01-02": {
+    "coin_market_cap": 54053967811.921875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.948790212952364,
+    "coin_7d_avg": 10.036769465258185
+  },
+  "2025-01-03": {
+    "coin_market_cap": 56878451632.515625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.259632550503847,
+    "coin_7d_avg": 9.261054858825911
+  },
+  "2025-01-06": {
+    "coin_market_cap": 60474207154.375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.655355494118889,
+    "coin_7d_avg": 8.470440797879478
+  },
+  "2025-01-07": {
+    "coin_market_cap": 55550270442.734375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.113462498930768,
+    "coin_7d_avg": 7.634859523552605
+  },
+  "2025-01-08": {
+    "coin_market_cap": 54642405682.375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.013549445001006,
+    "coin_7d_avg": 6.839185700982708
+  },
+  "2025-01-10": {
+    "coin_market_cap": 54383912713.703125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.985101571433192,
+    "coin_7d_avg": 6.102658639143854
+  },
+  "2025-01-13": {
+    "coin_market_cap": 52790937368.25781,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.809790183054974,
+    "coin_7d_avg": 6.112240279427863
+  },
+  "2025-01-14": {
+    "coin_market_cap": 53667283366.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.906234509168113,
+    "coin_7d_avg": 6.106160893172969
+  },
+  "2025-01-15": {
+    "coin_market_cap": 57777914810.21875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.358620986783842,
+    "coin_7d_avg": 6.120302098355826
+  },
+  "2025-01-16": {
+    "coin_market_cap": 59185955929.1875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.5135798467347,
+    "coin_7d_avg": 6.100048434443799
+  },
+  "2025-01-17": {
+    "coin_market_cap": 62096604072.671875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.833904808808788,
+    "coin_7d_avg": 6.202968764426374
+  },
+  "2025-01-21": {
+    "coin_market_cap": 61825502316.59375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.804069302951325,
+    "coin_7d_avg": 6.315900172704991
+  },
+  "2025-01-22": {
+    "coin_market_cap": 62174360399.484375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.842462109866626,
+    "coin_7d_avg": 6.4383802496240525
+  },
+  "2025-01-23": {
+    "coin_market_cap": 62207985970.375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.8461626979106915,
+    "coin_7d_avg": 6.5864334660320125
+  },
+  "2025-01-24": {
+    "coin_market_cap": 62626192384.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.892187482419066,
+    "coin_7d_avg": 6.727283890782148
+  },
+  "2025-01-27": {
+    "coin_market_cap": 58420988621.625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.429393056815965,
+    "coin_7d_avg": 6.737394186501024
+  },
+  "2025-01-28": {
+    "coin_market_cap": 59225885893.78125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.517974250923591,
+    "coin_7d_avg": 6.738021958528009
+  },
+  "2025-01-29": {
+    "coin_market_cap": 61155107328.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.73029046101996,
+    "coin_7d_avg": 6.72321990884389
+  },
+  "2025-01-30": {
+    "coin_market_cap": 63319701345.03125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.968510081609788,
+    "coin_7d_avg": 6.746711448652241
+  },
+  "2025-01-31": {
+    "coin_market_cap": 61224455658.734375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.737922438613032,
+    "coin_7d_avg": 6.731777209901727
+  },
+  "2025-02-03": {
+    "coin_market_cap": 59770186594.890625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.577876064143459,
+    "coin_7d_avg": 6.69345054793498
+  },
+  "2025-02-04": {
+    "coin_market_cap": 58925365771.5625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.484901171661945,
+    "coin_7d_avg": 6.635266789255391
+  },
+  "2025-02-05": {
+    "coin_market_cap": 57822051979.5625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.363478405612615,
+    "coin_7d_avg": 6.625850410512057
+  },
+  "2025-02-06": {
+    "coin_market_cap": 56819608486.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.253156697880482,
+    "coin_7d_avg": 6.588019331505898
+  },
+  "2025-02-07": {
+    "coin_market_cap": 57685446093.625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.348444546116413,
+    "coin_7d_avg": 6.533469915091105
+  },
+  "2025-02-10": {
+    "coin_market_cap": 58889636598.296875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.480969076297938,
+    "coin_7d_avg": 6.463821200046555
+  },
+  "2025-02-11": {
+    "coin_market_cap": 56090370352.515625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.1729020033257544,
+    "coin_7d_avg": 6.383103995005515
+  },
+  "2025-02-12": {
+    "coin_market_cap": 57771610416.515625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.357927170639018,
+    "coin_7d_avg": 6.35168272450488
+  },
+  "2025-02-13": {
+    "coin_market_cap": 62649306356.4375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.894731239678424,
+    "coin_7d_avg": 6.410229877078663
+  },
+  "2025-02-14": {
+    "coin_market_cap": 57647619731.40625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.344281649247464,
+    "coin_7d_avg": 6.407487483312212
+  },
+  "2025-02-18": {
+    "coin_market_cap": 55613320793.1875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 6.120401366194016,
+    "coin_7d_avg": 6.388522435928431
+  },
+  "2025-02-19": {
+    "coin_market_cap": 54360798741.265625,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.982557814173834,
+    "coin_7d_avg": 6.336252902793778
+  },
+  "2025-02-20": {
+    "coin_market_cap": 53923672733.109375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.934450875415986,
+    "coin_7d_avg": 6.258178874096356
+  },
+  "2025-02-21": {
+    "coin_market_cap": 49466286809.1875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.4439030982048955,
+    "coin_7d_avg": 6.154036173364806
+  },
+  "2025-02-24": {
+    "coin_market_cap": 47719899205.78125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.251708262123444,
+    "coin_7d_avg": 5.996004900719724
+  },
+  "2025-02-25": {
+    "coin_market_cap": 44655838804.33594,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.914499852346121,
+    "coin_7d_avg": 5.713114702529395
+  },
+  "2025-02-26": {
+    "coin_market_cap": 44754611914.63281,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.925370109158375,
+    "coin_7d_avg": 5.510413053945238
+  },
+  "2025-02-27": {
+    "coin_market_cap": 43789997990.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.81921165120269,
+    "coin_7d_avg": 5.324528808946478
+  },
+  "2025-02-28": {
+    "coin_market_cap": 45313621798.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.986890709080335,
+    "coin_7d_avg": 5.182290651075978
+  },
+  "2025-03-03": {
+    "coin_market_cap": 43239392896.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.758616021837996,
+    "coin_7d_avg": 5.014314243421979
+  },
+  "2025-03-04": {
+    "coin_market_cap": 44668447591.74219,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.91588748463577,
+    "coin_7d_avg": 4.938883441483533
+  },
+  "2025-03-05": {
+    "coin_market_cap": 46748980888.25781,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.144855988022933,
+    "coin_7d_avg": 4.923618830897746
+  },
+  "2025-03-06": {
+    "coin_market_cap": 45008897678.55469,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.953354968086306,
+    "coin_7d_avg": 4.929169561717772
+  },
+  "2025-03-07": {
+    "coin_market_cap": 45698205848.25781,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 5.029215258452144,
+    "coin_7d_avg": 4.944004583045453
+  },
+  "2025-03-10": {
+    "coin_market_cap": 37666081185.96094,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.145257493380427,
+    "coin_7d_avg": 4.847725417642272
+  },
+  "2025-03-11": {
+    "coin_market_cap": 40284613996.59375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.433434346750135,
+    "coin_7d_avg": 4.768660223023673
+  },
+  "2025-03-12": {
+    "coin_market_cap": 40293018785.96094,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.434359317307401,
+    "coin_7d_avg": 4.7223378366621604
+  },
+  "2025-03-13": {
+    "coin_market_cap": 37300413524.33594,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.1050147453505925,
+    "coin_7d_avg": 4.606498873907134
+  },
+  "2025-03-14": {
+    "coin_market_cap": 38483584038.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.235225966870202,
+    "coin_7d_avg": 4.476551728028173
+  },
+  "2025-03-17": {
+    "coin_market_cap": 39710891722.63281,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.370294607218584,
+    "coin_7d_avg": 4.393257390761355
+  },
+  "2025-03-18": {
+    "coin_market_cap": 38067478020.85156,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.189432336774269,
+    "coin_7d_avg": 4.27328840195023
+  },
+  "2025-03-19": {
+    "coin_market_cap": 39876912768.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.388565687211469,
+    "coin_7d_avg": 4.308046715354664
+  },
+  "2025-03-20": {
+    "coin_market_cap": 40009311449.1875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.403136532067789,
+    "coin_7d_avg": 4.30371845611433
+  },
+  "2025-03-21": {
+    "coin_market_cap": 39900029947.14844,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.391109797378326,
+    "coin_7d_avg": 4.297539953267319
+  },
+  "2025-03-24": {
+    "coin_market_cap": 42669871413.36719,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.695938591131328,
+    "coin_7d_avg": 4.38195764552171
+  },
+  "2025-03-25": {
+    "coin_market_cap": 42919956385.96094,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.723461141234376,
+    "coin_7d_avg": 4.4517055275737345
+  },
+  "2025-03-26": {
+    "coin_market_cap": 40759563160.25781,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.485703829469433,
+    "coin_7d_avg": 4.468192559323856
+  },
+  "2025-03-27": {
+    "coin_market_cap": 39631031793.44531,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.361505798840804,
+    "coin_7d_avg": 4.492774482476219
+  },
+  "2025-03-28": {
+    "coin_market_cap": 36552259002.21875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.02267824945389,
+    "coin_7d_avg": 4.440504848510849
+  },
+  "2025-03-31": {
+    "coin_market_cap": 36194996129.96094,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.983360471981322,
+    "coin_7d_avg": 4.380536839927068
+  },
+  "2025-04-01": {
+    "coin_market_cap": 36676252894.03906,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.0363241237529435,
+    "coin_7d_avg": 4.3298531722663
+  },
+  "2025-04-02": {
+    "coin_market_cap": 38447858072.25781,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.231294224413695,
+    "coin_7d_avg": 4.263475405592351
+  },
+  "2025-04-03": {
+    "coin_market_cap": 35886068011.66406,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.9493620692549096,
+    "coin_7d_avg": 4.152889823881
+  },
+  "2025-04-04": {
+    "coin_market_cap": 33740387175.742188,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.713223897099557,
+    "coin_7d_avg": 4.042535547828161
+  },
+  "2025-04-07": {
+    "coin_market_cap": 33053179401.703125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.6375947611461608,
+    "coin_7d_avg": 3.939119685300354
+  },
+  "2025-04-08": {
+    "coin_market_cap": 31832179318.296875,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.5032202898501033,
+    "coin_7d_avg": 3.8649114053569558
+  },
+  "2025-04-09": {
+    "coin_market_cap": 37216349597.109375,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.095763275240429,
+    "coin_7d_avg": 3.8809689486796857
+  },
+  "2025-04-10": {
+    "coin_market_cap": 35646491430.8125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.9229959970290698,
+    "coin_7d_avg": 3.8647792162905605
+  },
+  "2025-04-11": {
+    "coin_market_cap": 36882203904.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.058989607934718,
+    "coin_7d_avg": 3.8401642710792783
+  },
+  "2025-04-14": {
+    "coin_market_cap": 37109171697.44531,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.083968047870909,
+    "coin_7d_avg": 3.8593936965958493
+  },
+  "2025-04-15": {
+    "coin_market_cap": 36896916293.78125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.060608747544309,
+    "coin_7d_avg": 3.9090201038022423
+  },
+  "2025-04-16": {
+    "coin_market_cap": 36190795338.63281,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 3.9828981631564386,
+    "coin_7d_avg": 3.958349161232282
+  },
+  "2025-04-17": {
+    "coin_market_cap": 36783430793.703125,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.048119351122464,
+    "coin_7d_avg": 4.036191884271191
+  },
+  "2025-04-21": {
+    "coin_market_cap": 36777126400.0,
+    "coin_total_revenue": 2271637000.0,
+    "coin_annualized_total_revenue": 9086548000.0,
+    "coin_mcap_to_annualized_total_rev": 4.04742553497764,
+    "coin_7d_avg": 4.0292864928050784
+  }
+}
