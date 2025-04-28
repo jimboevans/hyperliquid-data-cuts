@@ -1,0 +1,276 @@
+{
+  "id": "6081",
+  "name": "fan.fun",
+  "address": null,
+  "symbol": "-",
+  "url": "https://fan.fun",
+  "description": "fan.fun enables creators to monetize exclusive content and engage in social trading, all built on Hyperliquid",
+  "chain": "Hyperliquid",
+  "logo": "https://icons.llama.fi/fan.fun.jpg",
+  "audits": "2",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "SoFi",
+  "chains": [
+    "Hyperliquid"
+  ],
+  "module": "fandotfun/index.js",
+  "twitter": "fanappX",
+  "oracles": [],
+  "forkedFrom": [],
+  "audit_links": [
+    "https://www.halborn.com/audits/fan-fun/fan-fun---evm-contracts-96ad13"
+  ],
+  "github": [
+    "fandotfun"
+  ],
+  "listedAt": 1745424763,
+  "chainTvls": {
+    "Hyperliquid": {
+      "tvl": [
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 60220.23075
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 59154.19755
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 56696.53286
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 54624.67892
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 52575.26162
+        },
+        {
+          "date": 1745798400,
+          "totalLiquidityUSD": 49519.55886
+        },
+        {
+          "date": 1745875859,
+          "totalLiquidityUSD": 55432.23642
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1745366400,
+          "tokens": {
+            "HYPE": 60220.23075
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "HYPE": 59154.19755
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "HYPE": 56696.53286
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "HYPE": 54624.67892
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "HYPE": 52575.26162
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "HYPE": 49519.55886
+          }
+        },
+        {
+          "date": 1745875859,
+          "tokens": {
+            "HYPE": 55432.23642
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1745366400,
+          "tokens": {
+            "HYPE": 3251.63233
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "HYPE": 3227.17935
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "HYPE": 2990.32346
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "HYPE": 2968.73255
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "HYPE": 2917.60608
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "HYPE": 2847.5882
+          }
+        },
+        {
+          "date": 1745875859,
+          "tokens": {
+            "HYPE": 3079.56869
+          }
+        }
+      ]
+    }
+  },
+  "tvl": [
+    {
+      "date": 1745366400,
+      "totalLiquidityUSD": 60220.23075
+    },
+    {
+      "date": 1745452800,
+      "totalLiquidityUSD": 59154.19755
+    },
+    {
+      "date": 1745539200,
+      "totalLiquidityUSD": 56696.53286
+    },
+    {
+      "date": 1745625600,
+      "totalLiquidityUSD": 54624.67892
+    },
+    {
+      "date": 1745712000,
+      "totalLiquidityUSD": 52575.26162
+    },
+    {
+      "date": 1745798400,
+      "totalLiquidityUSD": 49519.55886
+    },
+    {
+      "date": 1745875859,
+      "totalLiquidityUSD": 55432.23642
+    }
+  ],
+  "tokensInUsd": [
+    {
+      "date": 1745366400,
+      "tokens": {
+        "HYPE": 60220.23075
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "HYPE": 59154.19755
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "HYPE": 56696.53286
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "HYPE": 54624.67892
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "HYPE": 52575.26162
+      }
+    },
+    {
+      "date": 1745798400,
+      "tokens": {
+        "HYPE": 49519.55886
+      }
+    },
+    {
+      "date": 1745875859,
+      "tokens": {
+        "HYPE": 55432.23642
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "date": 1745366400,
+      "tokens": {
+        "HYPE": 3251.63233
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "HYPE": 3227.17935
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "HYPE": 2990.32346
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "HYPE": 2968.73255
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "HYPE": 2917.60608
+      }
+    },
+    {
+      "date": 1745798400,
+      "tokens": {
+        "HYPE": 2847.5882
+      }
+    },
+    {
+      "date": 1745875859,
+      "tokens": {
+        "HYPE": 3079.56869
+      }
+    }
+  ],
+  "currentChainTvls": {
+    "Hyperliquid": 55432.23642
+  },
+  "raises": [],
+  "metrics": {},
+  "mcap": null,
+  "methodology": "Counts native HYPE held by the Fan.fun contract on Hyperliquid L1 using the sumTokens2 helper."
+}

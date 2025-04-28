@@ -1,0 +1,3026 @@
+{
+  "id": "5940",
+  "name": "HyperLend",
+  "address": null,
+  "symbol": "-",
+  "url": "https://hyperlend.finance",
+  "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency. It offers real-time leverage, dynamic rates, and deep liquidity",
+  "chain": "Hyperliquid",
+  "logo": "https://icons.llama.fi/hyperlend.jpg",
+  "audits": "2",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Lending",
+  "chains": [
+    "Hyperliquid"
+  ],
+  "module": "hyperlend/index.js",
+  "forkedFrom": [
+    "AAVE V3"
+  ],
+  "oracles": [
+    "Pyth",
+    "RedStone"
+  ],
+  "oraclesBreakdown": [
+    {
+      "name": "Pyth",
+      "type": "Aggregator",
+      "proof": [
+        "https://github.com/DefiLlama/DefiLlama-Adapters/pull/13990"
+      ]
+    },
+    {
+      "name": "RedStone",
+      "type": "Aggregator",
+      "proof": [
+        "https://github.com/DefiLlama/DefiLlama-Adapters/pull/13990"
+      ]
+    }
+  ],
+  "twitter": "hyperlendx",
+  "audit_links": [
+    "https://github.com/hyperlendx/audits"
+  ],
+  "github": [
+    "hyperlendx"
+  ],
+  "listedAt": 1742675675,
+  "chainTvls": {
+    "Hyperliquid-borrowed": {
+      "tvl": [
+        {
+          "date": 1742601600,
+          "totalLiquidityUSD": 27.05303
+        },
+        {
+          "date": 1742688000,
+          "totalLiquidityUSD": 26.50754
+        },
+        {
+          "date": 1742774400,
+          "totalLiquidityUSD": 33.37604
+        },
+        {
+          "date": 1742860800,
+          "totalLiquidityUSD": 654331.71058
+        },
+        {
+          "date": 1742947200,
+          "totalLiquidityUSD": 661866.57474
+        },
+        {
+          "date": 1743033600,
+          "totalLiquidityUSD": 991090.74288
+        },
+        {
+          "date": 1743120000,
+          "totalLiquidityUSD": 1850089.79729
+        },
+        {
+          "date": 1743206400,
+          "totalLiquidityUSD": 1717596.9017
+        },
+        {
+          "date": 1743292800,
+          "totalLiquidityUSD": 1635936.85242
+        },
+        {
+          "date": 1743379200,
+          "totalLiquidityUSD": 1613603.24343
+        },
+        {
+          "date": 1743465600,
+          "totalLiquidityUSD": 5277001.99425
+        },
+        {
+          "date": 1743552000,
+          "totalLiquidityUSD": 5394896.56499
+        },
+        {
+          "date": 1743638400,
+          "totalLiquidityUSD": 6699317.04793
+        },
+        {
+          "date": 1743724800,
+          "totalLiquidityUSD": 8183409.65889
+        },
+        {
+          "date": 1743811200,
+          "totalLiquidityUSD": 8204192.07293
+        },
+        {
+          "date": 1743897600,
+          "totalLiquidityUSD": 8280279.26083
+        },
+        {
+          "date": 1743984000,
+          "totalLiquidityUSD": 7011278.52683
+        },
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 10189767.26206
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 10288611.89416
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 14648582.82411
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 15371235.66661
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 17031976.81063
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 17765745.44615
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 16839569.72949
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 20316935.75157
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 19591459.72451
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 20344454.25629
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 22193157.73347
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 21849752.0432
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 23360865.54723
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 22848195.01036
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 23334654.51292
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 24589630.69437
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 23914017.88152
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 24850115.42322
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 28737359.87076
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 28219253.52059
+        },
+        {
+          "date": 1745874347,
+          "totalLiquidityUSD": 27720061.7601
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 27.05303
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 26.50754
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 30.62966,
+            "WSTHYPE": 2.74638
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 531296.24086,
+            "WSTHYPE": 123035.46972
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 539871.9782,
+            "WSTHYPE": 121994.59654
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WHYPE": 772342.23904,
+            "WSTHYPE": 218748.50384
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 1618711.45293,
+            "WSTHYPE": 231378.34437
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 1497433.52996,
+            "WSTHYPE": 220163.37174
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 1428959.08295,
+            "WSTHYPE": 206977.76947
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 1389165.33495,
+            "WSTHYPE": 224437.90847
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 4498802.459,
+            "WSTHYPE": 778199.53526
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 4602296.5001,
+            "WSTHYPE": 792600.06489
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 1024799.99259,
+            "WHYPE": 5674517.05534
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 7187703.69592,
+            "WSTHYPE": 995705.96296
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 7199551.78683,
+            "WSTHYPE": 1004640.2861
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 7278158.95693,
+            "WSTHYPE": 1002120.3039
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 6164833.69448,
+            "WSTHYPE": 846444.83235
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 9148681.71695,
+            "WSTHYPE": 970200.22835,
+            "UBTC": 70885.31676
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 9203774.61748,
+            "WSTHYPE": 980280.195,
+            "UBTC": 104557.08168
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "WHYPE": 13346751.90114,
+            "WSTHYPE": 1139879.32407,
+            "UBTC": 161951.59891
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 14026405.13024,
+            "WSTHYPE": 1185240.00638,
+            "UBTC": 159590.52999
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 15543300.87176,
+            "WSTHYPE": 1320479.98907,
+            "UBTC": 168195.94981
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 16213150.22662,
+            "WSTHYPE": 1381800.02031,
+            "UBTC": 170795.19922
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 15356194.09099,
+            "WSTHYPE": 1316280.22952,
+            "UBTC": 167095.40898
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 18816074.11736,
+            "WSTHYPE": 1332240.14129,
+            "UBTC": 168621.49292
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 18144004.40679,
+            "WSTHYPE": 1279320.04166,
+            "UBTC": 168135.27605
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 18840048.33369,
+            "WSTHYPE": 1336439.50857,
+            "UBTC": 167966.41404
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 20604144.5375,
+            "WSTHYPE": 1417920.11467,
+            "UBTC": 171093.0813
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WHYPE": 20256053.99659,
+            "WSTHYPE": 1424640.1963,
+            "UBTC": 169057.85032
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 21672142.8112,
+            "WSTHYPE": 1518720.48868,
+            "UBTC": 170002.24735
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 21180118.72781,
+            "WSTHYPE": 1498560.09458,
+            "UBTC": 169516.18796
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 21648141.7248,
+            "WSTHYPE": 1512000.10154,
+            "UBTC": 174512.68658
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 22584075.60598,
+            "WSTHYPE": 1571640.28495,
+            "UBTC": 187007.99532,
+            "UETH": 246906.80812
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 21948089.68546,
+            "WSTHYPE": 1528800.13103,
+            "UBTC": 187404.00743,
+            "UETH": 249724.0576
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 22811883.17915,
+            "WSTHYPE": 1601040.27606,
+            "UBTC": 188742.14722,
+            "UETH": 248449.82079
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 26524800.04872,
+            "WSTHYPE": 1544760.11216,
+            "UBTC": 379712.16328,
+            "UETH": 288087.5466
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 26049650.36292,
+            "WSTHYPE": 1502760.1882,
+            "UBTC": 378444.41629,
+            "UETH": 288398.55318
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 25574422.55503,
+            "WSTHYPE": 1476720.01832,
+            "UBTC": 380490.51598,
+            "UETH": 288428.67077
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 1.70467
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 1.70467
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 1.87797,
+            "WSTHYPE": 0.16922
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 32238.84957,
+            "WSTHYPE": 7534.32148
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 33720.92306,
+            "WSTHYPE": 7605.64816
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WHYPE": 54931.88044,
+            "WSTHYPE": 15613.74046
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 110870.64746,
+            "WSTHYPE": 15858.69393
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 112673.70429,
+            "WSTHYPE": 16466.96872
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 113589.75222,
+            "WSTHYPE": 16297.46216
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 113308.75489,
+            "WSTHYPE": 18276.70264
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 345000.18857,
+            "WSTHYPE": 59999.96417
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 344999.73764,
+            "WSTHYPE": 60000.00491
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 83999.99939,
+            "WHYPE": 485001.45772
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 604516.71118,
+            "WSTHYPE": 83954.97158
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 605004.35183,
+            "WSTHYPE": 84000.02392
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 605000.74455,
+            "WSTHYPE": 84000.02547
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 604988.58631,
+            "WSTHYPE": 83640.79371
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 788000.14789,
+            "WSTHYPE": 84000.01977,
+            "UBTC": 0.8945
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 787994.40218,
+            "WSTHYPE": 84000.01671,
+            "UBTC": 1.38429
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "WHYPE": 985000.14031,
+            "WSTHYPE": 83999.95019,
+            "UBTC": 1.95338
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 985000.36027,
+            "WSTHYPE": 84000.00045,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 985000.05524,
+            "WSTHYPE": 83999.9993,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 985003.05144,
+            "WSTHYPE": 84000.00123,
+            "UBTC": 1.9999
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 985002.82816,
+            "WSTHYPE": 84000.01465,
+            "UBTC": 1.99522
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 1200004.72687,
+            "WSTHYPE": 84000.00891,
+            "UBTC": 2.00004
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 1200000.29145,
+            "WSTHYPE": 84000.00274,
+            "UBTC": 2.00004
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 1200003.07858,
+            "WSTHYPE": 83999.96911,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 1200008.41803,
+            "WSTHYPE": 84000.00679,
+            "UBTC": 2.00001
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WHYPE": 1200003.19885,
+            "WSTHYPE": 84000.01157,
+            "UBTC": 2.00002
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 1200007.9076,
+            "WSTHYPE": 84000.02703,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 1200006.72679,
+            "WSTHYPE": 84000.0053,
+            "UBTC": 2.00007
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 1200007.85614,
+            "WSTHYPE": 84000.00564,
+            "UBTC": 2.00003
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 1200004.01732,
+            "WSTHYPE": 84000.01523,
+            "UBTC": 2,
+            "UETH": 140
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 1200004.90352,
+            "WSTHYPE": 84000.0072,
+            "UBTC": 2.00009,
+            "UETH": 140.00418
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 1199993.85477,
+            "WSTHYPE": 84000.01448,
+            "UBTC": 2,
+            "UETH": 139.99381
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 1440000.00264,
+            "WSTHYPE": 84000.0061,
+            "UBTC": 4,
+            "UETH": 160.00064
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 1440002.78402,
+            "WSTHYPE": 84000.01052,
+            "UBTC": 4,
+            "UETH": 160.00008
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 1440001.26999,
+            "WSTHYPE": 84000.00104,
+            "UBTC": 4.00003,
+            "UETH": 159.99993
+          }
+        }
+      ]
+    },
+    "Hyperliquid": {
+      "tvl": [
+        {
+          "date": 1742601600,
+          "totalLiquidityUSD": 15823.89529
+        },
+        {
+          "date": 1742688000,
+          "totalLiquidityUSD": 15504.82494
+        },
+        {
+          "date": 1742774400,
+          "totalLiquidityUSD": 16304.92147
+        },
+        {
+          "date": 1742860800,
+          "totalLiquidityUSD": 5590076.27634
+        },
+        {
+          "date": 1742947200,
+          "totalLiquidityUSD": 5425550.43215
+        },
+        {
+          "date": 1743033600,
+          "totalLiquidityUSD": 7014109.46951
+        },
+        {
+          "date": 1743120000,
+          "totalLiquidityUSD": 8111483.5496
+        },
+        {
+          "date": 1743206400,
+          "totalLiquidityUSD": 7376228.13342
+        },
+        {
+          "date": 1743292800,
+          "totalLiquidityUSD": 6966381.36399
+        },
+        {
+          "date": 1743379200,
+          "totalLiquidityUSD": 6759690.06113
+        },
+        {
+          "date": 1743465600,
+          "totalLiquidityUSD": 16469262.81548
+        },
+        {
+          "date": 1743552000,
+          "totalLiquidityUSD": 17872088.56606
+        },
+        {
+          "date": 1743638400,
+          "totalLiquidityUSD": 22169685.39839
+        },
+        {
+          "date": 1743724800,
+          "totalLiquidityUSD": 21990080.67302
+        },
+        {
+          "date": 1743811200,
+          "totalLiquidityUSD": 25096345.42601
+        },
+        {
+          "date": 1743897600,
+          "totalLiquidityUSD": 25421183.15748
+        },
+        {
+          "date": 1743984000,
+          "totalLiquidityUSD": 21559251.79152
+        },
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 26270136.98384
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 27266094.42401
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 38605867.93617
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 41811167.02001
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 49505750.94721
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 54871905.68924
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 51173265.17008
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 52172421.80598
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 51717990.29727
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 53904458.05274
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 57608560.04356
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 57599957.1957
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 61440048.79059
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 60495716.55606
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 61204727.64701
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 63980696.63649
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 69353900.80937
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 72033479.93252
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 81680198.11853
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 81370914.07411
+        },
+        {
+          "date": 1745874347,
+          "totalLiquidityUSD": 80402974.47096
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 15823.89529
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 15504.82494
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 16279.06076,
+            "WSTHYPE": 25.86072
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 3753509.59672,
+            "WSTHYPE": 1836566.67962
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 3622738.90227,
+            "WSTHYPE": 1802811.52988
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WSTHYPE": 2303051.52195,
+            "WHYPE": 4711057.94756
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 4075287.2382,
+            "WSTHYPE": 4036196.3114
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 3685666.48976,
+            "WSTHYPE": 3690561.64366
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 3458609.07035,
+            "WSTHYPE": 3507772.29364
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 3392234.86895,
+            "WSTHYPE": 3367455.19219
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 5470702.68696,
+            "WSTHYPE": 10998560.12852
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 6670008.38297,
+            "WSTHYPE": 11202080.18309
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 13981189.90793,
+            "WHYPE": 8188495.49046
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 6682777.73979,
+            "WSTHYPE": 15307302.93323
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 6901943.77926,
+            "WSTHYPE": 18194401.64675
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 6977406.71174,
+            "WSTHYPE": 18443776.44574
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 5910141.5862,
+            "WSTHYPE": 15649110.20532
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 5572808.1386,
+            "WSTHYPE": 20371984.18692,
+            "UBTC": 325344.65832
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 5606439.78578,
+            "WSTHYPE": 21386554.8855,
+            "UBTC": 273099.75273
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "UBTC": 252588.3757,
+            "WSTHYPE": 31582001.16047,
+            "WHYPE": 6771278.40001
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 10810759.30441,
+            "WSTHYPE": 30761018.1834,
+            "UBTC": 239389.53221
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 13309745.67014,
+            "WSTHYPE": 35943698.11786,
+            "UBTC": 252307.15921
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 16206301.78984,
+            "WSTHYPE": 38409364.73453,
+            "UBTC": 256239.16487
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 14117767.09681,
+            "WSTHYPE": 36803851.33097,
+            "UBTC": 251646.74229
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 12071238.22823,
+            "WSTHYPE": 39848255.4379,
+            "UBTC": 252928.13986
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 11639347.11034,
+            "WSTHYPE": 39826448.18136,
+            "UBTC": 252195.00557
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 12063644.33845,
+            "WSTHYPE": 41588863.64183,
+            "UBTC": 251950.07246
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 13210728.1053,
+            "WSTHYPE": 44141182.85749,
+            "UBTC": 256649.08077
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WSTHYPE": 44348888.91027,
+            "UBTC": 253580.0069,
+            "WHYPE": 12997488.27854
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 13905867.33001,
+            "WSTHYPE": 47279170.26054,
+            "UBTC": 255011.20005
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 13590382.32209,
+            "WSTHYPE": 46651056.25374,
+            "UBTC": 254277.98023
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 13873145.7034,
+            "WSTHYPE": 47069818.55346,
+            "UBTC": 261763.39015
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 14491339.18066,
+            "WSTHYPE": 48926649.05134,
+            "UBTC": 280525.02511,
+            "UETH": 282183.37938
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 21289430.36065,
+            "WSTHYPE": 47497975.14278,
+            "UBTC": 281110.85627,
+            "UETH": 285384.44968
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 22127753.07991,
+            "WSTHYPE": 49338593.13961,
+            "UBTC": 283149.90189,
+            "UETH": 283983.8111
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 25729036.39297,
+            "WSTHYPE": 55054603.07387,
+            "UBTC": 569547.78793,
+            "UETH": 327010.86376
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 25264539.64721,
+            "WSTHYPE": 55106089.40015,
+            "UBTC": 567687.01783,
+            "UETH": 432598.00891
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 24798877.02314,
+            "WSTHYPE": 54600728.72851,
+            "UBTC": 570728.04578,
+            "UETH": 432640.67353
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 997.09485
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 997.09485
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 998.10305,
+            "WSTHYPE": 1.59339
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 227761.50466,
+            "WSTHYPE": 112465.81014
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 226279.75654,
+            "WSTHYPE": 112394.73378
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WSTHYPE": 164386.26138,
+            "WHYPE": 335068.13283
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 279129.26289,
+            "WSTHYPE": 276641.28248
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 277326.2972,
+            "WSTHYPE": 276033.03244
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 274929.17888,
+            "WSTHYPE": 276202.54281
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 276691.26174,
+            "WSTHYPE": 274222.73552
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 419532.41464,
+            "WSTHYPE": 848000.00991
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 500000.62841,
+            "WSTHYPE": 848000.01386
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 1145999.17278,
+            "WHYPE": 699871.40944
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 562050.27248,
+            "WSTHYPE": 1290666.35187
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 579995.27557,
+            "WSTHYPE": 1521271.0407
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 580000.55792,
+            "WSTHYPE": 1545999.70207
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 579994.26754,
+            "WSTHYPE": 1546354.76337
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 480000.701,
+            "WSTHYPE": 1763808.15471,
+            "UBTC": 4.10551
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 480003.40632,
+            "WSTHYPE": 1832609.67314,
+            "UBTC": 3.61573
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "UBTC": 3.04659,
+            "WSTHYPE": 2327339.80549,
+            "WHYPE": 499725.34317
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 759182.53542,
+            "WSTHYPE": 2180086.33476,
+            "UBTC": 3.00004
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 843456.63309,
+            "WSTHYPE": 2286494.79121,
+            "UBTC": 3.00016
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 984586.98602,
+            "WSTHYPE": 2334915.78933,
+            "UBTC": 3.00039
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 905565.56105,
+            "WSTHYPE": 2348682.28022,
+            "UBTC": 3.00482
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 769849.3768,
+            "WSTHYPE": 2512500.34287,
+            "UBTC": 3.00001
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 769798.08931,
+            "WSTHYPE": 2614999.88059,
+            "UBTC": 2.99996
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 768384.98971,
+            "WSTHYPE": 2614007.77133,
+            "UBTC": 3.00001
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 769407.57748,
+            "WSTHYPE": 2614998.98445,
+            "UBTC": 3.00013
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WSTHYPE": 2614910.90273,
+            "UBTC": 2.99995,
+            "WHYPE": 769993.38143
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 769981.57973,
+            "WSTHYPE": 2614998.35512,
+            "UBTC": 3.0001
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 769993.3327,
+            "WSTHYPE": 2614969.52095,
+            "UBTC": 3.00015
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 769021.38045,
+            "WSTHYPE": 2614989.91964,
+            "UBTC": 2.99998
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 769996.76837,
+            "WSTHYPE": 2614999.9493,
+            "UBTC": 3.00014,
+            "UETH": 160.00237
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 1163992.91201,
+            "WSTHYPE": 2609778.854,
+            "UBTC": 3.00018,
+            "UETH": 159.99666
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 1164005.94844,
+            "WSTHYPE": 2588593.55402,
+            "UBTC": 3.00039,
+            "UETH": 160.01612
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 1396798.93556,
+            "WSTHYPE": 2993725.01761,
+            "UBTC": 5.99979,
+            "UETH": 181.61822
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 1396602.52334,
+            "WSTHYPE": 3080273.30353,
+            "UBTC": 6.00022,
+            "UETH": 240.00023
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 1396333.16572,
+            "WSTHYPE": 3105843.49992,
+            "UBTC": 5.99996,
+            "UETH": 239.9986
+          }
+        }
+      ]
+    },
+    "borrowed": {
+      "tvl": [
+        {
+          "date": 1742601600,
+          "totalLiquidityUSD": 27.05303
+        },
+        {
+          "date": 1742688000,
+          "totalLiquidityUSD": 26.50754
+        },
+        {
+          "date": 1742774400,
+          "totalLiquidityUSD": 33.37604
+        },
+        {
+          "date": 1742860800,
+          "totalLiquidityUSD": 654331.71058
+        },
+        {
+          "date": 1742947200,
+          "totalLiquidityUSD": 661866.57474
+        },
+        {
+          "date": 1743033600,
+          "totalLiquidityUSD": 991090.74288
+        },
+        {
+          "date": 1743120000,
+          "totalLiquidityUSD": 1850089.79729
+        },
+        {
+          "date": 1743206400,
+          "totalLiquidityUSD": 1717596.9017
+        },
+        {
+          "date": 1743292800,
+          "totalLiquidityUSD": 1635936.85242
+        },
+        {
+          "date": 1743379200,
+          "totalLiquidityUSD": 1613603.24343
+        },
+        {
+          "date": 1743465600,
+          "totalLiquidityUSD": 5277001.99425
+        },
+        {
+          "date": 1743552000,
+          "totalLiquidityUSD": 5394896.56499
+        },
+        {
+          "date": 1743638400,
+          "totalLiquidityUSD": 6699317.04793
+        },
+        {
+          "date": 1743724800,
+          "totalLiquidityUSD": 8183409.65889
+        },
+        {
+          "date": 1743811200,
+          "totalLiquidityUSD": 8204192.07293
+        },
+        {
+          "date": 1743897600,
+          "totalLiquidityUSD": 8280279.26083
+        },
+        {
+          "date": 1743984000,
+          "totalLiquidityUSD": 7011278.52683
+        },
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 10189767.26206
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 10288611.89416
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 14648582.82411
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 15371235.66661
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 17031976.81063
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 17765745.44615
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 16839569.72949
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 20316935.75157
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 19591459.72451
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 20344454.25629
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 22193157.73347
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 21849752.0432
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 23360865.54723
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 22848195.01036
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 23334654.51292
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 24589630.69437
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 23914017.88152
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 24850115.42322
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 28737359.87076
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 28219253.52059
+        },
+        {
+          "date": 1745874347,
+          "totalLiquidityUSD": 27720061.7601
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 27.05303
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 26.50754
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 30.62966,
+            "WSTHYPE": 2.74638
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 531296.24086,
+            "WSTHYPE": 123035.46972
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 539871.9782,
+            "WSTHYPE": 121994.59654
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WHYPE": 772342.23904,
+            "WSTHYPE": 218748.50384
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 1618711.45293,
+            "WSTHYPE": 231378.34437
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 1497433.52996,
+            "WSTHYPE": 220163.37174
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 1428959.08295,
+            "WSTHYPE": 206977.76947
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 1389165.33495,
+            "WSTHYPE": 224437.90847
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 4498802.459,
+            "WSTHYPE": 778199.53526
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 4602296.5001,
+            "WSTHYPE": 792600.06489
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 1024799.99259,
+            "WHYPE": 5674517.05534
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 7187703.69592,
+            "WSTHYPE": 995705.96296
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 7199551.78683,
+            "WSTHYPE": 1004640.2861
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 7278158.95693,
+            "WSTHYPE": 1002120.3039
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 6164833.69448,
+            "WSTHYPE": 846444.83235
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 9148681.71695,
+            "WSTHYPE": 970200.22835,
+            "UBTC": 70885.31676
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 9203774.61748,
+            "WSTHYPE": 980280.195,
+            "UBTC": 104557.08168
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "WHYPE": 13346751.90114,
+            "WSTHYPE": 1139879.32407,
+            "UBTC": 161951.59891
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 14026405.13024,
+            "WSTHYPE": 1185240.00638,
+            "UBTC": 159590.52999
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 15543300.87176,
+            "WSTHYPE": 1320479.98907,
+            "UBTC": 168195.94981
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 16213150.22662,
+            "WSTHYPE": 1381800.02031,
+            "UBTC": 170795.19922
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 15356194.09099,
+            "WSTHYPE": 1316280.22952,
+            "UBTC": 167095.40898
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 18816074.11736,
+            "WSTHYPE": 1332240.14129,
+            "UBTC": 168621.49292
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 18144004.40679,
+            "WSTHYPE": 1279320.04166,
+            "UBTC": 168135.27605
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 18840048.33369,
+            "WSTHYPE": 1336439.50857,
+            "UBTC": 167966.41404
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 20604144.5375,
+            "WSTHYPE": 1417920.11467,
+            "UBTC": 171093.0813
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WHYPE": 20256053.99659,
+            "WSTHYPE": 1424640.1963,
+            "UBTC": 169057.85032
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 21672142.8112,
+            "WSTHYPE": 1518720.48868,
+            "UBTC": 170002.24735
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 21180118.72781,
+            "WSTHYPE": 1498560.09458,
+            "UBTC": 169516.18796
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 21648141.7248,
+            "WSTHYPE": 1512000.10154,
+            "UBTC": 174512.68658
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 22584075.60598,
+            "WSTHYPE": 1571640.28495,
+            "UBTC": 187007.99532,
+            "UETH": 246906.80812
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 21948089.68546,
+            "WSTHYPE": 1528800.13103,
+            "UBTC": 187404.00743,
+            "UETH": 249724.0576
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 22811883.17915,
+            "WSTHYPE": 1601040.27606,
+            "UBTC": 188742.14722,
+            "UETH": 248449.82079
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 26524800.04872,
+            "WSTHYPE": 1544760.11216,
+            "UBTC": 379712.16328,
+            "UETH": 288087.5466
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 26049650.36292,
+            "WSTHYPE": 1502760.1882,
+            "UBTC": 378444.41629,
+            "UETH": 288398.55318
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 25574422.55503,
+            "WSTHYPE": 1476720.01832,
+            "UBTC": 380490.51598,
+            "UETH": 288428.67077
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1742601600,
+          "tokens": {
+            "WHYPE": 1.70467
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "WHYPE": 1.70467
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "WHYPE": 1.87797,
+            "WSTHYPE": 0.16922
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "WHYPE": 32238.84957,
+            "WSTHYPE": 7534.32148
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "WHYPE": 33720.92306,
+            "WSTHYPE": 7605.64816
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "WHYPE": 54931.88044,
+            "WSTHYPE": 15613.74046
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "WHYPE": 110870.64746,
+            "WSTHYPE": 15858.69393
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "WHYPE": 112673.70429,
+            "WSTHYPE": 16466.96872
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "WHYPE": 113589.75222,
+            "WSTHYPE": 16297.46216
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "WHYPE": 113308.75489,
+            "WSTHYPE": 18276.70264
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "WHYPE": 345000.18857,
+            "WSTHYPE": 59999.96417
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "WHYPE": 344999.73764,
+            "WSTHYPE": 60000.00491
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "WSTHYPE": 83999.99939,
+            "WHYPE": 485001.45772
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "WHYPE": 604516.71118,
+            "WSTHYPE": 83954.97158
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "WHYPE": 605004.35183,
+            "WSTHYPE": 84000.02392
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "WHYPE": 605000.74455,
+            "WSTHYPE": 84000.02547
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "WHYPE": 604988.58631,
+            "WSTHYPE": 83640.79371
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "WHYPE": 788000.14789,
+            "WSTHYPE": 84000.01977,
+            "UBTC": 0.8945
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "WHYPE": 787994.40218,
+            "WSTHYPE": 84000.01671,
+            "UBTC": 1.38429
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "WHYPE": 985000.14031,
+            "WSTHYPE": 83999.95019,
+            "UBTC": 1.95338
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "WHYPE": 985000.36027,
+            "WSTHYPE": 84000.00045,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "WHYPE": 985000.05524,
+            "WSTHYPE": 83999.9993,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "WHYPE": 985003.05144,
+            "WSTHYPE": 84000.00123,
+            "UBTC": 1.9999
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "WHYPE": 985002.82816,
+            "WSTHYPE": 84000.01465,
+            "UBTC": 1.99522
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "WHYPE": 1200004.72687,
+            "WSTHYPE": 84000.00891,
+            "UBTC": 2.00004
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "WHYPE": 1200000.29145,
+            "WSTHYPE": 84000.00274,
+            "UBTC": 2.00004
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "WHYPE": 1200003.07858,
+            "WSTHYPE": 83999.96911,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "WHYPE": 1200008.41803,
+            "WSTHYPE": 84000.00679,
+            "UBTC": 2.00001
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "WHYPE": 1200003.19885,
+            "WSTHYPE": 84000.01157,
+            "UBTC": 2.00002
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "WHYPE": 1200007.9076,
+            "WSTHYPE": 84000.02703,
+            "UBTC": 2
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "WHYPE": 1200006.72679,
+            "WSTHYPE": 84000.0053,
+            "UBTC": 2.00007
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "WHYPE": 1200007.85614,
+            "WSTHYPE": 84000.00564,
+            "UBTC": 2.00003
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "WHYPE": 1200004.01732,
+            "WSTHYPE": 84000.01523,
+            "UBTC": 2,
+            "UETH": 140
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "WHYPE": 1200004.90352,
+            "WSTHYPE": 84000.0072,
+            "UBTC": 2.00009,
+            "UETH": 140.00418
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "WHYPE": 1199993.85477,
+            "WSTHYPE": 84000.01448,
+            "UBTC": 2,
+            "UETH": 139.99381
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "WHYPE": 1440000.00264,
+            "WSTHYPE": 84000.0061,
+            "UBTC": 4,
+            "UETH": 160.00064
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "WHYPE": 1440002.78402,
+            "WSTHYPE": 84000.01052,
+            "UBTC": 4,
+            "UETH": 160.00008
+          }
+        },
+        {
+          "date": 1745874347,
+          "tokens": {
+            "WHYPE": 1440001.26999,
+            "WSTHYPE": 84000.00104,
+            "UBTC": 4.00003,
+            "UETH": 159.99993
+          }
+        }
+      ]
+    }
+  },
+  "tvl": [
+    {
+      "date": 1742601600,
+      "totalLiquidityUSD": 15823.89529
+    },
+    {
+      "date": 1742688000,
+      "totalLiquidityUSD": 15504.82494
+    },
+    {
+      "date": 1742774400,
+      "totalLiquidityUSD": 16304.92147
+    },
+    {
+      "date": 1742860800,
+      "totalLiquidityUSD": 5590076.27634
+    },
+    {
+      "date": 1742947200,
+      "totalLiquidityUSD": 5425550.43215
+    },
+    {
+      "date": 1743033600,
+      "totalLiquidityUSD": 7014109.46951
+    },
+    {
+      "date": 1743120000,
+      "totalLiquidityUSD": 8111483.5496
+    },
+    {
+      "date": 1743206400,
+      "totalLiquidityUSD": 7376228.13342
+    },
+    {
+      "date": 1743292800,
+      "totalLiquidityUSD": 6966381.36399
+    },
+    {
+      "date": 1743379200,
+      "totalLiquidityUSD": 6759690.06113
+    },
+    {
+      "date": 1743465600,
+      "totalLiquidityUSD": 16469262.81548
+    },
+    {
+      "date": 1743552000,
+      "totalLiquidityUSD": 17872088.56606
+    },
+    {
+      "date": 1743638400,
+      "totalLiquidityUSD": 22169685.39839
+    },
+    {
+      "date": 1743724800,
+      "totalLiquidityUSD": 21990080.67302
+    },
+    {
+      "date": 1743811200,
+      "totalLiquidityUSD": 25096345.42601
+    },
+    {
+      "date": 1743897600,
+      "totalLiquidityUSD": 25421183.15748
+    },
+    {
+      "date": 1743984000,
+      "totalLiquidityUSD": 21559251.79152
+    },
+    {
+      "date": 1744070400,
+      "totalLiquidityUSD": 26270136.98384
+    },
+    {
+      "date": 1744156800,
+      "totalLiquidityUSD": 27266094.42401
+    },
+    {
+      "date": 1744243200,
+      "totalLiquidityUSD": 38605867.93617
+    },
+    {
+      "date": 1744329600,
+      "totalLiquidityUSD": 41811167.02001
+    },
+    {
+      "date": 1744416000,
+      "totalLiquidityUSD": 49505750.94721
+    },
+    {
+      "date": 1744502400,
+      "totalLiquidityUSD": 54871905.68924
+    },
+    {
+      "date": 1744588800,
+      "totalLiquidityUSD": 51173265.17008
+    },
+    {
+      "date": 1744675200,
+      "totalLiquidityUSD": 52172421.80598
+    },
+    {
+      "date": 1744761600,
+      "totalLiquidityUSD": 51717990.29727
+    },
+    {
+      "date": 1744848000,
+      "totalLiquidityUSD": 53904458.05274
+    },
+    {
+      "date": 1744934400,
+      "totalLiquidityUSD": 57608560.04356
+    },
+    {
+      "date": 1745020800,
+      "totalLiquidityUSD": 57599957.1957
+    },
+    {
+      "date": 1745107200,
+      "totalLiquidityUSD": 61440048.79059
+    },
+    {
+      "date": 1745193600,
+      "totalLiquidityUSD": 60495716.55606
+    },
+    {
+      "date": 1745280000,
+      "totalLiquidityUSD": 61204727.64701
+    },
+    {
+      "date": 1745366400,
+      "totalLiquidityUSD": 63980696.63649
+    },
+    {
+      "date": 1745452800,
+      "totalLiquidityUSD": 69353900.80937
+    },
+    {
+      "date": 1745539200,
+      "totalLiquidityUSD": 72033479.93252
+    },
+    {
+      "date": 1745625600,
+      "totalLiquidityUSD": 81680198.11853
+    },
+    {
+      "date": 1745712000,
+      "totalLiquidityUSD": 81370914.07411
+    },
+    {
+      "date": 1745874347,
+      "totalLiquidityUSD": 80402974.47096
+    }
+  ],
+  "tokensInUsd": [
+    {
+      "date": 1742601600,
+      "tokens": {
+        "WHYPE": 15823.89529
+      }
+    },
+    {
+      "date": 1742688000,
+      "tokens": {
+        "WHYPE": 15504.82494
+      }
+    },
+    {
+      "date": 1742774400,
+      "tokens": {
+        "WHYPE": 16279.06076,
+        "WSTHYPE": 25.86072
+      }
+    },
+    {
+      "date": 1742860800,
+      "tokens": {
+        "WHYPE": 3753509.59672,
+        "WSTHYPE": 1836566.67962
+      }
+    },
+    {
+      "date": 1742947200,
+      "tokens": {
+        "WHYPE": 3622738.90227,
+        "WSTHYPE": 1802811.52988
+      }
+    },
+    {
+      "date": 1743033600,
+      "tokens": {
+        "WSTHYPE": 2303051.52195,
+        "WHYPE": 4711057.94756
+      }
+    },
+    {
+      "date": 1743120000,
+      "tokens": {
+        "WHYPE": 4075287.2382,
+        "WSTHYPE": 4036196.3114
+      }
+    },
+    {
+      "date": 1743206400,
+      "tokens": {
+        "WHYPE": 3685666.48976,
+        "WSTHYPE": 3690561.64366
+      }
+    },
+    {
+      "date": 1743292800,
+      "tokens": {
+        "WHYPE": 3458609.07035,
+        "WSTHYPE": 3507772.29364
+      }
+    },
+    {
+      "date": 1743379200,
+      "tokens": {
+        "WHYPE": 3392234.86895,
+        "WSTHYPE": 3367455.19219
+      }
+    },
+    {
+      "date": 1743465600,
+      "tokens": {
+        "WHYPE": 5470702.68696,
+        "WSTHYPE": 10998560.12852
+      }
+    },
+    {
+      "date": 1743552000,
+      "tokens": {
+        "WHYPE": 6670008.38297,
+        "WSTHYPE": 11202080.18309
+      }
+    },
+    {
+      "date": 1743638400,
+      "tokens": {
+        "WSTHYPE": 13981189.90793,
+        "WHYPE": 8188495.49046
+      }
+    },
+    {
+      "date": 1743724800,
+      "tokens": {
+        "WHYPE": 6682777.73979,
+        "WSTHYPE": 15307302.93323
+      }
+    },
+    {
+      "date": 1743811200,
+      "tokens": {
+        "WHYPE": 6901943.77926,
+        "WSTHYPE": 18194401.64675
+      }
+    },
+    {
+      "date": 1743897600,
+      "tokens": {
+        "WHYPE": 6977406.71174,
+        "WSTHYPE": 18443776.44574
+      }
+    },
+    {
+      "date": 1743984000,
+      "tokens": {
+        "WHYPE": 5910141.5862,
+        "WSTHYPE": 15649110.20532
+      }
+    },
+    {
+      "date": 1744070400,
+      "tokens": {
+        "WHYPE": 5572808.1386,
+        "WSTHYPE": 20371984.18692,
+        "UBTC": 325344.65832
+      }
+    },
+    {
+      "date": 1744156800,
+      "tokens": {
+        "WHYPE": 5606439.78578,
+        "WSTHYPE": 21386554.8855,
+        "UBTC": 273099.75273
+      }
+    },
+    {
+      "date": 1744243200,
+      "tokens": {
+        "UBTC": 252588.3757,
+        "WSTHYPE": 31582001.16047,
+        "WHYPE": 6771278.40001
+      }
+    },
+    {
+      "date": 1744329600,
+      "tokens": {
+        "WHYPE": 10810759.30441,
+        "WSTHYPE": 30761018.1834,
+        "UBTC": 239389.53221
+      }
+    },
+    {
+      "date": 1744416000,
+      "tokens": {
+        "WHYPE": 13309745.67014,
+        "WSTHYPE": 35943698.11786,
+        "UBTC": 252307.15921
+      }
+    },
+    {
+      "date": 1744502400,
+      "tokens": {
+        "WHYPE": 16206301.78984,
+        "WSTHYPE": 38409364.73453,
+        "UBTC": 256239.16487
+      }
+    },
+    {
+      "date": 1744588800,
+      "tokens": {
+        "WHYPE": 14117767.09681,
+        "WSTHYPE": 36803851.33097,
+        "UBTC": 251646.74229
+      }
+    },
+    {
+      "date": 1744675200,
+      "tokens": {
+        "WHYPE": 12071238.22823,
+        "WSTHYPE": 39848255.4379,
+        "UBTC": 252928.13986
+      }
+    },
+    {
+      "date": 1744761600,
+      "tokens": {
+        "WHYPE": 11639347.11034,
+        "WSTHYPE": 39826448.18136,
+        "UBTC": 252195.00557
+      }
+    },
+    {
+      "date": 1744848000,
+      "tokens": {
+        "WHYPE": 12063644.33845,
+        "WSTHYPE": 41588863.64183,
+        "UBTC": 251950.07246
+      }
+    },
+    {
+      "date": 1744934400,
+      "tokens": {
+        "WHYPE": 13210728.1053,
+        "WSTHYPE": 44141182.85749,
+        "UBTC": 256649.08077
+      }
+    },
+    {
+      "date": 1745020800,
+      "tokens": {
+        "WSTHYPE": 44348888.91027,
+        "UBTC": 253580.0069,
+        "WHYPE": 12997488.27854
+      }
+    },
+    {
+      "date": 1745107200,
+      "tokens": {
+        "WHYPE": 13905867.33001,
+        "WSTHYPE": 47279170.26054,
+        "UBTC": 255011.20005
+      }
+    },
+    {
+      "date": 1745193600,
+      "tokens": {
+        "WHYPE": 13590382.32209,
+        "WSTHYPE": 46651056.25374,
+        "UBTC": 254277.98023
+      }
+    },
+    {
+      "date": 1745280000,
+      "tokens": {
+        "WHYPE": 13873145.7034,
+        "WSTHYPE": 47069818.55346,
+        "UBTC": 261763.39015
+      }
+    },
+    {
+      "date": 1745366400,
+      "tokens": {
+        "WHYPE": 14491339.18066,
+        "WSTHYPE": 48926649.05134,
+        "UBTC": 280525.02511,
+        "UETH": 282183.37938
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "WHYPE": 21289430.36065,
+        "WSTHYPE": 47497975.14278,
+        "UBTC": 281110.85627,
+        "UETH": 285384.44968
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "WHYPE": 22127753.07991,
+        "WSTHYPE": 49338593.13961,
+        "UBTC": 283149.90189,
+        "UETH": 283983.8111
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "WHYPE": 25729036.39297,
+        "WSTHYPE": 55054603.07387,
+        "UBTC": 569547.78793,
+        "UETH": 327010.86376
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "WHYPE": 25264539.64721,
+        "WSTHYPE": 55106089.40015,
+        "UBTC": 567687.01783,
+        "UETH": 432598.00891
+      }
+    },
+    {
+      "date": 1745874347,
+      "tokens": {
+        "WHYPE": 24798877.02314,
+        "WSTHYPE": 54600728.72851,
+        "UBTC": 570728.04578,
+        "UETH": 432640.67353
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "date": 1742601600,
+      "tokens": {
+        "WHYPE": 997.09485
+      }
+    },
+    {
+      "date": 1742688000,
+      "tokens": {
+        "WHYPE": 997.09485
+      }
+    },
+    {
+      "date": 1742774400,
+      "tokens": {
+        "WHYPE": 998.10305,
+        "WSTHYPE": 1.59339
+      }
+    },
+    {
+      "date": 1742860800,
+      "tokens": {
+        "WHYPE": 227761.50466,
+        "WSTHYPE": 112465.81014
+      }
+    },
+    {
+      "date": 1742947200,
+      "tokens": {
+        "WHYPE": 226279.75654,
+        "WSTHYPE": 112394.73378
+      }
+    },
+    {
+      "date": 1743033600,
+      "tokens": {
+        "WSTHYPE": 164386.26138,
+        "WHYPE": 335068.13283
+      }
+    },
+    {
+      "date": 1743120000,
+      "tokens": {
+        "WHYPE": 279129.26289,
+        "WSTHYPE": 276641.28248
+      }
+    },
+    {
+      "date": 1743206400,
+      "tokens": {
+        "WHYPE": 277326.2972,
+        "WSTHYPE": 276033.03244
+      }
+    },
+    {
+      "date": 1743292800,
+      "tokens": {
+        "WHYPE": 274929.17888,
+        "WSTHYPE": 276202.54281
+      }
+    },
+    {
+      "date": 1743379200,
+      "tokens": {
+        "WHYPE": 276691.26174,
+        "WSTHYPE": 274222.73552
+      }
+    },
+    {
+      "date": 1743465600,
+      "tokens": {
+        "WHYPE": 419532.41464,
+        "WSTHYPE": 848000.00991
+      }
+    },
+    {
+      "date": 1743552000,
+      "tokens": {
+        "WHYPE": 500000.62841,
+        "WSTHYPE": 848000.01386
+      }
+    },
+    {
+      "date": 1743638400,
+      "tokens": {
+        "WSTHYPE": 1145999.17278,
+        "WHYPE": 699871.40944
+      }
+    },
+    {
+      "date": 1743724800,
+      "tokens": {
+        "WHYPE": 562050.27248,
+        "WSTHYPE": 1290666.35187
+      }
+    },
+    {
+      "date": 1743811200,
+      "tokens": {
+        "WHYPE": 579995.27557,
+        "WSTHYPE": 1521271.0407
+      }
+    },
+    {
+      "date": 1743897600,
+      "tokens": {
+        "WHYPE": 580000.55792,
+        "WSTHYPE": 1545999.70207
+      }
+    },
+    {
+      "date": 1743984000,
+      "tokens": {
+        "WHYPE": 579994.26754,
+        "WSTHYPE": 1546354.76337
+      }
+    },
+    {
+      "date": 1744070400,
+      "tokens": {
+        "WHYPE": 480000.701,
+        "WSTHYPE": 1763808.15471,
+        "UBTC": 4.10551
+      }
+    },
+    {
+      "date": 1744156800,
+      "tokens": {
+        "WHYPE": 480003.40632,
+        "WSTHYPE": 1832609.67314,
+        "UBTC": 3.61573
+      }
+    },
+    {
+      "date": 1744243200,
+      "tokens": {
+        "UBTC": 3.04659,
+        "WSTHYPE": 2327339.80549,
+        "WHYPE": 499725.34317
+      }
+    },
+    {
+      "date": 1744329600,
+      "tokens": {
+        "WHYPE": 759182.53542,
+        "WSTHYPE": 2180086.33476,
+        "UBTC": 3.00004
+      }
+    },
+    {
+      "date": 1744416000,
+      "tokens": {
+        "WHYPE": 843456.63309,
+        "WSTHYPE": 2286494.79121,
+        "UBTC": 3.00016
+      }
+    },
+    {
+      "date": 1744502400,
+      "tokens": {
+        "WHYPE": 984586.98602,
+        "WSTHYPE": 2334915.78933,
+        "UBTC": 3.00039
+      }
+    },
+    {
+      "date": 1744588800,
+      "tokens": {
+        "WHYPE": 905565.56105,
+        "WSTHYPE": 2348682.28022,
+        "UBTC": 3.00482
+      }
+    },
+    {
+      "date": 1744675200,
+      "tokens": {
+        "WHYPE": 769849.3768,
+        "WSTHYPE": 2512500.34287,
+        "UBTC": 3.00001
+      }
+    },
+    {
+      "date": 1744761600,
+      "tokens": {
+        "WHYPE": 769798.08931,
+        "WSTHYPE": 2614999.88059,
+        "UBTC": 2.99996
+      }
+    },
+    {
+      "date": 1744848000,
+      "tokens": {
+        "WHYPE": 768384.98971,
+        "WSTHYPE": 2614007.77133,
+        "UBTC": 3.00001
+      }
+    },
+    {
+      "date": 1744934400,
+      "tokens": {
+        "WHYPE": 769407.57748,
+        "WSTHYPE": 2614998.98445,
+        "UBTC": 3.00013
+      }
+    },
+    {
+      "date": 1745020800,
+      "tokens": {
+        "WSTHYPE": 2614910.90273,
+        "UBTC": 2.99995,
+        "WHYPE": 769993.38143
+      }
+    },
+    {
+      "date": 1745107200,
+      "tokens": {
+        "WHYPE": 769981.57973,
+        "WSTHYPE": 2614998.35512,
+        "UBTC": 3.0001
+      }
+    },
+    {
+      "date": 1745193600,
+      "tokens": {
+        "WHYPE": 769993.3327,
+        "WSTHYPE": 2614969.52095,
+        "UBTC": 3.00015
+      }
+    },
+    {
+      "date": 1745280000,
+      "tokens": {
+        "WHYPE": 769021.38045,
+        "WSTHYPE": 2614989.91964,
+        "UBTC": 2.99998
+      }
+    },
+    {
+      "date": 1745366400,
+      "tokens": {
+        "WHYPE": 769996.76837,
+        "WSTHYPE": 2614999.9493,
+        "UBTC": 3.00014,
+        "UETH": 160.00237
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "WHYPE": 1163992.91201,
+        "WSTHYPE": 2609778.854,
+        "UBTC": 3.00018,
+        "UETH": 159.99666
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "WHYPE": 1164005.94844,
+        "WSTHYPE": 2588593.55402,
+        "UBTC": 3.00039,
+        "UETH": 160.01612
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "WHYPE": 1396798.93556,
+        "WSTHYPE": 2993725.01761,
+        "UBTC": 5.99979,
+        "UETH": 181.61822
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "WHYPE": 1396602.52334,
+        "WSTHYPE": 3080273.30353,
+        "UBTC": 6.00022,
+        "UETH": 240.00023
+      }
+    },
+    {
+      "date": 1745874347,
+      "tokens": {
+        "WHYPE": 1396333.16572,
+        "WSTHYPE": 3105843.49992,
+        "UBTC": 5.99996,
+        "UETH": 239.9986
+      }
+    }
+  ],
+  "currentChainTvls": {
+    "Hyperliquid-borrowed": 27720061.7601,
+    "Hyperliquid": 80402974.47096,
+    "borrowed": 27720061.7601
+  },
+  "raises": [],
+  "metrics": {},
+  "mcap": null
+}
