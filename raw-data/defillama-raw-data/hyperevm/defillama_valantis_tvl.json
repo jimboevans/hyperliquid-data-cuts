@@ -134,8 +134,8 @@
           "totalLiquidityUSD": 5964682.00801
         },
         {
-          "date": 1745875319,
-          "totalLiquidityUSD": 6226829.4133
+          "date": 1745958299,
+          "totalLiquidityUSD": 6862273.2478
         }
       ],
       "tokensInUsd": [
@@ -322,10 +322,10 @@
           }
         },
         {
-          "date": 1745875319,
+          "date": 1745958299,
           "tokens": {
-            "WHYPE": 2153661.42493,
-            "STHYPE": 4073167.98837
+            "STHYPE": 4313965.96674,
+            "WHYPE": 2548307.28106
           }
         }
       ],
@@ -513,10 +513,10 @@
           }
         },
         {
-          "date": 1745875319,
+          "date": 1745958299,
           "tokens": {
-            "WHYPE": 120316.28072,
-            "STHYPE": 227933.29538
+            "STHYPE": 226336.09479,
+            "WHYPE": 134546.31896
           }
         }
       ]
@@ -628,8 +628,8 @@
       "totalLiquidityUSD": 5964682.00801
     },
     {
-      "date": 1745875319,
-      "totalLiquidityUSD": 6226829.4133
+      "date": 1745958299,
+      "totalLiquidityUSD": 6862273.2478
     }
   ],
   "tokensInUsd": [
@@ -816,10 +816,10 @@
       }
     },
     {
-      "date": 1745875319,
+      "date": 1745958299,
       "tokens": {
-        "WHYPE": 2153661.42493,
-        "STHYPE": 4073167.98837
+        "STHYPE": 4313965.96674,
+        "WHYPE": 2548307.28106
       }
     }
   ],
@@ -1007,15 +1007,15 @@
       }
     },
     {
-      "date": 1745875319,
+      "date": 1745958299,
       "tokens": {
-        "WHYPE": 120316.28072,
-        "STHYPE": 227933.29538
+        "STHYPE": 226336.09479,
+        "WHYPE": 134546.31896
       }
     }
   ],
   "currentChainTvls": {
-    "Hyperliquid": 6226829.4133
+    "Hyperliquid": 6862273.2478
   },
   "raises": [],
   "metrics": {},
