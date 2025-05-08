@@ -241,8 +241,44 @@
           "totalLiquidityUSD": 20960031.70615
         },
         {
-          "date": 1745953631,
-          "totalLiquidityUSD": 22904435.83465
+          "date": 1745971200,
+          "totalLiquidityUSD": 23221770.19274
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 24925954.57875
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 27098808.11474
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 28511872.45427
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 29111442.64793
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 26504429.99812
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 27346291.51999
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 27418177.2341
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 27701549.95593
+        },
+        {
+          "date": 1746708011,
+          "totalLiquidityUSD": 29262680.31495
         }
       ],
       "tokensInUsd": [
@@ -793,14 +829,122 @@
           }
         },
         {
-          "date": 1745953631,
+          "date": 1745971200,
           "tokens": {
-            "LHYPE": 359424.70726,
-            "VARIABLEDEBTHYPEREVMWHYPE": -13748380.01503,
-            "HYWSTHYPE": 24596801.83361,
-            "VARIABLEDEBTWHYPE": -19627731.15751,
-            "STHYPE": 3002484.42858,
-            "HHYPEREVMWSTHYPE": 28321836.03773
+            "LHYPE": 358744.3429,
+            "VARIABLEDEBTHYPEREVMWHYPE": -13472604.78078,
+            "HYWSTHYPE": 26888434.53226,
+            "VARIABLEDEBTWHYPE": -21182848.09506,
+            "HHYPEREVMWSTHYPE": 29985477.76111,
+            "STHYPE": 644566.43232
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "STHYPE": 2641088.96084,
+            "LHYPE": 420836.08944,
+            "WHYPE": 179.82,
+            "VARIABLEDEBTHYPEREVMWHYPE": -14503682.799,
+            "HYWSTHYPE": 28916017.39301,
+            "VARIABLEDEBTWHYPE": -22804102.27387,
+            "HHYPEREVMWSTHYPE": 30255617.38835
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "LHYPE": 452469.03916,
+            "WHYPE": 69.755,
+            "VARIABLEDEBTHYPEREVMWHYPE": -14445893.77627,
+            "HYWSTHYPE": 28844108.40081,
+            "VARIABLEDEBTWHYPE": -22713371.69059,
+            "HHYPEREVMWSTHYPE": 31971797.54408,
+            "STHYPE": 2989628.84255
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "STHYPE": 3623299.97569,
+            "LHYPE": 493888.01978,
+            "WHYPE": 1833.60403,
+            "VARIABLEDEBTHYPEREVMWHYPE": -15077741.08437,
+            "HYWSTHYPE": 30061645.28855,
+            "VARIABLEDEBTWHYPE": -23706971.0684,
+            "HHYPEREVMWSTHYPE": 33115917.71899
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "WHYPE": 218407.21568,
+            "VARIABLEDEBTHYPEREVMWHYPE": -15194189.65722,
+            "HYWSTHYPE": 30308820.27369,
+            "VARIABLEDEBTWHYPE": -23890200.67238,
+            "LHYPE": 497914.92449,
+            "STHYPE": 3403259.90689,
+            "HHYPEREVMWSTHYPE": 33767430.65678
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "VARIABLEDEBTHYPEREVMWHYPE": -14410432.91599,
+            "HYWSTHYPE": 30064360.07719,
+            "VARIABLEDEBTWHYPE": -23650537.1483,
+            "HHYPEREVMWSTHYPE": 32114813.03137,
+            "WHYPE": 35293.46203,
+            "LHYPE": 478964.78465,
+            "STHYPE": 1871968.70717
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "STHYPE": 2727033.41328,
+            "LHYPE": 483228.56611,
+            "WHYPE": 442.11651,
+            "VARIABLEDEBTHYPEREVMWHYPE": -14759165.47681,
+            "HYWSTHYPE": 30701235.79788,
+            "VARIABLEDEBTWHYPE": -24223216.6381,
+            "HHYPEREVMWSTHYPE": 32416733.74112
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "STHYPE": 2986323.14994,
+            "LHYPE": 498862.43149,
+            "WHYPE": 526,
+            "VARIABLEDEBTHYPEREVMWHYPE": -15274882.39404,
+            "HYWSTHYPE": 31669829.62412,
+            "VARIABLEDEBTWHYPE": -25069902.13498,
+            "HHYPEREVMWSTHYPE": 32607420.55757
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "LHYPE": 500520.56872,
+            "WHYPE": 1879.68,
+            "VARIABLEDEBTHYPEREVMWHYPE": -25007559.00349,
+            "HYWSTHYPE": 31777247.99977,
+            "VARIABLEDEBTWHYPE": -25082511.99151,
+            "HHYPEREVMWSTHYPE": 44127658.24948,
+            "STHYPE": 1384314.45295
+          }
+        },
+        {
+          "date": 1746708011,
+          "tokens": {
+            "STHYPE": 1545405.39014,
+            "LHYPE": 513548.78987,
+            "WHYPE": 406.76057,
+            "VARIABLEDEBTHYPEREVMWHYPE": -25640011.18126,
+            "HYWSTHYPE": 32609061.38426,
+            "VARIABLEDEBTWHYPE": -25714597.05978,
+            "HHYPEREVMWSTHYPE": 45948866.23117
           }
         }
       ],
@@ -1352,14 +1496,122 @@
           }
         },
         {
-          "date": 1745953631,
+          "date": 1745971200,
           "tokens": {
-            "LHYPE": 18867.4387,
-            "VARIABLEDEBTHYPEREVMWHYPE": 725891.23627,
-            "HYWSTHYPE": 1292010.97946,
-            "VARIABLEDEBTWHYPE": 1036311.04316,
-            "STHYPE": 158693.68016,
-            "HHYPEREVMWSTHYPE": 1489055.52249
+            "LHYPE": 19245.94114,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725894.65414,
+            "HYWSTHYPE": 1442010.99064,
+            "VARIABLEDEBTWHYPE": 1141317.2465,
+            "HHYPEREVMWSTHYPE": 1589055.52523,
+            "STHYPE": 34691.41186
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "STHYPE": 132186.63468,
+            "LHYPE": 20978.86787,
+            "WHYPE": 9,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725910.05,
+            "HYWSTHYPE": 1442011.01701,
+            "VARIABLEDEBTWHYPE": 1141346.46015,
+            "HHYPEREVMWSTHYPE": 1589055.5351
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "LHYPE": 22612.14589,
+            "WHYPE": 3.5,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725924.31037,
+            "HYWSTHYPE": 1442011.0342,
+            "VARIABLEDEBTWHYPE": 1141375.46184,
+            "HHYPEREVMWSTHYPE": 1589055.54394,
+            "STHYPE": 150006.46475
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "STHYPE": 174448.72295,
+            "LHYPE": 23687.67481,
+            "WHYPE": 88.4944,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725938.42486,
+            "HYWSTHYPE": 1442011.05136,
+            "VARIABLEDEBTWHYPE": 1141404.48091,
+            "HHYPEREVMWSTHYPE": 1589055.55273
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "WHYPE": 10420.19159,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725952.6831,
+            "HYWSTHYPE": 1442011.06889,
+            "VARIABLEDEBTWHYPE": 1141433.38138,
+            "LHYPE": 23687.67481,
+            "STHYPE": 162524.35085,
+            "HHYPEREVMWSTHYPE": 1589055.56032
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "VARIABLEDEBTHYPEREVMWHYPE": 725966.39375,
+            "HYWSTHYPE": 1505011.08644,
+            "VARIABLEDEBTWHYPE": 1191462.82863,
+            "HHYPEREVMWSTHYPE": 1589055.5681,
+            "WHYPE": 1761.1508,
+            "LHYPE": 23687.67481,
+            "STHYPE": 92993.97452
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "STHYPE": 134204.40026,
+            "LHYPE": 23687.67481,
+            "WHYPE": 21.747,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725979.61027,
+            "HYWSTHYPE": 1505011.10188,
+            "VARIABLEDEBTWHYPE": 1191501.06434,
+            "HHYPEREVMWSTHYPE": 1589055.57554
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "STHYPE": 142477.24952,
+            "LHYPE": 23687.67481,
+            "WHYPE": 25,
+            "VARIABLEDEBTHYPEREVMWHYPE": 725992.50922,
+            "HYWSTHYPE": 1505011.1154,
+            "VARIABLEDEBTWHYPE": 1191535.27258,
+            "HHYPEREVMWSTHYPE": 1589055.58273
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "LHYPE": 23687.67481,
+            "WHYPE": 89,
+            "VARIABLEDEBTHYPEREVMWHYPE": 1188007.55361,
+            "HYWSTHYPE": 1505011.12777,
+            "VARIABLEDEBTWHYPE": 1191568.26563,
+            "HHYPEREVMWSTHYPE": 2093342.4217,
+            "STHYPE": 65825.69914
+          }
+        },
+        {
+          "date": 1746708011,
+          "tokens": {
+            "STHYPE": 71612.85404,
+            "LHYPE": 23687.67481,
+            "WHYPE": 18.84896,
+            "VARIABLEDEBTHYPEREVMWHYPE": 1188137.68217,
+            "HYWSTHYPE": 1505011.13444,
+            "VARIABLEDEBTWHYPE": 1191593.93233,
+            "HHYPEREVMWSTHYPE": 2093342.42511
           }
         }
       ]
@@ -1583,8 +1835,44 @@
       "totalLiquidityUSD": 20960031.70615
     },
     {
-      "date": 1745953631,
-      "totalLiquidityUSD": 22904435.83465
+      "date": 1745971200,
+      "totalLiquidityUSD": 23221770.19274
+    },
+    {
+      "date": 1746057600,
+      "totalLiquidityUSD": 24925954.57875
+    },
+    {
+      "date": 1746144000,
+      "totalLiquidityUSD": 27098808.11474
+    },
+    {
+      "date": 1746230400,
+      "totalLiquidityUSD": 28511872.45427
+    },
+    {
+      "date": 1746316800,
+      "totalLiquidityUSD": 29111442.64793
+    },
+    {
+      "date": 1746403200,
+      "totalLiquidityUSD": 26504429.99812
+    },
+    {
+      "date": 1746489600,
+      "totalLiquidityUSD": 27346291.51999
+    },
+    {
+      "date": 1746576000,
+      "totalLiquidityUSD": 27418177.2341
+    },
+    {
+      "date": 1746662400,
+      "totalLiquidityUSD": 27701549.95593
+    },
+    {
+      "date": 1746708011,
+      "totalLiquidityUSD": 29262680.31495
     }
   ],
   "tokensInUsd": [
@@ -2135,14 +2423,122 @@
       }
     },
     {
-      "date": 1745953631,
+      "date": 1745971200,
       "tokens": {
-        "LHYPE": 359424.70726,
-        "VARIABLEDEBTHYPEREVMWHYPE": -13748380.01503,
-        "HYWSTHYPE": 24596801.83361,
-        "VARIABLEDEBTWHYPE": -19627731.15751,
-        "STHYPE": 3002484.42858,
-        "HHYPEREVMWSTHYPE": 28321836.03773
+        "LHYPE": 358744.3429,
+        "VARIABLEDEBTHYPEREVMWHYPE": -13472604.78078,
+        "HYWSTHYPE": 26888434.53226,
+        "VARIABLEDEBTWHYPE": -21182848.09506,
+        "HHYPEREVMWSTHYPE": 29985477.76111,
+        "STHYPE": 644566.43232
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "STHYPE": 2641088.96084,
+        "LHYPE": 420836.08944,
+        "WHYPE": 179.82,
+        "VARIABLEDEBTHYPEREVMWHYPE": -14503682.799,
+        "HYWSTHYPE": 28916017.39301,
+        "VARIABLEDEBTWHYPE": -22804102.27387,
+        "HHYPEREVMWSTHYPE": 30255617.38835
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "LHYPE": 452469.03916,
+        "WHYPE": 69.755,
+        "VARIABLEDEBTHYPEREVMWHYPE": -14445893.77627,
+        "HYWSTHYPE": 28844108.40081,
+        "VARIABLEDEBTWHYPE": -22713371.69059,
+        "HHYPEREVMWSTHYPE": 31971797.54408,
+        "STHYPE": 2989628.84255
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "STHYPE": 3623299.97569,
+        "LHYPE": 493888.01978,
+        "WHYPE": 1833.60403,
+        "VARIABLEDEBTHYPEREVMWHYPE": -15077741.08437,
+        "HYWSTHYPE": 30061645.28855,
+        "VARIABLEDEBTWHYPE": -23706971.0684,
+        "HHYPEREVMWSTHYPE": 33115917.71899
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "WHYPE": 218407.21568,
+        "VARIABLEDEBTHYPEREVMWHYPE": -15194189.65722,
+        "HYWSTHYPE": 30308820.27369,
+        "VARIABLEDEBTWHYPE": -23890200.67238,
+        "LHYPE": 497914.92449,
+        "STHYPE": 3403259.90689,
+        "HHYPEREVMWSTHYPE": 33767430.65678
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "VARIABLEDEBTHYPEREVMWHYPE": -14410432.91599,
+        "HYWSTHYPE": 30064360.07719,
+        "VARIABLEDEBTWHYPE": -23650537.1483,
+        "HHYPEREVMWSTHYPE": 32114813.03137,
+        "WHYPE": 35293.46203,
+        "LHYPE": 478964.78465,
+        "STHYPE": 1871968.70717
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "STHYPE": 2727033.41328,
+        "LHYPE": 483228.56611,
+        "WHYPE": 442.11651,
+        "VARIABLEDEBTHYPEREVMWHYPE": -14759165.47681,
+        "HYWSTHYPE": 30701235.79788,
+        "VARIABLEDEBTWHYPE": -24223216.6381,
+        "HHYPEREVMWSTHYPE": 32416733.74112
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "STHYPE": 2986323.14994,
+        "LHYPE": 498862.43149,
+        "WHYPE": 526,
+        "VARIABLEDEBTHYPEREVMWHYPE": -15274882.39404,
+        "HYWSTHYPE": 31669829.62412,
+        "VARIABLEDEBTWHYPE": -25069902.13498,
+        "HHYPEREVMWSTHYPE": 32607420.55757
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "LHYPE": 500520.56872,
+        "WHYPE": 1879.68,
+        "VARIABLEDEBTHYPEREVMWHYPE": -25007559.00349,
+        "HYWSTHYPE": 31777247.99977,
+        "VARIABLEDEBTWHYPE": -25082511.99151,
+        "HHYPEREVMWSTHYPE": 44127658.24948,
+        "STHYPE": 1384314.45295
+      }
+    },
+    {
+      "date": 1746708011,
+      "tokens": {
+        "STHYPE": 1545405.39014,
+        "LHYPE": 513548.78987,
+        "WHYPE": 406.76057,
+        "VARIABLEDEBTHYPEREVMWHYPE": -25640011.18126,
+        "HYWSTHYPE": 32609061.38426,
+        "VARIABLEDEBTWHYPE": -25714597.05978,
+        "HHYPEREVMWSTHYPE": 45948866.23117
       }
     }
   ],
@@ -2694,21 +3090,129 @@
       }
     },
     {
-      "date": 1745953631,
+      "date": 1745971200,
       "tokens": {
-        "LHYPE": 18867.4387,
-        "VARIABLEDEBTHYPEREVMWHYPE": 725891.23627,
-        "HYWSTHYPE": 1292010.97946,
-        "VARIABLEDEBTWHYPE": 1036311.04316,
-        "STHYPE": 158693.68016,
-        "HHYPEREVMWSTHYPE": 1489055.52249
+        "LHYPE": 19245.94114,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725894.65414,
+        "HYWSTHYPE": 1442010.99064,
+        "VARIABLEDEBTWHYPE": 1141317.2465,
+        "HHYPEREVMWSTHYPE": 1589055.52523,
+        "STHYPE": 34691.41186
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "STHYPE": 132186.63468,
+        "LHYPE": 20978.86787,
+        "WHYPE": 9,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725910.05,
+        "HYWSTHYPE": 1442011.01701,
+        "VARIABLEDEBTWHYPE": 1141346.46015,
+        "HHYPEREVMWSTHYPE": 1589055.5351
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "LHYPE": 22612.14589,
+        "WHYPE": 3.5,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725924.31037,
+        "HYWSTHYPE": 1442011.0342,
+        "VARIABLEDEBTWHYPE": 1141375.46184,
+        "HHYPEREVMWSTHYPE": 1589055.54394,
+        "STHYPE": 150006.46475
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "STHYPE": 174448.72295,
+        "LHYPE": 23687.67481,
+        "WHYPE": 88.4944,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725938.42486,
+        "HYWSTHYPE": 1442011.05136,
+        "VARIABLEDEBTWHYPE": 1141404.48091,
+        "HHYPEREVMWSTHYPE": 1589055.55273
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "WHYPE": 10420.19159,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725952.6831,
+        "HYWSTHYPE": 1442011.06889,
+        "VARIABLEDEBTWHYPE": 1141433.38138,
+        "LHYPE": 23687.67481,
+        "STHYPE": 162524.35085,
+        "HHYPEREVMWSTHYPE": 1589055.56032
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "VARIABLEDEBTHYPEREVMWHYPE": 725966.39375,
+        "HYWSTHYPE": 1505011.08644,
+        "VARIABLEDEBTWHYPE": 1191462.82863,
+        "HHYPEREVMWSTHYPE": 1589055.5681,
+        "WHYPE": 1761.1508,
+        "LHYPE": 23687.67481,
+        "STHYPE": 92993.97452
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "STHYPE": 134204.40026,
+        "LHYPE": 23687.67481,
+        "WHYPE": 21.747,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725979.61027,
+        "HYWSTHYPE": 1505011.10188,
+        "VARIABLEDEBTWHYPE": 1191501.06434,
+        "HHYPEREVMWSTHYPE": 1589055.57554
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "STHYPE": 142477.24952,
+        "LHYPE": 23687.67481,
+        "WHYPE": 25,
+        "VARIABLEDEBTHYPEREVMWHYPE": 725992.50922,
+        "HYWSTHYPE": 1505011.1154,
+        "VARIABLEDEBTWHYPE": 1191535.27258,
+        "HHYPEREVMWSTHYPE": 1589055.58273
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "LHYPE": 23687.67481,
+        "WHYPE": 89,
+        "VARIABLEDEBTHYPEREVMWHYPE": 1188007.55361,
+        "HYWSTHYPE": 1505011.12777,
+        "VARIABLEDEBTWHYPE": 1191568.26563,
+        "HHYPEREVMWSTHYPE": 2093342.4217,
+        "STHYPE": 65825.69914
+      }
+    },
+    {
+      "date": 1746708011,
+      "tokens": {
+        "STHYPE": 71612.85404,
+        "LHYPE": 23687.67481,
+        "WHYPE": 18.84896,
+        "VARIABLEDEBTHYPEREVMWHYPE": 1188137.68217,
+        "HYWSTHYPE": 1505011.13444,
+        "VARIABLEDEBTWHYPE": 1191593.93233,
+        "HHYPEREVMWSTHYPE": 2093342.42511
       }
     }
   ],
   "currentChainTvls": {
-    "Hyperliquid": 22904435.83465
+    "Hyperliquid": 29262680.31495
   },
   "raises": [],
   "metrics": {},
-  "mcap": 22928582.268428512
+  "mcap": 28702351.94804472
 }

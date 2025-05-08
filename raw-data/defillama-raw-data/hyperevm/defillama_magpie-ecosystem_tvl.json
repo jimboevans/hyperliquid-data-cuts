@@ -13,20 +13,20 @@
     "snapshot:magpiexyz.eth"
   ],
   "currentChainTvls": {
-    "Arbitrum-staking": 10603517.23883,
-    "BSC-staking": 6731679.04696,
-    "BSC": 18200630.256139997,
-    "Arbitrum": 27232530.331630003,
-    "staking": 18903566.1393,
-    "Ethereum-staking": 1560999.89446,
-    "OP Mainnet-staking": 7369.95906,
-    "Base": 571186.33644,
-    "Ethereum": 369743023.31996,
-    "Sonic": 15148437.3174,
-    "OP Mainnet": 979.55818,
-    "Zircuit": 261043837.6824,
-    "Bitcoin": 5699777.2427,
-    "Hyperliquid L1": 2909558.59536
+    "Arbitrum-staking": 12181212.186329998,
+    "BSC-staking": 6910934.40061,
+    "BSC": 15949037.907440001,
+    "Arbitrum": 29812602.6369,
+    "staking": 20941931.57118,
+    "Ethereum-staking": 1837118.40655,
+    "OP Mainnet-staking": 12666.57769,
+    "Sonic": 15696533.44488,
+    "Base": 3669777.45025,
+    "Ethereum": 481626037.88284004,
+    "OP Mainnet": 722.52405,
+    "Zircuit": 279567728.50574,
+    "Bitcoin": 5938970.08248,
+    "Hyperliquid L1": 3599683.4793
   },
   "chainTvls": {
     "Arbitrum-staking": {
@@ -3044,8 +3044,44 @@
           "totalLiquidityUSD": 10869499.30459
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 10603517.23883
+          "date": 1745971200,
+          "totalLiquidityUSD": 10355218.97919
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 10634463.686859999
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 10861101.80267
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 10942262.111060001
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 10581489.90253
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 10487931.45691
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 10447510.45152
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 10568765.442669999
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 11221086.77393
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 12181212.186329998
         }
       ],
       "tokensInUsd": null,
@@ -6230,8 +6266,44 @@
           "totalLiquidityUSD": 7021984.6624
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 6731679.04696
+          "date": 1745971200,
+          "totalLiquidityUSD": 6618478.64322
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 6495080.68128
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 6541183.3421
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 7021964.3099
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 7001837.76398
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 6686863.50359
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 6832786.45462
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 6614105.542610001
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 6556071.32091
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 6910934.40061
         }
       ],
       "tokensInUsd": null,
@@ -9844,8 +9916,44 @@
           "totalLiquidityUSD": 18399179.213019997
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 18200630.256139997
+          "date": 1745971200,
+          "totalLiquidityUSD": 18113939.01412
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 18040305.567789998
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 19789395.815580003
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 20107211.43438
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 19744333.218009997
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 19669265.34245
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 19319169.6596
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 21429627.02814
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 17814022.08902
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 15949037.907440001
         }
       ],
       "tokensInUsd": null,
@@ -12866,8 +12974,44 @@
           "totalLiquidityUSD": 28272802.42929
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 27232530.331630003
+          "date": 1745971200,
+          "totalLiquidityUSD": 27924831.18232
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 28756618.86039
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 29441178.167270005
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 28233392.54428
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 28034090.01199
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 28831776.371799998
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 28372461.656090003
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 28251736.0339
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 27669606.710419998
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 29812602.6369
         }
       ],
       "tokensInUsd": null,
@@ -16052,8 +16196,44 @@
           "totalLiquidityUSD": 19459853.820499998
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 18903566.1393
+          "date": 1745971200,
+          "totalLiquidityUSD": 18501645.5725
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 18706000.57185
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 19027247.6932
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 19564935.79702
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 19095108.7439
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 18678491.647109997
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 18770980.869219996
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 18733681.97256
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 19463966.42849
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 20941931.57118
         }
       ],
       "tokensInUsd": null,
@@ -18830,8 +19010,44 @@
           "totalLiquidityUSD": 1560999.89446
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 1560999.89446
+          "date": 1745971200,
+          "totalLiquidityUSD": 1520767.93841
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 1569048.25517
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 1617326.66302
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 1593187.45909
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 1504677.0447
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 1496630.64339
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 1483693.89882
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 1540153.20605
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 1675257.75399
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 1837118.40655
         }
       ],
       "tokensInUsd": null,
@@ -21152,8 +21368,222 @@
           "totalLiquidityUSD": 7369.95906
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 7369.95906
+          "date": 1745971200,
+          "totalLiquidityUSD": 7180.01166
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 7407.94854
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 7635.88542
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 7521.91698
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 7104.0327
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 7066.04322
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 6990.06426
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 10657.78123
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 11550.57966
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 12666.57769
+        }
+      ],
+      "tokensInUsd": null,
+      "tokens": null
+    },
+    "Sonic": {
+      "tvl": [
+        {
+          "date": 1743120000,
+          "totalLiquidityUSD": 11004177.36438
+        },
+        {
+          "date": 1743206400,
+          "totalLiquidityUSD": 11932544.21343
+        },
+        {
+          "date": 1743292800,
+          "totalLiquidityUSD": 12768908.93779
+        },
+        {
+          "date": 1743379200,
+          "totalLiquidityUSD": 13362151.69639
+        },
+        {
+          "date": 1743465600,
+          "totalLiquidityUSD": 14291234.87764
+        },
+        {
+          "date": 1743552000,
+          "totalLiquidityUSD": 15211367.08817
+        },
+        {
+          "date": 1743638400,
+          "totalLiquidityUSD": 15271342.36336
+        },
+        {
+          "date": 1743724800,
+          "totalLiquidityUSD": 15788749.54351
+        },
+        {
+          "date": 1743811200,
+          "totalLiquidityUSD": 16098812.43624
+        },
+        {
+          "date": 1743897600,
+          "totalLiquidityUSD": 15716213.53563
+        },
+        {
+          "date": 1743984000,
+          "totalLiquidityUSD": 16365471.5929
+        },
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 15855952.89189
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 15327977.77518
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 15708696.93838
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 16295798.93175
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 15368144.11465
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 17422869.60953
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 17368850.36181
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 17781092.48361
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 17875675.34478
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 16419572.40721
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 15239146.55988
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 15016992.45461
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 15302359.21334
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 15614693.87922
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 15691014.36616
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 15940694.61335
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 16224457.33304
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 16133203.25932
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 16557274.80592
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 15342509.33378
+        },
+        {
+          "date": 1745798400,
+          "totalLiquidityUSD": 15360700.89885
+        },
+        {
+          "date": 1745884800,
+          "totalLiquidityUSD": 14774437.60453
+        },
+        {
+          "date": 1745971200,
+          "totalLiquidityUSD": 15121547.62088
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 15201237.13419
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 14824900.8467
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 14804324.74384
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 14857794.85423
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 15026912.7126
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 15370482.69733
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 15161254.08418
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 15319001.80324
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 15696533.44488
         }
       ],
       "tokensInUsd": null,
@@ -21294,8 +21724,44 @@
           "totalLiquidityUSD": 2695254.52161
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 571186.33644
+          "date": 1745971200,
+          "totalLiquidityUSD": 562456.35861
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 553944.50154
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 556745.27525
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 559567.15722
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 555804.43335
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 550145.13181
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 467419.95842
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 465234.94297
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 457300.38624
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 3669777.45025
         }
       ],
       "tokensInUsd": null,
@@ -24072,150 +24538,44 @@
           "totalLiquidityUSD": 367721837.41736
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 369743023.31996
-        }
-      ],
-      "tokensInUsd": null,
-      "tokens": null
-    },
-    "Sonic": {
-      "tvl": [
-        {
-          "date": 1743120000,
-          "totalLiquidityUSD": 11004177.36438
+          "date": 1745971200,
+          "totalLiquidityUSD": 368352429.44022
         },
         {
-          "date": 1743206400,
-          "totalLiquidityUSD": 11932544.21343
+          "date": 1746057600,
+          "totalLiquidityUSD": 359972866.35960996
         },
         {
-          "date": 1743292800,
-          "totalLiquidityUSD": 12768908.93779
+          "date": 1746144000,
+          "totalLiquidityUSD": 367788778.69035
         },
         {
-          "date": 1743379200,
-          "totalLiquidityUSD": 13362151.69639
+          "date": 1746230400,
+          "totalLiquidityUSD": 465192920.10684
         },
         {
-          "date": 1743465600,
-          "totalLiquidityUSD": 14291234.87764
+          "date": 1746316800,
+          "totalLiquidityUSD": 462747593.94086003
         },
         {
-          "date": 1743552000,
-          "totalLiquidityUSD": 15211367.08817
+          "date": 1746403200,
+          "totalLiquidityUSD": 457253572.58798003
         },
         {
-          "date": 1743638400,
-          "totalLiquidityUSD": 15271342.36336
+          "date": 1746489600,
+          "totalLiquidityUSD": 458061088.04166996
         },
         {
-          "date": 1743724800,
-          "totalLiquidityUSD": 15788749.54351
+          "date": 1746576000,
+          "totalLiquidityUSD": 465938037.92356
         },
         {
-          "date": 1743811200,
-          "totalLiquidityUSD": 16098812.43624
+          "date": 1746662400,
+          "totalLiquidityUSD": 463528271.35653
         },
         {
-          "date": 1743897600,
-          "totalLiquidityUSD": 15716213.53563
-        },
-        {
-          "date": 1743984000,
-          "totalLiquidityUSD": 16365471.5929
-        },
-        {
-          "date": 1744070400,
-          "totalLiquidityUSD": 15855952.89189
-        },
-        {
-          "date": 1744156800,
-          "totalLiquidityUSD": 15327977.77518
-        },
-        {
-          "date": 1744243200,
-          "totalLiquidityUSD": 15708696.93838
-        },
-        {
-          "date": 1744329600,
-          "totalLiquidityUSD": 16295798.93175
-        },
-        {
-          "date": 1744416000,
-          "totalLiquidityUSD": 15368144.11465
-        },
-        {
-          "date": 1744502400,
-          "totalLiquidityUSD": 17422869.60953
-        },
-        {
-          "date": 1744588800,
-          "totalLiquidityUSD": 17368850.36181
-        },
-        {
-          "date": 1744675200,
-          "totalLiquidityUSD": 17781092.48361
-        },
-        {
-          "date": 1744761600,
-          "totalLiquidityUSD": 17875675.34478
-        },
-        {
-          "date": 1744848000,
-          "totalLiquidityUSD": 16419572.40721
-        },
-        {
-          "date": 1744934400,
-          "totalLiquidityUSD": 15239146.55988
-        },
-        {
-          "date": 1745020800,
-          "totalLiquidityUSD": 15016992.45461
-        },
-        {
-          "date": 1745107200,
-          "totalLiquidityUSD": 15302359.21334
-        },
-        {
-          "date": 1745193600,
-          "totalLiquidityUSD": 15614693.87922
-        },
-        {
-          "date": 1745280000,
-          "totalLiquidityUSD": 15691014.36616
-        },
-        {
-          "date": 1745366400,
-          "totalLiquidityUSD": 15940694.61335
-        },
-        {
-          "date": 1745452800,
-          "totalLiquidityUSD": 16224457.33304
-        },
-        {
-          "date": 1745539200,
-          "totalLiquidityUSD": 16133203.25932
-        },
-        {
-          "date": 1745625600,
-          "totalLiquidityUSD": 16557274.80592
-        },
-        {
-          "date": 1745712000,
-          "totalLiquidityUSD": 15342509.33378
-        },
-        {
-          "date": 1745798400,
-          "totalLiquidityUSD": 15360700.89885
-        },
-        {
-          "date": 1745884800,
-          "totalLiquidityUSD": 14774437.60453
-        },
-        {
-          "date": 1745956067,
-          "totalLiquidityUSD": 15148437.3174
+          "date": 1746707759,
+          "totalLiquidityUSD": 481626037.88284004
         }
       ],
       "tokensInUsd": null,
@@ -26624,8 +26984,44 @@
           "totalLiquidityUSD": 1044.7555
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 979.55818
+          "date": 1745971200,
+          "totalLiquidityUSD": 1031.69238
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 1070.85254
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 1110.20053
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 1044.91305
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 1012.23213
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 1057.84917
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 1038.3101
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 637.61226
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 629.56006
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 722.52405
         }
       ],
       "tokensInUsd": null,
@@ -27350,8 +27746,44 @@
           "totalLiquidityUSD": 256992469.35085
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 261043837.6824
+          "date": 1745971200,
+          "totalLiquidityUSD": 257495777.4019
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 256435990.76008
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 263329713.36706
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 263001682.74567
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 262257330.03235
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 258401561.28886
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 259223817.18044
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 258621500.37015
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 259956871.88371
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 279567728.50574
         }
       ],
       "tokensInUsd": null,
@@ -27744,8 +28176,44 @@
           "totalLiquidityUSD": 5678515.65694
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 5699777.2427
+          "date": 1745971200,
+          "totalLiquidityUSD": 5631274.32454
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 5626078.37521
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 5764457.8533
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 5786256.95106
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 5727488.97245
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 5655044.29963
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 5653730.38141
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 5804174.01771
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 5794797.4195
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 5938970.08248
         }
       ],
       "tokensInUsd": null,
@@ -27890,8 +28358,44 @@
           "totalLiquidityUSD": 2831196.10696
         },
         {
-          "date": 1745956067,
-          "totalLiquidityUSD": 2909558.59536
+          "date": 1745971200,
+          "totalLiquidityUSD": 2850042.68294
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 3237532.93871
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 3244880.30804
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 3373489.97429
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 3335223.55699
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 3139266.78851
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 3159982.93328
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 3369996.44291
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 3498322.45519
+        },
+        {
+          "date": 1746707759,
+          "totalLiquidityUSD": 3599683.4793
         }
       ],
       "tokensInUsd": null,
@@ -78096,16 +78600,16 @@
       }
     },
     {
-      "date": 1745956067,
+      "date": 1745971200,
       "tokens": {
         "WOM": 16427199.43602,
-        "BUSD": 7415.73978,
-        "USDT": 130310.40995,
+        "BUSD": 7415.68459,
+        "USDT": 128696.28923999998,
         "DAI": 42009.58476,
         "USDC": 2393978.78322,
-        "WBNB": 4166.59859,
+        "WBNB": 4164.153,
         "BNBX": 1070.77331,
-        "LISUSD": 67554.10534,
+        "LISUSD": 67566.23478,
         "FRAX": 56.00896,
         "TUSD": 1001.07449,
         "IUSD": 18.00389,
@@ -78123,44 +78627,44 @@
         "SLISBNB": 2.67282,
         "ZUSD": 10.4332,
         "USDV": 549.39266,
-        "BTCB": 4.20959,
+        "BTCB": 4.21,
         "USDC.E": 205667.87768,
         "USDT0": 143446.43959999998,
         "MIM": 20.68392,
         "WETH": 69981.66377,
         "MAI": 22.35653,
-        "WSTETH": 60982.86348,
-        "MPENDLE": 8459286.25853,
-        "PENDLE": 20210.44879,
+        "WSTETH": 60982.86856,
+        "MPENDLE": 8457470.1045,
+        "PENDLE": 20056.6854,
         "FUSDC": 11.84914,
         "SFRAX": 22339.95097,
-        "PENDLE-LPT": 19650926.77552,
+        "PENDLE-LPT": 20515489.88975,
         "MPENDLEOFT": 1249594.84541,
-        "RDNT": 2153790.95971,
         "WBTC": 6.77984,
         "ARB": 285042.26272,
         "WEETH": 14.6325,
-        "USDE": 6096.45276,
         "WETH-USDC-GMX-V2": 143526.61114,
         "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
         "RDNT-WETH": 447594.88547,
-        "CAKE": 3599872.62127,
-        "MGP": 4366033.14182,
-        "ALPACA": 2710.00333,
-        "PNP": 10074.70195,
+        "RDNT": 2181994.28067,
+        "CAKE": 3600383.79487,
+        "MGP": 4398492.78037,
+        "ALPACA": 1213.83763,
+        "PNP": 10109.49557,
         "RDP": 312387.63643,
         "BRIDGED MBTC": 0.79401,
-        "CKP": 9681.51217,
-        "CGPT": 276.99616,
-        "PEPE": 32552387.66949,
+        "LISTA": 4164668.99232,
+        "CKP": 9623.23997,
+        "CGPT": 279.48627,
+        "PEPE": 33517326.54672,
         "SOLVBTC": 0.0003,
-        "DOT": 11.80469,
-        "LISTA": 4158212.14512,
+        "DOT": 12.29526,
         "INSP": 136.12927,
-        "WNCG": 153616.36725,
-        "XCAD": 622.32607,
-        "HZN": 6748763.70566,
         "LTP": 83352.77219,
+        "WNCG": 119685.55383,
+        "XCAD": 622.23271,
+        "HZN": 6745499.13565,
         "STETH": 1448.19905,
         "RETH": 27.4763,
         "METH": 85.86668,
@@ -78169,12 +78673,754 @@
         "ETHX": 103.20415,
         "OSETH": 8.28651,
         "OETH": 10.07477,
-        "LSETH": 8.65615,
         "EIGEN": 7735.82125,
         "RED": 2725117.20314,
+        "LSETH": 8.65615,
         "NBTC": 2000,
         "BTC": 59.72356,
-        "HYPE": 153863.48997
+        "HYPE": 153889.99368
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "WOM": 16422780.81805,
+        "BUSD": 7415.68532,
+        "USDT": 155528.91372,
+        "DAI": 42009.58476,
+        "USDC": 2393977.17628,
+        "WBNB": 4139.96312,
+        "BNBX": 1070.77331,
+        "LISUSD": 39547.44083,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "ETH": 66427.02536,
+        "USD+": 126.58754,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 58.8896,
+        "WBETH": 538.12527,
+        "ANKRETH": 9.45545,
+        "SLISBNB": 1.9249200000000002,
+        "ZUSD": 10.4332,
+        "USDV": 549.39266,
+        "BTCB": 4.209490000000001,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "WETH": 69981.66377,
+        "MAI": 22.35653,
+        "WSTETH": 60982.88939,
+        "MPENDLE": 8438456.56904,
+        "PENDLE": 20290.17457,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.95097,
+        "PENDLE-LPT": 16999281.83935,
+        "MPENDLEOFT": 1249696.0012,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "RDNT": 2134294.43236,
+        "CAKE": 3564828.3732,
+        "CKP": 10333.02669,
+        "PEPE": 33431957.47774,
+        "SOLVBTC": 0.0003,
+        "DOT": 12.45051,
+        "RDP": 314182.94743,
+        "CGPT": 271.49796,
+        "XCAD": 620.92713,
+        "INSP": 136.12927,
+        "MGP": 4185997.21878,
+        "LISTA": 4174094.74364,
+        "BRIDGED MBTC": 0.79401,
+        "HZN": 6739046.86262,
+        "LTP": 77564.86871,
+        "PNP": 2035.95284,
+        "WNCG": 79255.79445,
+        "STETH": 1448.19905,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2932.67456,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "EIGEN": 7735.82125,
+        "RED": 2729257.10556,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "NBTC": 2000,
+        "BTC": 59.72356,
+        "HYPE": 161957.62575
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "WOM": 16434799.25326,
+        "BUSD": 7415.77219,
+        "USDT": 150418.82640000002,
+        "DAI": 42009.58476,
+        "USDC": 2393978.78322,
+        "WBNB": 4138.12483,
+        "BNBX": 1070.77331,
+        "LISUSD": 37421.06009,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "ETH": 66426.92408000001,
+        "USD+": 126.58754,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 538.24419,
+        "ANKRETH": 9.45545,
+        "SLISBNB": 2.29886,
+        "ZUSD": 10.4332,
+        "USDV": 549.39266,
+        "BTCB": 4.2133400000000005,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "WETH": 69981.66377,
+        "MAI": 22.35653,
+        "WSTETH": 60982.78102,
+        "MPENDLE": 8487554.77453,
+        "PENDLE": 20283.55778,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.95097,
+        "PENDLE-LPT": 17400395.75654,
+        "MPENDLEOFT": 1249696.0012,
+        "RDNT": 2152290.73818,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "CAKE": 3514136.33874,
+        "MGP": 4222810.50962,
+        "ALPACA": 23.47399,
+        "PNP": 1869.78097,
+        "RDP": 310890.99613,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10384.30599,
+        "CGPT": 260.04554,
+        "PEPE": 34026018.12836,
+        "SOLVBTC": 0.0003,
+        "DOT": 11.93258,
+        "LISTA": 4155681.99009,
+        "INSP": 136.12927,
+        "WNCG": 80898.41493,
+        "XCAD": 616.40998,
+        "HZN": 6644715.11854,
+        "LTP": 78090.91023,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "EIGEN": 7735.82125,
+        "RED": 2641764.85569,
+        "LSETH": 8.65615,
+        "NBTC": 2000,
+        "BTC": 59.72356,
+        "HYPE": 162162.93393
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "WOM": 16410039.14463,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI": 42009.58476,
+        "USD+": 126.58754,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "WETH": 69981.64177,
+        "FRAX": 56.00896,
+        "MAI": 22.35653,
+        "SFRXETH": 55.535090000000004,
+        "ANKRETH": 9.45797,
+        "WSTETH": 60982.794250000006,
+        "MPENDLE": 8490246.07338,
+        "PENDLE": 20339.39893,
+        "FUSDC": 11.84914,
+        "USDC": 2393979.58675,
+        "SFRAX": 22339.95097,
+        "BUSD": 7415.71713,
+        "USDT": 147712.29553,
+        "WBNB": 4148.07003,
+        "BNBX": 1070.77331,
+        "STKBNB": 228.82677,
+        "LISUSD": 39314.62171,
+        "TUSD": 1001.07449,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "ETH": 66425.97075,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "WBETH": 538.22971,
+        "SLISBNB": 0.80318,
+        "ZUSD": 10.4332,
+        "USDV": 549.39266,
+        "BTCB": 4.21303,
+        "PENDLE-LPT": 17824389.28785,
+        "MPENDLEOFT": 1249696.0012,
+        "RDNT": 2185559.4672,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "CAKE": 3412526.86298,
+        "MGP": 3968529.98933,
+        "ALPACA": 470.23832,
+        "PNP": 1958.05851,
+        "RDP": 311805.83485,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10362.17329,
+        "CGPT": 264.59647,
+        "PEPE": 6375226.95123,
+        "SOLVBTC": 0.0003,
+        "DOT": 12.14975,
+        "LISTA": 4149528.1544000003,
+        "LTP": 78090.91023,
+        "XCAD": 617.55162,
+        "HZN": 6831314.36836,
+        "INSP": 136.12927,
+        "WNCG": 80898.41493,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2642813.03947,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 162656.21863
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "WOM": 16434455.48575,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI": 42009.58476,
+        "USD+": 126.58754,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "FRXETH": 0.06027,
+        "WETH": 69981.64177,
+        "FRAX": 56.00896,
+        "MAI": 22.35653,
+        "SFRXETH": 55.535090000000004,
+        "ANKRETH": 9.45797,
+        "WSTETH": 60982.75565000001,
+        "MPENDLE": 8495287.08791,
+        "PENDLE": 20637.81536,
+        "FUSDC": 11.84914,
+        "USDC": 2393978.78322,
+        "SFRAX": 22339.95097,
+        "BOB": 1125.8035,
+        "BUSD": 7415.58999,
+        "USDT": 144469.98409,
+        "WBNB": 4142.58984,
+        "BNBX": 1070.77331,
+        "STKBNB": 228.82677,
+        "LISUSD": 40971.56023,
+        "TUSD": 1001.07449,
+        "IUSD": 18.00389,
+        "CUSD": 0.1725,
+        "ETH": 66425.87075,
+        "ANKRBNB": 56.52725,
+        "WBETH": 538.22971,
+        "SLISBNB": 0.80318,
+        "USDV": 549.39266,
+        "BTCB": 4.21446,
+        "AXLUSDC": 10.1434,
+        "ZUSD": 10.4332,
+        "PENDLE-LPT": 18124624.26263,
+        "MPENDLEOFT": 1249696.0012,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "RDNT": 2238208.36521,
+        "CAKE": 3400286.81208,
+        "MGP": 3933755.96168,
+        "ALPACA": 827.17358,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10031.17464,
+        "CGPT": 278.24539,
+        "PEPE": 6562019.90178,
+        "SOLVBTC": 0.00034,
+        "DOT": 12.64135,
+        "LISTA": 4150042.60512,
+        "HZN": 6895459.31556,
+        "LTP": 84931.84386,
+        "XCAD": 618.8501,
+        "RDP": 311806.88349,
+        "WNCG": 79554.38553,
+        "PNP": 2188.78353,
+        "INSP": 136.12927,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2648556.53803,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 159199.21513
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "BUSD": 7415.47685,
+        "USDT": 143125.62527,
+        "DAI": 42009.58476,
+        "USDC": 2393977.97973,
+        "WBNB": 4140.290190000001,
+        "BNBX": 1070.77331,
+        "STKBNB": 228.82677,
+        "LISUSD": 41166.302410000004,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "AXLUSDC": 10.1434,
+        "FRXETH": 0.06027,
+        "ETH": 66425.87075,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 538.22971,
+        "ANKRETH": 9.45797,
+        "SLISBNB": 0.8031400000000001,
+        "BTCB": 4.21405,
+        "USD+": 126.58754,
+        "CUSD": 0.1725,
+        "BOB": 1125.8035,
+        "IUSD": 18.00389,
+        "ZUSD": 10.4332,
+        "WOM": 16434932.79336,
+        "USDT+": 5.00041,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "MIM": 20.68392,
+        "WETH": 69981.64177,
+        "MAI": 22.35653,
+        "WSTETH": 60982.753110000005,
+        "MPENDLE": 8492913.60134,
+        "PENDLE": 20602.2584,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.95097,
+        "DAI+": 20.1419,
+        "PENDLE-LPT": 18607623.29641,
+        "MPENDLEOFT": 1249701.0012,
+        "RDNT": 2266564.88989,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "CAKE": 3379527.35783,
+        "MGP": 3940793.09914,
+        "ALPACA": 820.79084,
+        "PNP": 2206.17099,
+        "RDP": 311809.72414,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10147.05036,
+        "PEPE": 6531186.64594,
+        "SOLVBTC": 0.00034,
+        "DOT": 12.68738,
+        "WNCG": 78658.70185,
+        "HZN": 6893875.05259,
+        "XCAD": 622.23271,
+        "CGPT": 282.46444,
+        "INSP": 136.12927,
+        "LTP": 85984.68989,
+        "LISTA": 4149923.1894400003,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2660665.01241,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 157831.41219
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "WOM": 16434980.96165,
+        "BUSD": 7415.56671,
+        "USDT": 138105.77633,
+        "DAI": 42009.58476,
+        "USDC": 2393975.80465,
+        "WBNB": 4131.882430000001,
+        "BNBX": 1070.77331,
+        "LISUSD": 38538.66065,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "IUSD": 18.00389,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "ETH": 66425.92917,
+        "USD+": 126.58754,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 538.22971,
+        "ANKRETH": 9.45797,
+        "SLISBNB": 0.80313,
+        "ZUSD": 10.4332,
+        "BTCB": 4.21568,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "WETH": 69981.64177,
+        "MAI": 22.35653,
+        "WSTETH": 60982.748040000006,
+        "MPENDLE": 8424055.80975,
+        "PENDLE": 19076.58912,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.95097,
+        "PENDLE-LPT": 18660758.58056,
+        "MPENDLEOFT": 1249697.78111,
+        "RDNT": 2281583.07231,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 447594.88547,
+        "CAKE": 3236030.57131,
+        "MGP": 3948070.28285,
+        "ALPACA": 1018.21232,
+        "PNP": 2243.70061,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10174.0096,
+        "CGPT": 284.63347,
+        "PEPE": 6670555.01722,
+        "SOLVBTC": 0.00034,
+        "DOT": 13.18812,
+        "LISTA": 4148605.3106,
+        "LTP": 104953.93236,
+        "XCAD": 621.98382,
+        "HZN": 6882901.06717,
+        "WNCG": 82392.49043,
+        "RDP": 312773.99247,
+        "INSP": 136.12927,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.09961,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2692555.79874,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 156357.39403
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "WOM": 16447376.42962,
+        "BUSD": 7383.46599,
+        "USDT": 138677.12258999998,
+        "DAI": 42009.58476,
+        "USDC": 2393974.3341,
+        "WBNB": 4120.4788100000005,
+        "BNBX": 1070.77331,
+        "STKBNB": 228.82677,
+        "LISUSD": 38687.86272,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "IUSD": 18.00389,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "ETH": 66425.92917,
+        "USD+": 126.58754,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 538.22971,
+        "ANKRETH": 9.45797,
+        "SLISBNB": 0.80315,
+        "ZUSD": 10.4332,
+        "USDV": 549.39266,
+        "BTCB": 4.21248,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "WETH": 69981.64177,
+        "MAI": 22.35653,
+        "WSTETH": 60982.82431,
+        "MPENDLE": 8378423.27137,
+        "PENDLE": 18103.15364,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.95097,
+        "PENDLE-LPT": 18775625.08044,
+        "MPENDLEOFT": 1249698.58048,
+        "WBTC": 6.77984,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 75258.28274,
+        "RDNT": 2310862.48021,
+        "CAKE": 3049176.39675,
+        "MGP": 4079649.07537,
+        "ALPACA": 76.0304,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10110.46324,
+        "CGPT": 286.51817,
+        "PEPE": 6690072.75959,
+        "SOLVBTC": 0.00034,
+        "DOT": 13.02232,
+        "LISTA": 4149208.7081400002,
+        "LTP": 104953.93236,
+        "HZN": 7097339.20788,
+        "PNP": 2148.37507,
+        "RDP": 313775.08667,
+        "WNCG": 134974.38445,
+        "INSP": 136.12927,
+        "XCAD": 630.18702,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "METH": 85.86668,
+        "SWETH": 2918.5772,
+        "CBETH": 28.10072,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2695114.31382,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 159112.20222
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "WOM": 16483415.00318,
+        "BUSD": 7383.561729999999,
+        "USDT": 120633.3571,
+        "DAI": 42009.58476,
+        "USDC": 2393977.17628,
+        "WBNB": 4118.82013,
+        "BNBX": 1070.77331,
+        "LISUSD": 27760.6348,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "CUSD": 0.1725,
+        "AXLUSDC": 10.1434,
+        "ETH": 66425.92917,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 538.22971,
+        "SLISBNB": 0.80315,
+        "BTCB": 4.21045,
+        "IUSD": 18.00389,
+        "USDV": 549.39266,
+        "USD+": 126.58754,
+        "ZUSD": 10.4332,
+        "BOB": 1125.8035,
+        "ANKRETH": 9.45797,
+        "FRXETH": 0.06027,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "MIM": 20.68392,
+        "WETH": 69981.64177,
+        "MAI": 22.35653,
+        "WSTETH": 60982.890360000005,
+        "MPENDLE": 8294027.48913,
+        "PENDLE": 18320.93765,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.94097,
+        "DAI+": 20.1419,
+        "PENDLE-LPT": 17972794.39061,
+        "MPENDLEOFT": 1249698.58048,
+        "WBTC": 6.77985,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 75258.28274,
+        "RDNT": 2289539.96166,
+        "CAKE": 1302644.39934,
+        "MGP": 4146190.04522,
+        "PNP": 1824.70464,
+        "CKP": 10684.28393,
+        "CGPT": 274.81662,
+        "PEPE": 6533063.10572,
+        "SOLVBTC": 0.00034,
+        "DOT": 12.80362,
+        "LISTA": 4148150.05236,
+        "XCAD": 627.95339,
+        "HZN": 7048695.77503,
+        "LTP": 104953.93236,
+        "INSP": 136.12927,
+        "BRIDGED MBTC": 0.79401,
+        "WNCG": 199821.14559,
+        "STETH": 1093.91776,
+        "RETH": 27.4763,
+        "SWETH": 2918.5772,
+        "CBETH": 28.10072,
+        "ETHX": 103.20415,
+        "OETH": 10.07477,
+        "EIGEN": 7735.82125,
+        "LSETH": 8.65615,
+        "METH": 85.86668,
+        "RED": 2701210.00264,
+        "OSETH": 8.28651,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 166349.14195
+      }
+    },
+    {
+      "date": 1746707759,
+      "tokens": {
+        "WOM": 16483415.00388,
+        "BUSD": 7383.7145,
+        "USDT": 122225.42314,
+        "DAI": 42009.58476,
+        "USDC": 2393977.97973,
+        "WBNB": 4125.34616,
+        "BNBX": 1070.77331,
+        "STKBNB": 228.82677,
+        "LISUSD": 27658.13567,
+        "FRAX": 56.00896,
+        "TUSD": 1001.07449,
+        "IUSD": 18.00389,
+        "CUSD": 0.1725,
+        "BOB": 1125.8035,
+        "FRXETH": 0.06027,
+        "ETH": 66425.92917,
+        "USD+": 126.58754,
+        "USDT+": 5.00041,
+        "ANKRBNB": 56.52725,
+        "SFRXETH": 55.535090000000004,
+        "WBETH": 537.22971,
+        "ANKRETH": 9.45797,
+        "SLISBNB": 0.80315,
+        "BTCB": 4.21674,
+        "ZUSD": 10.4332,
+        "AXLUSDC": 10.1434,
+        "USDC.E": 205667.87768,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.1419,
+        "MIM": 20.68392,
+        "WETH": 69981.64177,
+        "MAI": 22.35653,
+        "WSTETH": 60982.618200000004,
+        "MPENDLE": 8336850.2756,
+        "PENDLE": 18008.595699999998,
+        "FUSDC": 11.84914,
+        "SFRAX": 22339.94097,
+        "PENDLE-LPT": 19307511.35489,
+        "MPENDLEOFT": 1247698.58048,
+        "WBTC": 6.77985,
+        "ARB": 285042.26272,
+        "WEETH": 14.6325,
+        "WETH-USDC-GMX-V2": 143526.61114,
+        "WBTC-USDC-GMX-V2": 248994.39255,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 75258.28274,
+        "RDNT": 2254322.66335,
+        "CAKE": 1295698.51188,
+        "MGP": 4100231.00925,
+        "ALPACA": 472.72374,
+        "BRIDGED MBTC": 0.79401,
+        "CKP": 10820.91271,
+        "CGPT": 265.55069,
+        "PEPE": 6232950.21334,
+        "SOLVBTC": 0.00034,
+        "DOT": 12.15157,
+        "LISTA": 4149438.83041,
+        "HZN": 7052128.40512,
+        "LTP": 104953.93236,
+        "WNCG": 189433.98228,
+        "INSP": 136.12927,
+        "PNP": 1505.97907,
+        "XCAD": 626.16592,
+        "RDP": 310814.7113,
+        "STETH": 1092.47342,
+        "RETH": 27.4763,
+        "METH": 84.84492,
+        "SWETH": 2907.57498,
+        "CBETH": 28.09856,
+        "ETHX": 103.20415,
+        "OSETH": 8.28651,
+        "OETH": 10.07477,
+        "LSETH": 8.65615,
+        "EIGEN": 7735.82125,
+        "RED": 2657445.30308,
+        "NBTC": 3000,
+        "BTC": 59.72356,
+        "HYPE": 166497.84826
       }
     }
   ],
@@ -128285,85 +129531,827 @@
       }
     },
     {
-      "date": 1745956067,
+      "date": 1745971200,
       "tokens": {
-        "WOM": 42429.81342,
-        "BUSD": 7414.82022,
-        "USDT": 130237.04520000001,
-        "DAI": 42006.63542,
-        "USDC": 2393806.2663900005,
-        "WBNB": 2516417.21502,
-        "BNBX": 710072.6119,
-        "LISUSD": 67397.58247,
-        "FRAX": 56.00379,
-        "TUSD": 995.85989,
-        "IUSD": 9.25056,
+        "WOM": 42619.3833,
+        "BUSD": 7408.05384,
+        "USDT": 128617.01234,
+        "DAI": 42004.67202,
+        "USDC": 2393897.86325,
+        "WBNB": 2503114.00894,
+        "BNBX": 708509.28286,
+        "LISUSD": 67418.73767999999,
+        "FRAX": 56.0066,
+        "TUSD": 993.47833,
+        "IUSD": 9.26851,
         "CUSD": 0.14045,
-        "AXLUSDC": 10.15354,
-        "BOB": 1128.0551,
-        "FRXETH": 110.06494,
-        "ETH": 121263105.82457,
-        "USD+": 126.59353,
-        "USDT+": 4.99617,
-        "ANKRBNB": 37174.58319,
-        "SFRXETH": 120129.45438,
-        "WBETH": 1051246.50729,
-        "ANKRETH": 20463.94944,
-        "SLISBNB": 1655.83716,
-        "ZUSD": 8.18687,
-        "USDV": 360.19996,
-        "BTCB": 401115.39278,
+        "AXLUSDC": 10.1434,
+        "BOB": 1124.70133,
+        "FRXETH": 108.21993,
+        "ETH": 119746282.94616,
+        "USD+": 126.46811,
+        "USDT+": 4.96751,
+        "ANKRBNB": 37243.54644,
+        "SFRXETH": 118520.61133,
+        "WBETH": 1034361.75847,
+        "ANKRETH": 20179.81328,
+        "SLISBNB": 1649.07493,
+        "ZUSD": 8.07905,
+        "USDV": 353.83525,
+        "BTCB": 396927.52590999997,
         "USDC.E": 205667.87768,
         "USDT0": 143446.43959999998,
         "MIM": 20.68392,
-        "WETH": 127845352.54450999,
-        "MAI": 2.9869,
-        "WSTETH": 133791444.15481,
-        "MPENDLE": 12604336.525220001,
-        "PENDLE": 68311.31691000001,
-        "FUSDC": 11.86099,
+        "WETH": 126154589.10892001,
+        "MAI": 2.9778,
+        "WSTETH": 131925005.30041,
+        "MPENDLE": 13197249.40023,
+        "PENDLE": 67189.89607999999,
+        "FUSDC": 11.80217,
         "SFRAX": 24797.34558,
-        "PENDLE-LPT": 75690109.41997,
-        "MPENDLEOFT": 1861896.31966,
-        "RDNT": 55830.28926,
-        "WBTC": 646915.18191,
-        "ARB": 96516.73537,
-        "WEETH": 28482.89336,
-        "USDE": 6094.56286,
-        "WETH-USDC-GMX-V2": 195137.99997,
-        "WBTC-USDC-GMX-V2": 578202.91341,
-        "RDNT-WETH": 93356.20805,
-        "CAKE": 7487735.05224,
-        "MGP": 122973.16555,
-        "ALPACA": 510.10122,
-        "PNP": 19544.92179,
-        "RDP": 15518.28693,
-        "BRIDGED MBTC": 75230.86672,
-        "CKP": 5696.59208,
-        "CGPT": 32.13516,
-        "PEPE": 297.2033,
-        "SOLVBTC": 28.47098,
-        "DOT": 50.52408,
-        "LISTA": 739126.36701,
-        "INSP": 0.81917,
-        "WNCG": 2965.57011,
-        "XCAD": 37.89841,
-        "HZN": 26252.55584,
-        "LTP": 18862.56564,
-        "STETH": 2644020.44903,
-        "RETH": 56847.08337,
-        "METH": 166761.68887,
-        "SWETH": 5824233.01888,
-        "CBETH": 56332.70165,
-        "ETHX": 198708.23079,
-        "OSETH": 15835.18211,
-        "OETH": 18411.55025,
-        "LSETH": 17056.08122,
-        "EIGEN": 7431.84215,
-        "RED": 1138706.57403,
-        "NBTC": 190538000,
-        "BTC": 5699777.2427,
-        "HYPE": 2909558.59536
+        "PENDLE-LPT": 77871687.57014,
+        "MPENDLEOFT": 1961863.90729,
+        "WBTC": 639335.6414,
+        "ARB": 93656.33626,
+        "WEETH": 28044.06467,
+        "WETH-USDC-GMX-V2": 193267.27675,
+        "WBTC-USDC-GMX-V2": 574522.53956,
+        "USDE": 6093.30699,
+        "RDNT-WETH": 91979.85377,
+        "RDNT": 54869.84648,
+        "CAKE": 7308779.1036,
+        "MGP": 122121.16107,
+        "ALPACA": 232.10518,
+        "PNP": 19106.94662,
+        "RDP": 15383.99774,
+        "BRIDGED MBTC": 75257.86306,
+        "LISTA": 723290.5579,
+        "CKP": 5582.02771,
+        "CGPT": 31.67949,
+        "PEPE": 298.63938,
+        "SOLVBTC": 28.11421,
+        "DOT": 51.88602,
+        "INSP": 0.80383,
+        "LTP": 18881.40337,
+        "WNCG": 2317.91302,
+        "XCAD": 37.32898,
+        "HZN": 26158.77583,
+        "STETH": 2602659.88421,
+        "RETH": 55984.0529,
+        "METH": 164183.97099,
+        "SWETH": 5755109.87954,
+        "CBETH": 55448.68778,
+        "ETHX": 195835.02737,
+        "OSETH": 15470.74157,
+        "OETH": 18131.47151,
+        "EIGEN": 7182.50116,
+        "RED": 1104811.56626,
+        "LSETH": 16783.84525,
+        "NBTC": 188778000,
+        "BTC": 5631274.32454,
+        "HYPE": 2850042.68294
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "WOM": 43201.60299,
+        "BUSD": 7430.4979,
+        "USDT": 155528.91372,
+        "DAI": 42009.47025,
+        "USDC": 2393873.20481,
+        "WBNB": 2486451.7241700003,
+        "BNBX": 707020.90797,
+        "LISUSD": 39522.677729999996,
+        "FRAX": 56.00896,
+        "TUSD": 996.41048,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.1434,
+        "BOB": 1124.60339,
+        "FRXETH": 108.01078,
+        "ETH": 119274240.00155,
+        "USD+": 126.58564,
+        "USDT+": 4.99492,
+        "ANKRBNB": 37107.31576,
+        "SFRXETH": 118319.17286,
+        "WBETH": 1033205.73497,
+        "ANKRETH": 20296.20982,
+        "SLISBNB": 1183.9795800000002,
+        "ZUSD": 8.74262,
+        "USDV": 342.37931000000003,
+        "BTCB": 396967.4425,
+        "USDC.E": 205856.03818,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.20233,
+        "MIM": 20.67184,
+        "WETH": 125647910.44393,
+        "MAI": 2.8423,
+        "WSTETH": 131370378.07038,
+        "MPENDLE": 13757480.16881,
+        "PENDLE": 69790.64838999999,
+        "FUSDC": 11.84914,
+        "SFRAX": 25020.74509,
+        "PENDLE-LPT": 70926168.13364,
+        "MPENDLEOFT": 2037004.48195,
+        "WBTC": 638614.4112300001,
+        "ARB": 93275.80484,
+        "WEETH": 27965.1955,
+        "WETH-USDC-GMX-V2": 193835.03153,
+        "WBTC-USDC-GMX-V2": 575867.29359,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 87130.61078,
+        "RDNT": 55691.08371,
+        "CAKE": 7272249.88132,
+        "CKP": 5193.06922,
+        "PEPE": 297.54442,
+        "SOLVBTC": 28.13363,
+        "DOT": 51.2961,
+        "RDP": 15476.66142,
+        "CGPT": 32.82003,
+        "XCAD": 37.99018,
+        "INSP": 0.82576,
+        "MGP": 118528.10193,
+        "LISTA": 722373.35936,
+        "BRIDGED MBTC": 74945.8171,
+        "HZN": 25793.70187,
+        "LTP": 17877.84902,
+        "PNP": 3970.10803,
+        "WNCG": 1574.81343,
+        "STETH": 2596751.23209,
+        "RETH": 55884.58871,
+        "METH": 164220.89366,
+        "SWETH": 5730152.81905,
+        "CBETH": 55396.14151,
+        "ETHX": 195641.00357,
+        "OSETH": 15534.71339,
+        "EIGEN": 7208.58635,
+        "RED": 1113403.16547,
+        "OETH": 17962.51753,
+        "LSETH": 16722.90594,
+        "NBTC": 188114000,
+        "BTC": 5626078.37521,
+        "HYPE": 3237532.93871
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "WOM": 44800.27668,
+        "BUSD": 7415.77219,
+        "USDT": 150380.24732999998,
+        "DAI": 42050.32494,
+        "USDC": 2393944.11497,
+        "WBNB": 2482655.3694599997,
+        "BNBX": 706399.85945,
+        "LISUSD": 37404.7445,
+        "FRAX": 55.99652,
+        "TUSD": 999.6009,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.14331,
+        "BOB": 1125.49728,
+        "FRXETH": 110.47963,
+        "ETH": 122573916.5751,
+        "USD+": 126.58739,
+        "USDT+": 4.97075,
+        "ANKRBNB": 37125.40448,
+        "SFRXETH": 114649.79387,
+        "WBETH": 1056987.79759,
+        "ANKRETH": 20517.750930000002,
+        "SLISBNB": 1414.09727,
+        "ZUSD": 8.62328,
+        "USDV": 329.91304,
+        "BTCB": 406626.32649,
+        "USDC.E": 205861.05804,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.12273,
+        "MIM": 20.68392,
+        "WETH": 129133942.92037,
+        "MAI": 2.97024,
+        "WSTETH": 134795244.15017,
+        "MPENDLE": 14257471.18368,
+        "PENDLE": 71390.57126,
+        "FUSDC": 11.79498,
+        "SFRAX": 24797.34558,
+        "PENDLE-LPT": 72390585.28679,
+        "MPENDLEOFT": 2111986.24202,
+        "RDNT": 55908.2701,
+        "WBTC": 657449.59538,
+        "ARB": 97692.24966,
+        "WEETH": 28739.10843,
+        "WETH-USDC-GMX-V2": 196262.27071,
+        "WBTC-USDC-GMX-V2": 584233.92112,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 91179.55412,
+        "CAKE": 7309403.58459,
+        "MGP": 117792.0476,
+        "ALPACA": 6.99499,
+        "PNP": 3758.25975,
+        "RDP": 15463.05595,
+        "BRIDGED MBTC": 76355.18499,
+        "CKP": 5255.92302,
+        "CGPT": 34.76757,
+        "PEPE": 297.04714,
+        "SOLVBTC": 28.69897,
+        "DOT": 49.9975,
+        "LISTA": 750250.20377,
+        "INSP": 0.8406,
+        "WNCG": 1606.71128,
+        "XCAD": 37.67436,
+        "HZN": 26539.32442,
+        "LTP": 17644.3288,
+        "STETH": 2015226.24231,
+        "RETH": 57377.37589,
+        "METH": 168076.30782,
+        "SWETH": 5850696.60355,
+        "CBETH": 56890.47899,
+        "ETHX": 200555.58501,
+        "OSETH": 15938.26625,
+        "OETH": 18539.29839,
+        "EIGEN": 7813.17946,
+        "RED": 1095624.42213,
+        "LSETH": 17157.35819,
+        "NBTC": 192972000,
+        "BTC": 5764457.8533,
+        "HYPE": 3244880.30804
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "WOM": 45587.74515,
+        "USDC.E": 205543.54358,
+        "USDT0": 143446.43959999998,
+        "DAI": 41999.32565,
+        "USD+": 126.58749,
+        "DAI+": 19.95716,
+        "MIM": 20.68392,
+        "BOB": 1125.8035,
+        "FRXETH": 110.41694,
+        "WETH": 128780737.32262,
+        "FRAX": 56.00896,
+        "MAI": 3.06392,
+        "SFRXETH": 114571.66697,
+        "ANKRETH": 20570.79921,
+        "WSTETH": 134817468.66525,
+        "MPENDLE": 13329699.395429999,
+        "PENDLE": 73229.38827000001,
+        "FUSDC": 11.83618,
+        "USDC": 2393738.51519,
+        "SFRAX": 24350.54656,
+        "BUSD": 7423.13284,
+        "USDT": 147712.29553,
+        "WBNB": 2491271.48692,
+        "BNBX": 709430.14791,
+        "STKBNB": 144126.54272,
+        "LISUSD": 39293.9029,
+        "TUSD": 1012.08631,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.1434,
+        "ETH": 122237819.83324,
+        "USDT+": 5.01041,
+        "ANKRBNB": 37194.933,
+        "WBETH": 1059026.16979,
+        "SLISBNB": 495.71181,
+        "ZUSD": 8.88633,
+        "USDV": 267.4372,
+        "BTCB": 408274.05277999997,
+        "PENDLE-LPT": 73227436.54595,
+        "MPENDLEOFT": 1987016.6419,
+        "RDNT": 54825.37119,
+        "WBTC": 654941.41859,
+        "ARB": 96306.94426,
+        "WEETH": 28713.06258,
+        "WETH-USDC-GMX-V2": 196079.75075,
+        "WBTC-USDC-GMX-V2": 583942.2695,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 90771.34758,
+        "CAKE": 7029805.33774,
+        "MGP": 125422.41392,
+        "ALPACA": 119.26795,
+        "PNP": 3837.79468,
+        "RDP": 15635.81539,
+        "BRIDGED MBTC": 76815.71083,
+        "CKP": 5257.30043,
+        "CGPT": 33.72732,
+        "PEPE": 55.40072,
+        "SOLVBTC": 28.91501,
+        "DOT": 50.54298,
+        "LISTA": 753251.39728,
+        "LTP": 17632.53707,
+        "XCAD": 37.75464,
+        "HZN": 25691.3437,
+        "INSP": 0.85873,
+        "WNCG": 1658.40214,
+        "STETH": 2013826.02757,
+        "RETH": 57420.78844,
+        "METH": 168321.88654,
+        "SWETH": 5861145.10994,
+        "CBETH": 56760.65877,
+        "ETHX": 201247.05278,
+        "OSETH": 15946.30416,
+        "OETH": 18547.25746,
+        "LSETH": 17186.87567,
+        "EIGEN": 7487.1378,
+        "RED": 1052994.49901,
+        "NBTC": 290172000,
+        "BTC": 5786256.95106,
+        "HYPE": 3373489.97429
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "WOM": 46166.19325,
+        "USDC.E": 205873.54556,
+        "USDT0": 143446.43959999998,
+        "DAI": 42051.594339999996,
+        "USD+": 126.70722,
+        "DAI+": 19.9993,
+        "MIM": 20.68392,
+        "FRXETH": 110.32713,
+        "WETH": 128535169.56461999,
+        "FRAX": 56.00896,
+        "MAI": 2.98761,
+        "SFRXETH": 114186.25345,
+        "ANKRETH": 20636.15377,
+        "WSTETH": 134319554.43192,
+        "MPENDLE": 13001729.41527,
+        "PENDLE": 68930.30331,
+        "FUSDC": 11.87284,
+        "USDC": 2393929.56156,
+        "SFRAX": 24283.52671,
+        "BOB": 1125.76747,
+        "BUSD": 7413.83991,
+        "USDT": 144459.14884,
+        "WBNB": 2481991.27498,
+        "BNBX": 706678.26051,
+        "STKBNB": 143760.41988,
+        "LISUSD": 40926.573449999996,
+        "TUSD": 1056.13358,
+        "IUSD": 15.79061,
+        "CUSD": 0.14045,
+        "ETH": 122167502.5258,
+        "ANKRBNB": 37063.2245,
+        "WBETH": 1054978.68233,
+        "SLISBNB": 494.2179,
+        "USDV": 255.60712999999998,
+        "BTCB": 404226.62364999996,
+        "AXLUSDC": 10.14337,
+        "ZUSD": 8.68132,
+        "PENDLE-LPT": 73593664.44591,
+        "MPENDLEOFT": 1924531.84184,
+        "WBTC": 650862.74534,
+        "ARB": 91251.71973,
+        "WEETH": 28619.56091,
+        "WETH-USDC-GMX-V2": 196071.45615,
+        "WBTC-USDC-GMX-V2": 582141.76408,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 89567.31734,
+        "RDNT": 53546.5612,
+        "CAKE": 6766570.75603,
+        "MGP": 126070.9386,
+        "ALPACA": 151.62671,
+        "BRIDGED MBTC": 76317.86651,
+        "CKP": 5204.32387,
+        "CGPT": 31.65542,
+        "PEPE": 53.74294,
+        "SOLVBTC": 32.66202,
+        "DOT": 51.3239,
+        "LISTA": 714886.33915,
+        "HZN": 25461.8283,
+        "LTP": 19168.4377,
+        "XCAD": 37.63413,
+        "RDP": 15410.98974,
+        "WNCG": 1578.29218,
+        "PNP": 4093.0252,
+        "INSP": 0.82875,
+        "STETH": 2006267.05583,
+        "RETH": 57177.62322,
+        "METH": 167567.97704,
+        "SWETH": 5831755.03751,
+        "CBETH": 56546.53971,
+        "ETHX": 200463.73332,
+        "OSETH": 15910.175,
+        "OETH": 18511.69351,
+        "LSETH": 17097.63074,
+        "EIGEN": 6754.47044,
+        "RED": 992151.9277,
+        "NBTC": 287748000,
+        "BTC": 5727488.97245,
+        "HYPE": 3335223.55699
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "BUSD": 7413.01829,
+        "USDT": 143125.42937,
+        "DAI": 41995.38731,
+        "USDC": 2393970.1638599997,
+        "WBNB": 2427017.74764,
+        "BNBX": 691580.35685,
+        "STKBNB": 141355.4505,
+        "LISUSD": 41143.48832,
+        "FRAX": 56.00896,
+        "TUSD": 995.1211,
+        "AXLUSDC": 10.14225,
+        "FRXETH": 109.2675,
+        "ETH": 120220413.0625,
+        "ANKRBNB": 36387.72382,
+        "SFRXETH": 112398.67238,
+        "WBETH": 1039628.94768,
+        "ANKRETH": 20406.059179999997,
+        "SLISBNB": 483.86115,
+        "BTCB": 397334.10109,
+        "USD+": 126.50939,
+        "CUSD": 0.14045,
+        "BOB": 1125.75846,
+        "IUSD": 4.2303,
+        "ZUSD": 8.79257,
+        "WOM": 45649.17628,
+        "USDT+": 4.98462,
+        "USDC.E": 205590.04992,
+        "USDT0": 143446.43959999998,
+        "MIM": 20.68392,
+        "WETH": 126610104.78236,
+        "MAI": 2.94275,
+        "WSTETH": 132378346.02413,
+        "MPENDLE": 13673590.89816,
+        "PENDLE": 66522.63825999999,
+        "FUSDC": 11.84914,
+        "SFRAX": 24261.18676,
+        "DAI+": 20.1419,
+        "PENDLE-LPT": 74862714.20709,
+        "MPENDLEOFT": 2012018.61193,
+        "RDNT": 51968.61576,
+        "WBTC": 640260.16009,
+        "ARB": 88624.4852,
+        "WEETH": 28166.24605,
+        "WETH-USDC-GMX-V2": 194945.89333,
+        "WBTC-USDC-GMX-V2": 578090.98741,
+        "USDE": 6096.45276,
+        "RDNT-WETH": 87890.17931,
+        "CAKE": 6522487.8006,
+        "MGP": 123410.54663,
+        "ALPACA": 162.5568,
+        "PNP": 4103.47805,
+        "RDP": 15338.915,
+        "BRIDGED MBTC": 74626.62505,
+        "CKP": 5039.77609,
+        "PEPE": 53.49042,
+        "SOLVBTC": 32.17026,
+        "DOT": 50.11514,
+        "WNCG": 1556.6502,
+        "HZN": 24867.99972,
+        "XCAD": 37.3489,
+        "CGPT": 31.5332,
+        "INSP": 0.77165,
+        "LTP": 18955.41087,
+        "LISTA": 644072.22893,
+        "STETH": 1976435.91843,
+        "RETH": 56290.13884,
+        "METH": 165295.08589,
+        "SWETH": 5744285.27874,
+        "CBETH": 55778.85825,
+        "ETHX": 197310.84665,
+        "OSETH": 15663.65143,
+        "OETH": 18222.54747,
+        "LSETH": 16876.11982,
+        "EIGEN": 6489.83573,
+        "RED": 975378.50823,
+        "NBTC": 283656000,
+        "BTC": 5655044.29963,
+        "HYPE": 3139266.78851
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "WOM": 45432.20397,
+        "BUSD": 7415.56671,
+        "USDT": 138105.77633,
+        "DAI": 42002.86641,
+        "USDC": 2393756.97975,
+        "WBNB": 2474200.34255,
+        "BNBX": 705307.67067,
+        "LISUSD": 38501.00838,
+        "FRAX": 56.00896,
+        "TUSD": 998.24345,
+        "IUSD": 4.13504,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.1434,
+        "BOB": 1125.62449,
+        "FRXETH": 109.74729,
+        "ETH": 120610282.16532,
+        "USD+": 126.5763,
+        "USDT+": 4.98489,
+        "ANKRBNB": 37017.43742,
+        "SFRXETH": 112779.98907,
+        "WBETH": 1042374.45499,
+        "ANKRETH": 20519.747590000003,
+        "SLISBNB": 493.34047000000004,
+        "ZUSD": 8.70592,
+        "BTCB": 399860.80749000004,
+        "USDC.E": 205861.12016000002,
+        "USDT0": 143434.54221,
+        "DAI+": 20.1419,
+        "MIM": 20.70461,
+        "WETH": 127067031.51297,
+        "MAI": 2.9178,
+        "WSTETH": 132749060.6371,
+        "MPENDLE": 13312506.03806,
+        "PENDLE": 61426.61698,
+        "FUSDC": 11.83348,
+        "SFRAX": 23948.42744,
+        "PENDLE-LPT": 75007499.65692,
+        "MPENDLEOFT": 1974522.49415,
+        "RDNT": 52609.86046,
+        "WBTC": 642860.46104,
+        "ARB": 88897.55569,
+        "WEETH": 28515.23118,
+        "WETH-USDC-GMX-V2": 195474.29478,
+        "WBTC-USDC-GMX-V2": 578918.09082,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 83279.0568,
+        "CAKE": 6407340.5312,
+        "MGP": 125991.05575,
+        "ALPACA": 176.79628,
+        "PNP": 4173.28313,
+        "BRIDGED MBTC": 74545.63602,
+        "CKP": 5149.25957,
+        "CGPT": 31.52828,
+        "PEPE": 52.8308,
+        "SOLVBTC": 32.34203,
+        "DOT": 51.69745,
+        "LISTA": 663302.90134,
+        "LTP": 23301.87206,
+        "XCAD": 37.39678,
+        "HZN": 25478.02191,
+        "WNCG": 1622.97304,
+        "RDP": 15345.43647,
+        "INSP": 0.76325,
+        "STETH": 1980866.28537,
+        "RETH": 56456.09567,
+        "METH": 165677.19264,
+        "SWETH": 5759053.27939,
+        "CBETH": 55939.30705,
+        "ETHX": 198230.3956,
+        "OSETH": 15712.79041,
+        "OETH": 18257.2047,
+        "LSETH": 16892.30683,
+        "EIGEN": 6145.63036,
+        "RED": 998114.27926,
+        "NBTC": 283905000,
+        "BTC": 5653730.38141,
+        "HYPE": 3159982.93328
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "WOM": 45213.50886,
+        "BUSD": 7398.2329199999995,
+        "USDT": 138447.47327000002,
+        "DAI": 42009.58476,
+        "USDC": 2393946.3986699996,
+        "WBNB": 2490170.1656400003,
+        "BNBX": 710929.23054,
+        "STKBNB": 143563.62886,
+        "LISUSD": 38660.43302,
+        "FRAX": 56.00896,
+        "TUSD": 999.15943,
+        "IUSD": 4.27331,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.1434,
+        "BOB": 1126.9293,
+        "FRXETH": 109.23496,
+        "ETH": 120674729.31819001,
+        "USD+": 126.82778,
+        "USDT+": 4.99132,
+        "ANKRBNB": 37041.74414,
+        "SFRXETH": 112017.78119000001,
+        "WBETH": 1035624.9429799999,
+        "ANKRETH": 20395.162259999997,
+        "SLISBNB": 496.41718,
+        "ZUSD": 8.35428,
+        "USDV": 209.10159000000002,
+        "BTCB": 407970.34309,
+        "USDC.E": 205667.87768,
+        "USDT0": 143441.56243,
+        "DAI+": 20.20233,
+        "MIM": 20.67625,
+        "WETH": 126737387.5005,
+        "MAI": 2.83738,
+        "WSTETH": 132480849.95772,
+        "MPENDLE": 13147021.489990002,
+        "PENDLE": 58654.217800000006,
+        "FUSDC": 11.77582,
+        "SFRAX": 25244.1446,
+        "PENDLE-LPT": 77574145.18753,
+        "MPENDLEOFT": 1962026.77135,
+        "WBTC": 658645.00092,
+        "ARB": 88307.23316,
+        "WEETH": 28527.52248,
+        "WETH-USDC-GMX-V2": 195276.51102,
+        "WBTC-USDC-GMX-V2": 584971.93387,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 13094.26387,
+        "RDNT": 52004.41184,
+        "CAKE": 6128844.55747,
+        "MGP": 122851.94128,
+        "ALPACA": 23.28233,
+        "BRIDGED MBTC": 74981.54755,
+        "CKP": 5176.52685,
+        "CGPT": 31.11358,
+        "PEPE": 53.85509,
+        "SOLVBTC": 33.02606,
+        "DOT": 51.04748,
+        "LISTA": 652425.7264800001,
+        "LTP": 23341.96446,
+        "HZN": 24953.322,
+        "PNP": 4103.39638,
+        "RDP": 15242.96779,
+        "WNCG": 2588.25395,
+        "INSP": 0.74111,
+        "XCAD": 36.90879,
+        "STETH": 1984082.40359,
+        "RETH": 56282.72024,
+        "METH": 165432.47259,
+        "SWETH": 5737105.57883,
+        "CBETH": 55694.51278,
+        "ETHX": 197788.68185,
+        "OSETH": 15675.00395,
+        "OETH": 18183.75959,
+        "LSETH": 16870.3202,
+        "EIGEN": 6153.48996,
+        "RED": 961325.71482,
+        "NBTC": 291336000,
+        "BTC": 5804174.01771,
+        "HYPE": 3369996.44291
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "WOM": 45503.78579,
+        "BUSD": 7381.031129999999,
+        "USDT": 120617.3897,
+        "DAI": 41966.852530000004,
+        "USDC": 2393953.02879,
+        "WBNB": 2484493.86654,
+        "BNBX": 711196.92387,
+        "LISUSD": 27742.2209,
+        "FRAX": 56.00896,
+        "TUSD": 998.71095,
+        "CUSD": 0.14045,
+        "AXLUSDC": 10.1434,
+        "ETH": 121366406.758,
+        "USDT+": 4.9966,
+        "ANKRBNB": 37015.17633,
+        "SFRXETH": 112871.65041,
+        "WBETH": 1042211.7926299999,
+        "SLISBNB": 498.1798,
+        "BTCB": 409206.81899,
+        "IUSD": 4.3064,
+        "USDV": 201.37164,
+        "USD+": 126.58744,
+        "ZUSD": 8.6,
+        "BOB": 1125.75396,
+        "ANKRETH": 20487.04485,
+        "FRXETH": 109.26087,
+        "USDC.E": 205612.59754000002,
+        "USDT0": 143446.43959999998,
+        "MIM": 20.67794,
+        "WETH": 127862856.55478,
+        "MAI": 2.93617,
+        "WSTETH": 132684133.75584,
+        "MPENDLE": 12933087.887559999,
+        "PENDLE": 58642.104719999996,
+        "FUSDC": 11.76435,
+        "SFRAX": 25244.1333,
+        "DAI+": 20.09848,
+        "PENDLE-LPT": 74744549.6334,
+        "MPENDLEOFT": 1937032.79974,
+        "WBTC": 656460.2925699999,
+        "ARB": 88607.09762,
+        "WEETH": 28372.41798,
+        "WETH-USDC-GMX-V2": 195236.88582,
+        "WBTC-USDC-GMX-V2": 585957.10401,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 13846.77144,
+        "RDNT": 52914.47387,
+        "CAKE": 2670421.01864,
+        "MGP": 120258.50086,
+        "PNP": 3777.1386,
+        "CKP": 5042.19138,
+        "CGPT": 32.44622,
+        "PEPE": 54.48575,
+        "SOLVBTC": 33.14592,
+        "DOT": 50.95839,
+        "LISTA": 713051.63384,
+        "XCAD": 37.13151,
+        "HZN": 24902.61925,
+        "LTP": 23239.42447,
+        "INSP": 0.63936,
+        "BRIDGED MBTC": 76941.16442,
+        "WNCG": 3773.13877,
+        "STETH": 1983546.38389,
+        "RETH": 56537.42551,
+        "SWETH": 5784298.97219,
+        "CBETH": 55995.19054,
+        "ETHX": 198371.78528,
+        "OETH": 18258.61516,
+        "EIGEN": 6086.21925,
+        "LSETH": 16974.97308,
+        "METH": 166011.21404,
+        "RED": 1019963.39095,
+        "OSETH": 15686.60505,
+        "NBTC": 290736000,
+        "BTC": 5794797.4195,
+        "HYPE": 3498322.45519
+      }
+    },
+    {
+      "date": 1746707759,
+      "tokens": {
+        "WOM": 44045.33323,
+        "BUSD": 7376.07235,
+        "USDT": 122177.99968000001,
+        "DAI": 42006.10491,
+        "USDC": 2393751.0062599997,
+        "WBNB": 2531394.9133800003,
+        "BNBX": 725074.14595,
+        "STKBNB": 148163.04699,
+        "LISUSD": 27630.64348,
+        "FRAX": 56.00896,
+        "TUSD": 998.56379,
+        "IUSD": 4.56688,
+        "CUSD": 0.14045,
+        "BOB": 1125.8035,
+        "FRXETH": 117.24544,
+        "ETH": 130468059.83858,
+        "USD+": 126.70521,
+        "USDT+": 4.98879,
+        "ANKRBNB": 38188.11685,
+        "SFRXETH": 121549.09565,
+        "WBETH": 1118963.53987,
+        "ANKRETH": 22107.15172,
+        "SLISBNB": 509.54060000000004,
+        "BTCB": 419502.73409000004,
+        "ZUSD": 8.60176,
+        "AXLUSDC": 10.1434,
+        "USDC.E": 205593.63159,
+        "USDT0": 143446.43959999998,
+        "DAI+": 20.12232,
+        "MIM": 20.68392,
+        "WETH": 137113503.11563998,
+        "MAI": 3.05925,
+        "WSTETH": 143088592.86812,
+        "MPENDLE": 14756229.00746,
+        "PENDLE": 64290.68664,
+        "FUSDC": 11.96763,
+        "SFRAX": 24797.33448,
+        "PENDLE-LPT": 76527964.01535,
+        "MPENDLEOFT": 2220903.47325,
+        "WBTC": 675147.45308,
+        "ARB": 94649.13846,
+        "WEETH": 30449.50139,
+        "WETH-USDC-GMX-V2": 201635.97233,
+        "WBTC-USDC-GMX-V2": 592836.81575,
+        "USDE": 6102.54922,
+        "RDNT-WETH": 15387.00746,
+        "RDNT": 54302.39483,
+        "CAKE": 2785751.80054,
+        "MGP": 123923.2499,
+        "ALPACA": 131.36473,
+        "BRIDGED MBTC": 78999.23854,
+        "CKP": 5219.49971,
+        "CGPT": 33.30962,
+        "PEPE": 56.84451,
+        "SOLVBTC": 33.96791,
+        "DOT": 51.52265,
+        "LISTA": 781654.68912,
+        "HZN": 25321.93642,
+        "LTP": 23831.57456,
+        "WNCG": 3655.78034,
+        "INSP": 0.69683,
+        "PNP": 3418.57249,
+        "XCAD": 37.12162,
+        "RDP": 15978.67349,
+        "STETH": 2130476.11101,
+        "RETH": 60859.99646,
+        "METH": 176446.04143,
+        "SWETH": 6195170.0021,
+        "CBETH": 60278.72438,
+        "ETHX": 213590.26865,
+        "OSETH": 16872.81843,
+        "OETH": 19654.67671,
+        "LSETH": 18241.88743,
+        "EIGEN": 6902.21689,
+        "RED": 1045008.47609,
+        "NBTC": 298482000,
+        "BTC": 5938970.08248,
+        "HYPE": 3599683.4793
       }
     }
   ],
@@ -131973,22 +133961,58 @@
       "totalLiquidityUSD": 697366737.0560601
     },
     {
-      "date": 1745956067,
-      "totalLiquidityUSD": 700549960.6401901
+      "date": 1745971200,
+      "totalLiquidityUSD": 696053329.71791
+    },
+    {
+      "date": 1746057600,
+      "totalLiquidityUSD": 687825645.35008
+    },
+    {
+      "date": 1746144000,
+      "totalLiquidityUSD": 704741160.52408
+    },
+    {
+      "date": 1746230400,
+      "totalLiquidityUSD": 801059890.57064
+    },
+    {
+      "date": 1746316800,
+      "totalLiquidityUSD": 797260671.25238
+    },
+    {
+      "date": 1746403200,
+      "totalLiquidityUSD": 788528602.37283
+    },
+    {
+      "date": 1746489600,
+      "totalLiquidityUSD": 789629190.81835
+    },
+    {
+      "date": 1746576000,
+      "totalLiquidityUSD": 799042198.45576
+    },
+    {
+      "date": 1746662400,
+      "totalLiquidityUSD": 794038823.6639099
+    },
+    {
+      "date": 1746707759,
+      "totalLiquidityUSD": 835861093.9138801
     }
   ],
   "isParentProtocol": true,
   "raises": [],
   "metrics": {},
   "symbol": null,
-  "mcap": 12817647.618572803,
+  "mcap": 13880763.071488531,
   "otherProtocols": [
     "Magpie Ecosystem",
     "Eigenpie",
     "Babypie",
     "Penpie",
-    "Cakepie",
     "Radpie",
+    "Cakepie",
     "Hyperpie",
     "Wompie",
     "Listapie"

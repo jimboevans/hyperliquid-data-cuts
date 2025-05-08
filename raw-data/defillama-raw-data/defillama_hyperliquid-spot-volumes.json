@@ -7,18 +7,21 @@
   "logo": "https://icons.llama.fi/hyperliquid.png",
   "gecko_id": "hyperliquid",
   "cmcId": "32196",
-  "chains": [],
+  "chains": [
+    "Hyperliquid L1"
+  ],
   "twitter": "HyperliquidX",
   "github": [
     "hyperliquid-dex"
   ],
   "childProtocols": [
-    "Hyperliquid Spot Orderbook"
+    {}
   ],
   "linkedProtocols": [
     "Hyperliquid",
     "Hyperliquid Spot Orderbook"
   ],
+  "defillamaId": "parent#hyperliquid",
   "disabled": null,
   "displayName": "Hyperliquid",
   "module": null,
@@ -37,10 +40,10 @@
   "latestFetchIsOk": true,
   "slug": "hyperliquid",
   "protocolType": "protocol",
-  "total24h": 156064089,
-  "total48hto24h": 65942651,
-  "total7d": 880162184,
-  "totalAllTime": 32310505959,
+  "total24h": 123317603,
+  "total48hto24h": 148487227,
+  "total7d": 870082727,
+  "totalAllTime": 33485956018,
   "totalDataChart": [
     [
       1726704000,
@@ -929,6 +932,42 @@
     [
       1745798400,
       156064089
+    ],
+    [
+      1745884800,
+      133602416
+    ],
+    [
+      1745971200,
+      171764916
+    ],
+    [
+      1746057600,
+      176430408
+    ],
+    [
+      1746144000,
+      128977405
+    ],
+    [
+      1746230400,
+      102347437
+    ],
+    [
+      1746316800,
+      87201050
+    ],
+    [
+      1746403200,
+      103321597
+    ],
+    [
+      1746489600,
+      148487227
+    ],
+    [
+      1746576000,
+      123317603
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2707,7 +2746,79 @@
           "Hyperliquid Spot Orderbook": 156064089
         }
       }
+    ],
+    [
+      1745884800,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 133602416
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 171764916
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 176430408
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 128977405
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 102347437
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 87201050
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 103321597
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 148487227
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 123317603
+        }
+      }
     ]
   ],
-  "change_1d": 136.67
+  "change_1d": -16.95
 }
