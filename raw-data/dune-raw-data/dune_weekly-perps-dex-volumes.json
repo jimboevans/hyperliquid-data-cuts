@@ -1,12 +1,12 @@
 {
-    "execution_id": "01JTPE1RDEV6XJAX10D032G1HD",
+    "execution_id": "01JV1V686HWSSD5N89H60YRG01",
     "query_id": 4078266,
     "is_execution_finished": true,
     "state": "QUERY_STATE_COMPLETED",
-    "submitted_at": "2025-05-07T22:32:21.167261Z",
-    "expires_at": "2025-08-05T22:32:22.693174Z",
-    "execution_started_at": "2025-05-07T22:32:22.478532Z",
-    "execution_ended_at": "2025-05-07T22:32:22.693173Z",
+    "submitted_at": "2025-05-12T08:53:38.641736Z",
+    "expires_at": "2025-08-10T08:53:51.728501Z",
+    "execution_started_at": "2025-05-12T08:53:50.181733Z",
+    "execution_ended_at": "2025-05-12T08:53:51.728499Z",
     "result": {
         "rows": [
             {
@@ -7951,7 +7951,7 @@
             },
             {
                 "product_name": "GMX V2 Perps",
-                "volume": 844697492,
+                "volume": 844638474,
                 "week": "2024-06-24 00:00:00.000 UTC"
             },
             {
@@ -7976,7 +7976,7 @@
             },
             {
                 "product_name": "Hyperliquid Perps",
-                "volume": 5897748375,
+                "volume": 5991669829,
                 "week": "2024-06-24 00:00:00.000 UTC"
             },
             {
@@ -8016,7 +8016,7 @@
             },
             {
                 "product_name": "Orderly Perps",
-                "volume": 2519360932,
+                "volume": 2557640455,
                 "week": "2024-06-24 00:00:00.000 UTC"
             },
             {
@@ -14681,7 +14681,7 @@
             },
             {
                 "product_name": "DESK Perps",
-                "volume": 102830921,
+                "volume": 103117811,
                 "week": "2025-03-24 00:00:00.000 UTC"
             },
             {
@@ -14716,7 +14716,7 @@
             },
             {
                 "product_name": "JOJO",
-                "volume": 384883979,
+                "volume": 366496794,
                 "week": "2025-03-24 00:00:00.000 UTC"
             },
             {
@@ -14776,7 +14776,7 @@
             },
             {
                 "product_name": "Vertex Perps",
-                "volume": 1748924258,
+                "volume": 1627799790,
                 "week": "2025-03-24 00:00:00.000 UTC"
             },
             {
@@ -15586,113 +15586,243 @@
             },
             {
                 "product_name": "APX Finance",
-                "volume": 182421839,
+                "volume": 1654722685,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Aark Digital",
-                "volume": 430061709,
+                "volume": 1093672743,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Adrena Protocol",
+                "volume": 352655205,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Apex Omni",
-                "volume": 836785594,
+                "volume": 2468860688,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Avantis",
-                "volume": 156014518,
+                "volume": 411679563,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Bluefin Perps",
-                "volume": 115639455,
+                "volume": 250656597,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Drift Trade",
-                "volume": 236491134,
+                "volume": 936272595,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "ELFi Protocol",
+                "volume": 102851466,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Extended",
-                "volume": 155340687,
+                "volume": 654898310,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "FlashTrade",
+                "volume": 116873477,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Fulcrom Perps",
+                "volume": 176447372,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "GMX V2 Perps",
-                "volume": 340570280,
+                "volume": 1645012956,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Gains Network",
+                "volume": 390198567,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "HMX",
-                "volume": 137322787,
+                "volume": 325691738,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Helix Spot",
-                "volume": 249315829,
+                "volume": 663245337,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Hyperliquid Perps",
-                "volume": 15017134215,
+                "volume": 47500995989,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Jupiter Perpetual Exchange",
-                "volume": 1653804636,
+                "volume": 4707548521,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "KiloEx",
-                "volume": 128749966,
+                "volume": 259359833,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "LN Exchange Perps",
+                "volume": 219021066,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "MYX Finance",
-                "volume": 674752140,
+                "volume": 1628816723,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Merkle Trade",
+                "volume": 370202921,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Orderly Perps",
+                "volume": 403807524,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Ostium",
-                "volume": 573413865,
+                "volume": 1084768764,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "PancakeSwap Perps",
+                "volume": 646275772,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Paradex",
-                "volume": 373112864,
+                "volume": 961844761,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "RabbitX",
-                "volume": 467965766,
+                "volume": 1444918697,
+                "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Raydium Perps",
+                "volume": 113629308,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Satori Perp",
-                "volume": 293464948,
+                "volume": 906722538,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "SynFutures V3",
-                "volume": 343173045,
+                "volume": 830803368,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "Vertex Perps",
-                "volume": 1049624018,
+                "volume": 2871988841,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "dYdX (V3+V4)",
-                "volume": 381970899,
+                "volume": 1257870838,
                 "week": "2025-05-05 00:00:00.000 UTC"
             },
             {
                 "product_name": "edgeX",
-                "volume": 650980445,
+                "volume": 1790799275,
                 "week": "2025-05-05 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "APX Finance",
+                "volume": 294642936,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Apex Omni",
+                "volume": 338131137,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Drift Trade",
+                "volume": 164667232,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Extended",
+                "volume": 130773993,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "GMX V2 Perps",
+                "volume": 198637539,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Hyperliquid Perps",
+                "volume": 6494073457,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Jupiter Perpetual Exchange",
+                "volume": 747802029,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "MYX Finance",
+                "volume": 362455324,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Ostium",
+                "volume": 104657155,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "PancakeSwap Perps",
+                "volume": 109421405,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Paradex",
+                "volume": 128853513,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "RabbitX",
+                "volume": 202500636,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Satori Perp",
+                "volume": 158394652,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "Vertex Perps",
+                "volume": 427291975,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "dYdX (V3+V4)",
+                "volume": 148021884,
+                "week": "2025-05-12 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "edgeX",
+                "volume": 246844248,
+                "week": "2025-05-12 00:00:00.000 UTC"
             }
         ],
         "metadata": {
@@ -15706,13 +15836,13 @@
                 "varchar",
                 "double"
             ],
-            "row_count": 3137,
-            "result_set_bytes": 85470,
-            "total_row_count": 3137,
-            "total_result_set_bytes": 85470,
-            "datapoint_count": 9411,
-            "pending_time_millis": 1311,
-            "execution_time_millis": 214
+            "row_count": 3163,
+            "result_set_bytes": 86204,
+            "total_row_count": 3163,
+            "total_result_set_bytes": 86204,
+            "datapoint_count": 9489,
+            "pending_time_millis": 11539,
+            "execution_time_millis": 1546
         }
     }
 }
